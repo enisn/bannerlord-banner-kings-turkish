@@ -1,0 +1,49 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<base xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" type="string">
+	<tags>
+		<tag language="Türkçe" />
+	</tags>
+	<strings>
+		<string id="gaJDVkvHA" text="Placeholder" />
+
+    <string id="bk_law_slave_duties" text="Köle Görevleri" />
+    <string id="bk_law_serf_duties" text="Serf Görevleri" />
+    <string id="bk_law_craftsmen_duties" text="Zanaatkar Görevleri" />
+    <string id="bk_law_noble_duties" text="Soylu Görevleri" />
+    <string id="bk_law_estate_tenure" text="Mülk Sahipliği" />
+    <string id="bk_slavery" text="Kölelik" />
+
+    <string id="bk_rich" text="Zengin" />
+    <string id="bk_adequate" text="Yeterli" />
+    <string id="bk_poor" text="Yoksul" />
+
+    <string id="bk_taxation" text="Vergilendirme" />
+    <string id="bk_drafting" text="Dönüşüm" />
+    <string id="bk_land_expansion" text="Arazi Genişletme" />
+    <string id="bk_production" text="Üretim" />
+
+    <string id="bk_description_clay" text="Kil, tarihi ahşap kadar eski bir geçmişi olan, yapı malzemesi olarak kullanılması uzun bir geleneğe sahiptir. Kıtada oldukça yaygın olan bu malzeme, ahşap tabanlardan daha sağlam bir taban sağlar. Tuğla olarak pişirilebilir ve bu sayede çok yönlü bir malzemedir." />
+    <string id="bk_description_marble" text="Kireçtaşından daha nadir ve daha değerli bir malzeme olan mermer, İmparatorlar tarafından heykeltraşlık için oyulabilen yumuşak bir malzeme olarak keşfedildi. Bu özellik, malzemenin doğal güzelliği ile birleşince, onu çok aranan bir malzeme haline getirdi. Saraylar ve forumlar gibi daha gösterişli binalarda zenginliği ve gücü yansıtmak için sıkça kullanılır." />
+
+    <string id="bk_description_hardwood" text="Yapı malzemelerinin özü olan, insanların yapacaklarını yazmadan önce kullandığı malzemelerin başında gelir. Sadece yapıların tamamını inşa etmekle kalmaz, aynı zamanda kil veya kireçtaşı gibi daha sağlam tabanlar üzerine yapılmış yapıları da tamamlar." />
+    <string id="bk_description_limestone" text="Kireçtaşı, taş binaların, duvarların ve yolların sağlam bir malzemesi olarak hizmet veren yaygın bir mineraldir. Yaygın olmasına rağmen, ahşap veya kil kullanmaktan daha maliyetli çıkarılır ve taşınır." />
+
+    <string id="bk_limestone" text="Kireçtaşı{@Plural}kireçtaşı blokları{\@}" />
+    <string id="bk_gold" text="Altın{@Plural}yük altın yükleri{\@}" />
+    <string id="bk_mead" text="Bal kabağı{@Plural}meşrubat fıçıları{\@}" />
+    <string id="bk_marble" text="Mermer{@Plural}mermer blokları{\@}" />
+
+    <string id="bk_primogeniture" text="Büyük oğul mirası" />
+    <string id="bk_ultimogeniture" text="Küçük oğul mirası" />
+    <string id="bk_seniority" text="En yaşlıya göre miras" />
+    <string id="bk_republic" text="Cumhuriyet" />
+    <string id="bk_imperial" text="İmparatorluk" />
+    <string id="bk_feudal" text="Feodal" />
+    <string id="bk_tribal" text="Kabile" />
+    <string id="bk_agnatic" text="Baba hattına dayalı" />
+    <string id="bk_cognatic" text="Anneye ve babaya dayalı" />
+    <string id="bk_hereditary_monarchy" text="Kalıtsal Monarşi" />
+    <string id="bk_elective_monarchy" text="Seçimle belirlenen Monarşi" />
+	</strings>
+</base>
