@@ -309,7 +309,7 @@
     <string id="5Wpq8YxN" text="Vergi politikasına göre, özel mülkiyet kölelerinin çalışmaları devlet tarafından vergilendirilecek ve ekstra gelir elde edilecektir.Köle sahipleri memnun olmayacak. " />
     <string id="qGB6RG9a" text="Vergi Özel Köleler " />
     <string id="TkkCkCWZ" text="{SUZERAIN} Süzereninize askeri yardım görevinizi yerine getiremediniz. Sonuç olarak, klanınızın ünlüsü acı çekti ve Suzerain ile ilişkiniz {RELATION} tarafından değişti." />
-    <string id="5OYuLkYg" text="Suzerain'iniz {SUZERAIN}, sözleşme yükümlülüklerinizi yerine getirmenizi ve fidye telafisini telafi etmek için ona {RANSOM} altın ödemenizi istedi. Ödemek için {REMAINING} günleriniz kaldı." />
+    <string id="5OYuLkYg" text="Süzereniniz {SUZERAIN}, sözleşme yükümlülüklerinizi yerine getirmenizi ve fidye telafisini telafi etmek için ona {RANSOM} altın ödemenizi istedi. Ödemek için {REMAINING} günleriniz kaldı." />
     <string id="iykxiy3G" text="{NEW}, miras yasaları nedeniyle {ORIGINAL} 'den dalmıştır." />
     <string id="ytkncUx3" text="{HEIR} haklı olarak {TITLE} " />
     <string id="AQr3XGhg" text="Ağır pulluk " />
@@ -320,7 +320,7 @@
     <string id="REqhxzYi" text="Artan tarım arazisi çıkışı%25 " />
     <string id="d3aY0Bbb" text="Bayındırlık İşleri " />
     <string id="ZgrePk7u" text="Devletin kamu altyapısına odaklanmış çabalar, yeni ve mevcut binaların daha da geliştirilmesine izin veriyor. " />
-    <string id="cZnMgVyr" text="Yerleşimlerdeki altyapı sınırını düz 3 " /> genişletir
+    <string id="cZnMgVyr" text="Yerleşimlerdeki altyapı sınırını düz 3 genişletir." />
     <string id="5BfW3TXX" text="Vinçler" />
     <string id="eTdq7KvZ" text="Yüksek hacimleri veya malzemenin ağırlığını dikey olarak taşıyabilen mekanizma.Vinçler, şantiyelere ve ticaret merkezlerine verimlilik ekleyerek üretim çıktısını önemli ölçüde artırır." />
     <string id="ESfXzpNq" text="İnşaat Projeleri Hızını İyileştirir (%12) \ Noprese Üretim Verimliliği (%6)" />
@@ -440,39 +440,39 @@
     <string id="8XeyqTNh" text="Yerel bağlantılar" />
     <string id="jhZ8TFCB" text="Paralı asker olarak hizmet ederken, kasabalardaki yerel küçük gruplardan işe alma yeteneği kazanın." />
     <string id="JMubUFej" text="Paralı askerleri işe almak %10 daha ucuzdur." />
-    <string id="n9ZMPe6w" text="Ransacker" />
-    <string id="TAfrnnO4" text="Gain 10% more share of loot in victories." />
-    <string id="976FNbqA" text="Famous Sellswords" />
-    <string id="35Mq4ASE" text="Renown award for victories increased by 20%." />
-    <string id="mnpTkVYf" text="Faithful" />
-    <string id="8zbXJZWL" text="Piety gain is increased by +0.2 daily." />
-    <string id="TYjyR0Ls" text="Religious notables' volunteers may be recruited." />
-    <string id="hmysbhA8" text="Blessed" />
-    <string id="p2ekwXZR" text="Blessings last a season longer." />
-    <string id="CsHxKFue" text="Blessings cost 10% less piety." />
-    <string id="jAXfadxv" text="Religious Teachings" />
-    <string id="c7v8hrEa" text="Children receive 1 extra Wisdom when becoming adults." />
-    <string id="yctR4vY6" text="Daily experience points in Theology for companions and family in party." />
-    <string id="9TwjtYhb" text="Preacher" />
-    <string id="or8rXdjy" text="Rites Of Passage" />
-    <string id="mbfGsOCE" text="Rites can be performed again 1 season sooner." />
-    <string id="aTGOhnQS" text="Rites yield 5 renown." />
-    <string id="4hNMnjUh" text="Randomly receive relations with religious notables in your settlements." />
-    <string id="kb6BZ0EY" text="Some unspecified settlement impact" />
-    <string id="uVzu9bd1" text="Traditionalist" />
-    <string id="rEZSUexA" text="Increased cultural assimilation speed by 10%" />
-    <string id="bqxzRYLB" text="Increased militarism in assimilated settlements by flat 1%" />
-    <string id="G8gRRBpj" text="Adaptive" />
-    <string id="PseNxgTc" text="Reduced loyalty bonus from different cultures by 15%" />
-    <string id="EVeiLBOF" text="Increased settlement stability target by flat 2%" />
-    <string id="o6kuCQHW" text="Accolade" />
-    <string id="KynB5Njq" text="Knighting requires 15% less influence" />
-    <string id="ZzDmAkN4" text="Vassal limit increased by 1" />
-    <string id="XUu53n1F" text="Manor Lord" />
-    <string id="uanVb5h8" text="Villages weigh 20% less in demesne limit" />
-    <string id="kJD93Rh2" text="Manors provide extra flat 0.2 influence" />
-    <string id="wzJW8mFC" text="Military Administration" />
-    <string id="tqWtfNch" text="Increased settlement militarism in settlements by flat 2%" />
+    <string id="n9ZMPe6w" text="Yağmacı" />
+    <string id="TAfrnnO4" text="Zaferlerde %10 daha fazla ganimet kazanın." />
+    <string id="976FNbqA" text="Ünlü Paralı Asker" />
+    <string id="35Mq4ASE" text="Zaferlerde şöhret kazanımı 20% artar." />
+    <string id="mnpTkVYf" text="Sadık" />
+    <string id="8zbXJZWL" text="Dindarlık kazancı günde +0.2 arttırılır." />
+    <string id="TYjyR0Ls" text="Dini önemlilerin gönüllüleri işe alınabilir." />
+    <string id="hmysbhA8" text="Kutsanmış" />
+    <string id="p2ekwXZR" text="Kutsama bir sezon daha uzun sürer." />
+    <string id="CsHxKFue" text="Kutsamak %10 daha az dindarlık gerektirir." />
+    <string id="jAXfadxv" text="Dini öğretiler" />
+    <string id="c7v8hrEa" text="Çocuklar yetişkin olurken 1 ekstra bilgelik alırlar." />
+    <string id="yctR4vY6" text="Partideki yoldaşlar ve aile için teolojide günlük deneyim puanları." />
+    <string id="9TwjtYhb" text="Vaiz" />
+    <string id="or8rXdjy" text="Geçit Törenleri" />
+    <string id="mbfGsOCE" text="Ayinler 1 sezon daha erken gerçekleştirilebilir." />
+    <string id="aTGOhnQS" text="Ayinler 5 şöhret getirir." />
+    <string id="4hNMnjUh" text="Yerleşim yerlerinizde dini önemli olanlarla rastgele ilişkiler alın." />
+    <string id="kb6BZ0EY" text="Belirtilmemiş bazı yerleşim etkileri" />
+    <string id="uVzu9bd1" text="Gelenekçi" />
+    <string id="rEZSUexA" text="Kültürel asimilasyon hızı %10 artar" />
+    <string id="bqxzRYLB" text="Asimile edilmiş yerleşim yerlerinde milisler %1 artar" />
+    <string id="G8gRRBpj" text="Adaptif" />
+    <string id="PseNxgTc" text="Farklı kültürlerden sadakat bonusu %15 azaltıldı" />
+    <string id="EVeiLBOF" text="Yerleşim kararlılığı hedefi sabit %2 artırıldı" />
+    <string id="o6kuCQHW" text="Övgü" />
+    <string id="KynB5Njq" text="Şovalye unvalı verme %15 daha az nüfuz gerektirir" />
+    <string id="ZzDmAkN4" text="Vasal limiti 1 artar" />
+    <string id="XUu53n1F" text="Malikane Lordu" />
+    <string id="uanVb5h8" text="Yerleşke limitinde köylerin ağırlığı %20 daha az olur" />
+    <string id="kJD93Rh2" text="Malikaneler ekstra 0.2 nüfuz sağlar" />
+    <string id="wzJW8mFC" text="Askeri Yönetim" />
+    <string id="tqWtfNch" text="Yerel milisler, yerleşkede %2 artar." />
     <string id="6hRejPPe" text="Increased settlement drafting speed by 20%" />
     <string id="SEB2hNAG" text="Economic Administration" />
     <string id="w2KEdfGJ" text="Increased settlement production efficiency by 10%" />
@@ -552,82 +552,82 @@
     <string id="PSrEtF5L" text="Devlet" />
     <string id="kfYELUGY" text="{TITLE}" />
     <string id="ouK35RSP" text="{SETTLEMENT}{DEJURE}" />
-    <string id="Jh6FdJFE" text="En yüksek başlık seviyesi " />
-    <string id="eTMvobFw" text="Egemenlik unvanı zaten var. " />
-    <string id="Z2tSyHfC" text="Mevcut fraksiyonun lideri değil. " />
-    <string id="t8HXoFk7" text="Zaten bir jure egemenken bir krallık bulamıyor. " />
-    <string id="Ac5LJzsc" text="De Jure Duke seviyesi unvanı olmayan bir krallık bulamıyor. " />
-    <string id="ZTj1JVuN" text="3 klanı olan bir fraksiyon için bir krallık bulamıyor. " />
-    <string id="oXeDiAaA" text="Gerekli kaynaklardan yoksun. " />
-    <string id="sPvMf4oj" text="Zaten yasal sahibi. " />
-    <string id="KR2fio4X" text="Olası bir davacı değil. " />
-    <string id="O5tRmhZA" text="Zaten bir iddia oluşturuyor. " />
-    <string id="B5JQcObq" text="Zaten bir davacı. " />
-    <string id="2LK3kist" text="Sahibi aynı klanda. " />
-    <string id="u43RH5cY" text="Bir şövalyenin lordluğunu fraksiyonunuzda talep etmek mümkün değil. " />
-    <string id="99QF9LyL" text="Suzerain unvanına sahip olmadan lordları talep etmek mümkün değil. " />
-    <string id="zuKjwXH6" text="Gerekli kaynakları eksik. " />
-    <string id="zMnXdAxp" text="Bu unvanı talep edebilirsiniz. " />
-    <string id="OAgroH3G" text="Diyarınızın dışındaki bir Lord unvanını iptal edemez. " />
-    <string id="duRc8Vrs" text="Kabile hükümeti iptal edilmesine izin vermez. " />
-    <string id="w7b5SE48" text="Jure fraksiyon lideri değil. " />
-    <string id="Mk29oGgs" text="Doğrudan bir vasal değil. " />
-    <string id="1DGBGp8e" text="Üstün hiyerarşinin efendisinden iptal edilemez. " />
-    <string id="f5Be67QF" text="Bu unvanı verebilirsiniz. " />
-    <string id="CK4rr7yZ" text="Yasal sahibi değil. " />
-    <string id="0SQXdrDP" text="Landed unvanın gerçek sahibi değil. " />
-    <string id="dW8WA6PG" text="Krallık'ta geçerli aday yok. " />
-    <string id="97ZWDaBP" text="Kişinin ana unvanını vermek mümkün değil. " />
-    <string id="Uw7dMzA4" text="Klan yok. " />
-    <string id="PsLzYkAz" text="Klan katmanı yetersizdir. " />
-    <string id="2wBj94FG" text="Hiyerarşideki en yüksek unvanı gasp etmek için hizip lideri olmalıdır. " />
+    <string id="Jh6FdJFE" text="En yüksek başlık seviyesi" />
+    <string id="eTMvobFw" text="Egemenlik unvanı zaten var." />
+    <string id="Z2tSyHfC" text="Mevcut fraksiyonun lideri değil." />
+    <string id="t8HXoFk7" text="Zaten bir jure egemenken bir krallık bulamıyor." />
+    <string id="Ac5LJzsc" text="De Jure Duke seviyesi unvanı olmayan bir krallık bulamıyor." />
+    <string id="ZTj1JVuN" text="3 klanı olan bir fraksiyon için bir krallık bulamıyor." />
+    <string id="oXeDiAaA" text="Gerekli kaynaklardan yoksun." />
+    <string id="sPvMf4oj" text="Zaten yasal sahibi." />
+    <string id="KR2fio4X" text="Olası bir davacı değil." />
+    <string id="O5tRmhZA" text="Zaten bir iddia oluşturuyor." />
+    <string id="B5JQcObq" text="Zaten bir davacı." />
+    <string id="2LK3kist" text="Sahibi aynı klanda." />
+    <string id="u43RH5cY" text="Bir şövalyenin lordluğunu fraksiyonunuzda talep etmek mümkün değil." />
+    <string id="99QF9LyL" text="Suzerain unvanına sahip olmadan lordları talep etmek mümkün değil." />
+    <string id="zuKjwXH6" text="Gerekli kaynakları eksik." />
+    <string id="zMnXdAxp" text="Bu unvanı talep edebilirsiniz." />
+    <string id="OAgroH3G" text="Diyarınızın dışındaki bir Lord unvanını iptal edemez." />
+    <string id="duRc8Vrs" text="Kabile hükümeti iptal edilmesine izin vermez." />
+    <string id="w7b5SE48" text="Jure fraksiyon lideri değil." />
+    <string id="Mk29oGgs" text="Doğrudan bir vasal değil." />
+    <string id="1DGBGp8e" text="Üstün hiyerarşinin efendisinden iptal edilemez." />
+    <string id="f5Be67QF" text="Bu unvanı verebilirsiniz." />
+    <string id="CK4rr7yZ" text="Yasal sahibi değil." />
+    <string id="0SQXdrDP" text="Landed unvanın gerçek sahibi değil." />
+    <string id="dW8WA6PG" text="Krallık'ta geçerli aday yok." />
+    <string id="97ZWDaBP" text="Kişinin ana unvanını vermek mümkün değil." />
+    <string id="Uw7dMzA4" text="Klan yok." />
+    <string id="PsLzYkAz" text="Klan katmanı yetersizdir." />
+    <string id="2wBj94FG" text="Hiyerarşideki en yüksek unvanı gasp etmek için hizip lideri olmalıdır." />
     <string id="5ysthcWa" text="Haklı bir iddia yok." />
     <string id="WDHTvasY" text="{NOTABLE} 'dan yardım" />
     <string id="6keRYbQa" text="{CLAN} vergileri" />
-    <string id="r1iYHSWx" text="Ordu Tazminat Hakları " />
-    <string id="WvhXhUFS" text="Meclis Üyesi Rolü " />
+    <string id="r1iYHSWx" text="Ordu Tazminat Hakları" />
+    <string id="WvhXhUFS" text="Meclis Üyesi Rolü" />
     <string id="tYO5xwVe" text="Yaşam tarzı" />
     <string id="rU692V1m" text="{SUZERAIN} için vergiler" />
-    <string id="fNiANUo4" text="Yüksek Sadakat " />
-    <string id="fETzfZzS" text="Düşük sadakat " />
-    <string id="usk5UNRE" text="Pazardan inşaat " />
-    <string id="2KOc0Wmu" text="Çok düşük sadakat " />
-    <string id="bLbvfBnb" text="Toplam nüfus " />
-    <string id="8EX6VriS" text="İşgücü " />
-    <string id="5eHCGMEK" text="Mercantilizm " />
-    <string id="ciXU8Ews" text="Mercantilizm " />
-    <string id="FK7QzVtM" text="Karavan cazibe " />
-    <string id="m66LFb9g" text="Militarizm " />
-    <string id="3JzB3jVw" text="Nüfus tüketimi " />
-    <string id="AOdwTPTa" text="Nüfus üretimi " />
-    <string id="3hEk7Bdk" text="Pazar tüketimi " />
-    <string id="w6bLP4DB" text="Rasyonların Kararını Uygulama " />
-    <string id="j0bzPuzg" text="Kale rasyonları " />
-    <string id="zMPm162W" text="Tarım arazileri " />
-    <string id="ngRhXYj1" text="Pasturelands " />
-    <string id="qPQ7HKgG" text="Woodlands " />
-    <string id="KcNcxeMK" text="Doğurganlık " />
-    <string id="DEhtngoL" text="Garnizon politikası " />
-    <string id="RkKAd2Yp" text="Genel dikkate değer destek " />
-    <string id="qJbYtZjH" text="Genel yerleşim özerkliği " />
-    <string id="UHyznyEy" text="Malikâne " />
-    <string id="fa3Dmxdo" text="Beceri Odağı " />
-    <string id="LHFoaUGo" text="Sahip kültürü " />
-    <string id="fZYeszid" text="Geçit Töreni Perk Bonusu " />
-    <string id="fVeD8UC2" text="Valinin Kültürü " />
-    <string id="qyjqPWxJ" text="Ceza Politikası " />
-    <string id="c6pesaYL" text="Eğitim alanları " />
-    <string id="UPhMZ859" text="Kale " />
-    <string id="esr9rn30" text="Köy " />
-    <string id="FO8mvaZJ" text="Kasaba " />
+    <string id="fNiANUo4" text="Yüksek Sadakat" />
+    <string id="fETzfZzS" text="Düşük sadakat" />
+    <string id="usk5UNRE" text="Pazardan inşaat" />
+    <string id="2KOc0Wmu" text="Çok düşük sadakat" />
+    <string id="bLbvfBnb" text="Toplam nüfus" />
+    <string id="8EX6VriS" text="İşgücü" />
+    <string id="5eHCGMEK" text="Mercantilizm" />
+    <string id="ciXU8Ews" text="Mercantilizm" />
+    <string id="FK7QzVtM" text="Karavan cazibe" />
+    <string id="m66LFb9g" text="Militarizm" />
+    <string id="3JzB3jVw" text="Nüfus tüketimi" />
+    <string id="AOdwTPTa" text="Nüfus üretimi" />
+    <string id="3hEk7Bdk" text="Pazar tüketimi" />
+    <string id="w6bLP4DB" text="Rasyonların Kararını Uygulama" />
+    <string id="j0bzPuzg" text="Kale rasyonları" />
+    <string id="zMPm162W" text="Tarım arazileri" />
+    <string id="ngRhXYj1" text="Pasturelands" />
+    <string id="qPQ7HKgG" text="Woodlands" />
+    <string id="KcNcxeMK" text="Doğurganlık" />
+    <string id="DEhtngoL" text="Garnizon politikası" />
+    <string id="RkKAd2Yp" text="Genel dikkate değer destek" />
+    <string id="qJbYtZjH" text="Genel yerleşim özerkliği" />
+    <string id="UHyznyEy" text="Malikâne" />
+    <string id="fa3Dmxdo" text="Beceri Odağı" />
+    <string id="LHFoaUGo" text="Sahip kültürü" />
+    <string id="fZYeszid" text="Geçit Töreni Perk Bonusu" />
+    <string id="fVeD8UC2" text="Valinin Kültürü" />
+    <string id="qyjqPWxJ" text="Ceza Politikası" />
+    <string id="c6pesaYL" text="Eğitim alanları" />
+    <string id="UPhMZ859" text="Kale" />
+    <string id="esr9rn30" text="Köy" />
+    <string id="FO8mvaZJ" text="Kasaba" />
     <string id="nPBwLDwE" text="Milisleri sübvanse et " />
-    <string id="7Ttux0dr" text="Gıda Kıtlığı " />
+    <string id="7Ttux0dr" text="Gıda Kıtlığı" />
     <string id="3kMgpxc0" text="Piyasadan Mallar " />
     <string id="DyZdcwa4" text="Vali" />
     <string id="zYjK6Kzb" text="Konut maliyetleri" />
     <string id="5mCY3JCP" text="{CLASS} çıktısı" />
-    <string id="xMsWoSnL" text="Autonomy" />
-    <string id="2z4YQTuu" text="Draft policy" />
+    <string id="xMsWoSnL" text="Özerklik" />
+    <string id="2z4YQTuu" text="Politika tasarısı" />
     <string id="wvmCvE74" text="İstatistikler" />
     <string id="vKtLDRp6" text="Suç" />
     <string id="91fEPp8b" text="Konsey Üyesi Seçin" />
@@ -709,30 +709,30 @@
     <string id="ph4LMn6k" text="Şövalyeler" />
     <string id="a3G31iZ0" text="Yoldaşlar" />
     <string id="mUaJDjqO" text="Konsey" />
-    <string id="K7hq6hSE" text="Owned Caravans:" />
-    <string id="2qcNKU3J" text="Owned Workshops:" />
-    <string id="jQa22yjg" text="Title Level:" />
-    <string id="43UgU7C4" text="Income:" />
-    <string id="Locuup55" text="Expenses:" />
-    <string id="oHJ6Y66V" text="Demesne limit describes how many settlements you may own without negative implications. Different settlement types have different weights, villages being the lowest, towns being the highest. Being over the limit reduces stability across all your settlements. Owning a settlement's title will reduce it's weight." />
-    <string id="XAvCOvv4" text="Unlanded demesne limit describes how many unlanded titles you may own. Unlanded titles are titles such as dukedoms and kingdoms - titles not directly associated with a settlement. Dukedoms have the lowest weight while empires have the biggest. Being over the limit progressively reduces relations with your vassals." />
-    <string id="nhBf1JY5" text="Vassal limit is how many vassals you may have without negative consequences. Vassals are clans whose highest title are under your own (ie, a barony title under your county title, or knight clans with a single lordship) or knights in your clan. Knights only weight 0.5 towards the limit, while clan leaders weight 1. Companions and family members do not count. Being over the limit progressively reduces your influence gain." />
+    <string id="K7hq6hSE" text="Sahip olunan karavanlar:" />
+    <string id="2qcNKU3J" text="Sahip olunan atölyeler:" />
+    <string id="jQa22yjg" text="Unvan Seviyesi:" />
+    <string id="43UgU7C4" text="Gelir:" />
+    <string id="Locuup55" text="Gider:" />
+    <string id="oHJ6Y66V" text="Yerleşke Limiti, olumsuz çıkarımlar olmadan kaç tane yerleşime sahip olabileceğinizi açıklar. Farklı yerleşim türlerinin farklı ağırlıkları vardır, köyler en düşük, şehirler en yüksek. Limitin üzerinde olmak, tüm yerleşim yerlerinizde istikrarı azaltır. Bir yerleşimin unvanına sahip olmak ağırlığını azaltacaktır." />
+    <string id="XAvCOvv4" text="Topraksız yerleşke limiti, kaç tane topraksız yerleşke unvanına sahip olabileceğinizi başlığı tanımlar. Topraksız unvanlar, düklükler ve krallıklar gibi unvanlardır - bir yerleşim yeri ile doğrudan ilişkili olmayan unvanlar. Düklükler en düşük ağırlığa sahipken, imparatorluklar en büyük ağırlığa sahiptir. Sınırı aşmak, vasallarınızla olan ilişkileri aşamalı olarak azaltır." />
+    <string id="nhBf1JY5" text="Vassal sınırı, olumsuz sonuçlar olmadan kaç tane vasalınız olabileceğidir. Vassallar, en yüksek unvanı size ait olan klanlar (yani, bölge unvanınız altında bir baronluk unvanı veya tek bir lordluğa sahip şövalye klanları) veya klanınızdaki şövalyelerdir. Şövalyeler sınıra doğru yalnızca 0,5 ağırlıktayken, klan liderleri 1 ağırlıktadır. Yoldaşlar ve aile üyeleri sayılmaz. Sınırı aşmak, etki kazancınızı aşamalı olarak azaltır." />
     <string id="ez3NzFgO" text="{TEXT}\n{EXPLANATIONS}" />
-    <string id="rHXu32s5" text="Describes the quality of products produced in this settlement. Higher quality means workshops are more likely to produce goods with positive modifiers, therefore yielding a higher income. Because better products are more expensive, more money is extracted from caravans into market gold and the owner's tariff. This is also a factor in workshop prices." />
-    <string id="0z7FL2oe" text="The speed at which workshops produce goods, affected by kingdom policies and craftsmen" />
-    <string id="tOk3vpRY" text="Represents how economicaly free craftsmen, tradesmen and guilds are. Increased mercantilism reduces the tax revenue of these, but allows them to accumulate wealth or contribute more to overall prosperity." />
-    <string id="GDiY2iFh" text="How attractive this town is for caravans. Likelihood of caravan visits are dictated mainly by prices, and attractiveness is a factor added on top of that." />
-    <string id="AyyuwpBd" text="The maximum number of militiamen this settlement can support, based on it's population." />
-    <string id="xQbPBzgn" text="Chance of militiamen being spawned as veterans instead of recruits." />
-    <string id="MYdkfodC" text="The total manpower of nobles plus peasants." />
-    <string id="08n0UTDS" text="Manpower from noble population. Noble militarism is higher, but nobles often are less numerous. These are drafted as noble recruits." />
-    <string id="uaEXD3tE" text="Manpower from serf and craftsmen classes. These are drafted as cultural non-noble recruits." />
-    <string id="MHFeNBXS" text="How much the population is willing or able to militarily serve. Militarism increases the manpower caps." />
-    <string id="g5NdEeBX" text="How quickly volunteer availability in notables replenishes." />
-    <string id="Uw3xBMKd" text="{TEXT}\nTarget: {TARGET}\n{EXPLANATIONS}" />
-    <string id="MKfkuKiS" text="The overall stability of this settlement, affected by security, loyalty, assimilation and whether you are legally entitled to the settlement. Stability is the basis of economic prosperity." />
-    <string id="mVTYGkNP" text="Represents how much the local elite supports you. Support of each notable is weighted on their power, meaning that not having the support of a notable that holds most power will result in a small support percentage. Support is gained through better relations with the notables." />
-    <string id="8mSDgwhX" text="Bu yerleşimin aleminizde sağladığı etki miktarı. " />
+    <string id="rHXu32s5" text="Bu yerleşimde üretilen ürünlerin kalitesini açıklar. Daha yüksek kalite, atölyelerin daha iyi ürünler üretme olasılığının daha yüksek olduğu ve dolayısıyla daha yüksek gelir sağladığı anlamına gelir. Daha iyi ürünler daha pahalı olduğu için, kervanlardan piyasa altına ve mal sahibinin tarifesine daha fazla para çekilir. Bu da atölye fiyatlarında etkendir." />
+    <string id="0z7FL2oe" text="Krallık politikalarından ve zanaatkarlardan etkilenen atölyelerin mal üretme hızı" />
+    <string id="tOk3vpRY" text="Esnaf, esnaf ve loncaların ekonomik olarak ne kadar özgür olduğunu ifade eder. Artan merkantilizm(ticaret anlayışı), bunların vergi gelirlerini azaltır, ancak servet biriktirmelerine veya genel refaha daha fazla katkıda bulunmalarına izin verir." />
+    <string id="GDiY2iFh" text="Kasabanın kervanlar için çekiciliği. Kervan ziyaretlerinin olasılığını esas olarak fiyatlar belirlemektedir ve çekicilik buna eklenen bir faktördür." />
+    <string id="AyyuwpBd" text="Nüfusuna bağlı olarak bu yerleşim yerinin destekleyebileceği maksimum milis sayısı." />
+    <string id="xQbPBzgn" text="Milislerin asker yerine yetenekli asker olarak doğma olasılığı." />
+    <string id="MYdkfodC" text="Soyluların ve köylülerin toplam insan gücü." />
+    <string id="08n0UTDS" text="Soylu nüfusundan insan gücü. Soylu militarizm daha yüksektir, Ancak soylular çoğu zaman çok daha azdır. Bunlar soylu silahlandırma olarak hazırlanmıştır." />
+    <string id="uaEXD3tE" text="Serf ve zanaatkar sınıflarından insan gücü. Bunlar kültürel isimsiz silahlandırma olarak hazırlanmıştır." />
+    <string id="MHFeNBXS" text="Nüfusun askerlik hizmetine ne kadar istekli veya mümkün olduğu. Militarizm insan gücü limitlerini arttırır." />
+    <string id="g5NdEeBX" text="Önde gelenlerin gönüllü birliklerinin ne kadar sıklıkla yenileneceği." />
+    <string id="Uw3xBMKd" text="{TEXT}\nHedef: {TARGET}\n{EXPLANATIONS}" />
+    <string id="MKfkuKiS" text="Güvenlik, sadakat, asimilasyon ve yasal olarak yerleşim hakkınız olup olmadığı bu yerleşimin genel istikrarını etkiler. İstikrar, ekonomik refahın temelidir." />
+    <string id="mVTYGkNP" text="Yerel seçkinlerin sizi ne kadar desteklediğini gösterir. Her bir eşrafın desteği, güçlerine göre ağırlıklandırılır, yani en fazla güce sahip olan bir eşrafın desteğine sahip olmamak, küçük bir destek yüzdesiyle sonuçlanacaktır. Eşrafla daha iyi ilişkiler kurularak destek sağlanır." />
+    <string id="8mSDgwhX" text="Bu yerleşimin aleminizde sağladığı etki miktarı." />
     <string id="W4xpFozW" text="Genel Bakış " />
     <string id="7ELr3vXm" text="Askeri " />
     <string id="6QMDGRSt" text="Demesne " />
@@ -773,18 +773,18 @@
     <string id="brxz2SmN" text="Vakken" />
     <string id="of43diPd" text="Fian" />
     <string id="RWrMBAbv" text="Cataphract" />
-    <string id="y2zNEeT5" text="Increased renown from victories by {EFFECT1}%\n" />
+    <string id="y2zNEeT5" text="Zaferlerden kazanılan şöhreti %{EFFECT1} arttırır.\n" />
     <string id="uc7xjTQv" text="Diplomat" />
     <string id="wAPqOuBe" text="August" />
     <string id="H1igmZMn" text="1 knight less is counted towards vassal limit\nTrade penalty increased by {EFFECT2}%" />
-    <string id="EJEkuBZ4" text="Civil Administrator" />
-    <string id="sCxt8vV7" text="Reduced demesne weight of towns by {EFFECT1}%\nParty size reduced by {EFFECT2}" />
-    <string id="F5aAvvhD" text="Caravaneer" />
-    <string id="1UEN6xUV" text="Reduced trade penalty by {EFFECT1}%\nReduced speed during nighttime by {EFFECT2}%" />
-    <string id="RUtaPqBv" text="Artisan" />
-    <string id="mV7M6SgW" text="Chance of botching items when smithing reduced by {EFFECT1}%\n{EFFECT2}%" />
-    <string id="gkaq9L2T" text="Bandit troops are {EFFECT1}% faster on map\nRandomly lose relations with heroes that disapprove criminality when leaving dialogue" />
-    <string id="mAta6M84" text="Reduced demesne weight of towns by {EFFECT1}%\nSettlement stability reduced by {EFFECT2}%" />
+    <string id="EJEkuBZ4" text="Halk Yöneticisi" />
+    <string id="sCxt8vV7" text="Kasabaların yerleşke ağırlığı %{EFFECT 1} azaltıldı\nParti büyüklüğü {EFFECT 2} azaltıldı." />
+    <string id="F5aAvvhD" text="Kervancıbaşı" />
+    <string id="1UEN6xUV" text="Ticaret cezası %{EFFECT1} azaltıldı\nGece saatlerinde hız %{EFFECT2} azaltıldı" />
+    <string id="RUtaPqBv" text="Zanaatkâr" />
+    <string id="mV7M6SgW" text="Demircilik yaparken eşyaları mahvetme şansı %{EFFECT1} azaltıldı\n%{EFFECT2}" />
+    <string id="gkaq9L2T" text="Haydut birlikleri haritada %{EFFECT1} daha hızlı\nSuçluluğu onaylamayan kahramanlara karşı diyalogdan çıkarken rastgele bir şekilde ilişki kaybedersiniz." />
+    <string id="mAta6M84" text="Kasabaların yerleşke ağırlığı %{EFFECT1} azaltıldı\nYerleşim kararlılığı %{EFFECT2} azaltıldı" />
     <string id="sccoC5ta" text="Kheshig" />
     <string id="4pYayWGi" text="Varyag" />
     <string id="xtrVWoWG" text="You have received the {PERK} perk from the {LIFESTYLE} lifestyle." />
