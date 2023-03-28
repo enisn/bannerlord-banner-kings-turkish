@@ -144,7 +144,7 @@
     <string id="dFTm4AbE" text="{TITLE} unvanı, {FOUNDER} tarafından kuruldu." />
     <string id="c9RCCv20" text="{USURPER}, {TITLE} unvanını gasp etti." />
     <string id="ZAjBRwSY" text="{USURPER}, {TITLE} unvanınızı gasp etti." />
-    <string id="KkbAZK46" text="Adept" />
+    <string id="KkbAZK46" text="Usta" />
     <string id="Zwkc1Qbx" text="Yetenekli" />
     <string id="oJCm9gDS" text="Acemi" />
     <string id="DAp3eXTr" text="Yetersiz" />
@@ -542,7 +542,7 @@
     <string id="1ssSRbe5" text="Dil sınırının üzerinde" />
     <string id="vRMD0fdw" text="{LANGUAGE} akıcılık" />
     <string id="pJAF5pzO" text="Soylular" />
-    <string id="d0YJZ6Z1" text="Zanaatkar" />
+    <string id="d0YJZ6Z1" text="Esnaf" />
     <string id="AfsRi9wL" text="Heves" />
     <string id="tKhBP7mF" text="Sahibinin İnancı" />
     <string id="cVOU505N" text="istikrar" />
@@ -751,7 +751,7 @@
     <string id="6NYxLhjH" text="Bu inançla ilişkili ana kültür. " />
     <string id="tpH62HBy" text="Sözleşme " />
     <string id="yRn9AcwU" text="Bu krallığın kendisine katılan Lordlar tarafından imzalanan sözleşmesini gözden geçirin. " />
-    <string id="nbV21qZv" text="Krallık bulundu " />
+    <string id="nbV21qZv" text="Krallık Kur " />
     <string id="jeNEcVGi" text="Hükümet yapısında, uzlaşma yönetişiminin izin verilen ardıllık biçimlerini ve yönlerini değiştirerek bir değişiklik önermek.Hükümet seçimine bağlı olarak, uygun bir ardıllık türü de uygulanacaktır." />
     <string id="rTUgik07" text="Veraset" />
     <string id="ie9VdKpd" text="Bir sonraki hükümdarın nasıl seçileceğini değiştirerek diyarın verasetinde bir değişiklik önerin." />
@@ -788,7 +788,7 @@
     <string id="sccoC5ta" text="Kheshig" />
     <string id="4pYayWGi" text="Varyag" />
     <string id="xtrVWoWG" text="{LIFESTYLE} yaşam tarzından {PERK} avantajını aldınız." />
-    <string id="cZzO6kya" text="Imperium Calradium'u yeniden kurun" />
+    <string id="cZzO6kya" text="Imperium Calradium'u Kur" />
     <string id="WCde02Um" text="Eski Kalradya İmparatorluğunu yeniden kurun.İmparatorluk, net bir varisi olmayan İmparator Arenicos ölmeden önce kıtanın çoğunu kapsıyordu. İmparatorluğu reforme ederek, hak iddia edenlerin geçerliliğini ortadan kaldırırsınız ve önünüzde büyüklük için yeni bir yol uzanır. Tüm imparatorluk düklüklerini krallığınızın kontrolü altına almalısınız.\n\n" />
     <string id="1AwUwbfQ" text="Bu unvan zaten oluşturuldu! De Jure {DE_JURE.LINK} ve de Facto {DE_FACTO.LINK}." />
     <string id="3KoOfniE" text="En az {GOLD}{GOLD_ICON} gerekli" />
@@ -806,7 +806,7 @@
     <string id="hkUJWHgi" text="Daha fazla yoldaşı karşılayamazsın." />
     <string id="t6Q3wrwm" text="Bu beceride bir yoldaş adayı yok." />
     <string id="79UWwjoT" text="Maliyetini karşılayamıyorsun: {GOLD}{GOLD_ICON} + {INFLUENCE}{INFLUENCE_ICON}" />
-    <string id="9Jtopk6b" text="Almak için bir yoldaş seçin" />
+    <string id="9Jtopk6b" text="Hangi beceride bir yoldaş arıyorsunuz?" />
     <string id="z69WpCc8" text="Tüccarlar Loncası" />
     <string id="qLVinLay" text="Duvarcılar Loncası" />
     <string id="VPDXcJu7" text="Demirciler Loncası" />
@@ -1062,10 +1062,10 @@
     <string id="XxE5MQKJ" text="Rehberlik için iradenizi ortaya koyun. Şehit ve tanrıların incelenmesi hafife alınmamalıdır." />
     <string id="uSMsxDP1" text="{KAHRAMAN}'ın kaderi, üzerimize kılıç çekmeye cesaret ettiklerinde belirlendi. Ayini onaylayın ve düşman kan ağlarken kendimizi yıkadığımız görkemle sevinelim!" />
     <string id="d8ecHZ0P" text="{SACRIFICE}, {HERO} tarafından ritüel olarak kurban edildi." />
-    <string id="0aY6zmgK" text="İnsan Kurbanı" />
+    <string id="0aY6zmgK" text="İnsan Kurban Etme" />
     <string id="eTqH0eDT" text="{KAHRAMAN}'ın kaderi, üzerimize kılıç çekmeye cesaret ettiklerinde belirlendi. Düşman kan ağlarken kendimizi içinde yıkadığımız zafere sevinelim!" />
     <string id="iNbOvrB8" text="Zabiha" />
-    <string id="pTg6co0a" text="İlahiler" />
+    <string id="pTg6co0a" text="Kantikler" />
     <string id="qa1WqSC2" text="Korkarım ki bu, genç nesil goliards'ın gözünden kaçıyor ve manastırın katipleri tarafından dikkate alınmıyor; ama metne saygısızlık ve geçmişin sapkınlığı. Şehirlerinizi yağmalayın, düşmanlarınızı temizleyin; ama isimsiz ölmelerine izin vermeyin. Kütüphanelerini yakmayın. Neseplerinden vazgeçeceklerine dair yemin edinceye kadar onları kırbaçlamayın." />
     <string id="cU8zusYy" text="n gerçek, hiçbir şey. Tarih gerçeğe ve gerçeğe dayalıdır, İlahiler böyle bir emsali hikaye anlatıcısının süslemesiyle anlatır. Kötüler, bir masal söz konusu olduğunda kahramanlar kadar gereklidir. Bir akraba avcısı, bir akıncı, bir yağmacı ya da kendi halkımızın bir kasabı olsaydın, senden nefret edilirdi - ama hatırlanırdın.." />
     <string id="gqJz2YAJ" text="Korkaklar efsaneye layık değildir ve liyakatiyle tanımlanmayan hizmetkarlar zaman geçtikçe unutulacaktır. Galipler çağı yazarken cani ya da kurtarıcı olarak görülmeleri umursanmadıkça, hatırlama yolunda çok az şey yasaklanmıştır. Ancak bir savaş çağrısı geldiğinde bir barışçı çok az hatırlanır ve bir saray mensubu şanlı işler yerine tatlı sözlerle uğraşmalıdır." />
@@ -1141,25 +1141,25 @@
     <string id="PBzKaQYS" text="Governor stewardship" />
     <string id="MBHftZmv" text="Workforce policy" />
     <string id="1aq83aPr" text="Conscription policy" />
-    <string id="zgK5zVkQ" text="Peace" />
-    <string id="Ypfy9D3P" text="War" />
-    <string id="djkEJ9wB" text="Dominant culture" />
-    <string id="2wOt5txz" text="Natural resistance" />
-    <string id="wJV3Gdc1" text="Random factors" />
-    <string id="a2GE4xwy" text="Security effect" />
-    <string id="gafTzKhz" text="Governor effect" />
-    <string id="uHDDG1Vq" text="Already assimilated" />
-    <string id="2qB0s9H9" text="Cultural acceptance" />
-    <string id="HuoR2sGE" text="Over limit" />
-    <string id="AaNeOd9n" text="Base" />
-    <string id="mgK8aZuj" text="Prosperity" />
-    <string id="TfMEfR6C" text="Security" />
-    <string id="B8Crp0cZ" text="Loyalty" />
-    <string id="rZOM0Jit" text="Cultural assimilation" />
+    <string id="zgK5zVkQ" text="Barış" />
+    <string id="Ypfy9D3P" text="Savaş" />
+    <string id="djkEJ9wB" text="Baskın kültür" />
+    <string id="2wOt5txz" text="Doğal direnç" />
+    <string id="wJV3Gdc1" text="Rastgele faktörler" />
+    <string id="a2GE4xwy" text="Güvenlik etkisi" />
+    <string id="gafTzKhz" text="Vali etkisi" />
+    <string id="uHDDG1Vq" text="Asimile edilmiş" />
+    <string id="2qB0s9H9" text="Kültürel kabul" />
+    <string id="HuoR2sGE" text="Sınırın üzerinde" />
+    <string id="AaNeOd9n" text="Temel" />
+    <string id="mgK8aZuj" text="Refah" />
+    <string id="TfMEfR6C" text="Güvenlik" />
+    <string id="B8Crp0cZ" text="Sadakat" />
+    <string id="rZOM0Jit" text="Kültürel Asimilasyon" />
     <string id="9Etcg2UE" text="Produce satisfactions" />
     <string id="UqLsS4GV" text="Legitimacy" />
-    <string id="jH7cWD5r" text="Serfs" />
-    <string id="8xhVr4rK" text="Slaves" />
+    <string id="jH7cWD5r" text="Serfler" />
+    <string id="8xhVr4rK" text="Köleler" />
     <string id="7cFbhefJ" text="Martial Law policy" />
     <string id="o7W9qvHw" text="Garrison consumption" />
     <string id="S3ntMGX6" text="Prisoner rations" />
@@ -1366,7 +1366,7 @@
     <string id="yAzLqLPP" text="My friend, the union of {PROPOSER} and {PROPOSED} is not one of fairness. Although it would be a pleasure to strengthen our houses, I do not find this to be the correct path." />
     <string id="Pmo8GKez" text="Let it be known that {PROPOSER} and {PROPOSED} are now united in blood. I hope that we can keep finding common cause in the future, and thrive together." />
     <string id="61jgyXzF" text="{HERO} piety was changed by {PIETY}." />
-    <string id="AkTU4Qwg" text="You, {NAME}, formally accept to be henceforth bound to the {TITLE}, fulfill your duties as well as uphold your rights, what can not be undone by means other than abdication of all rights and lands associated with the contract, treachery, or death." />
+    <string id="AkTU4Qwg" text="Sen, {NAME}, bundan sonra {TITLE} ile bağlı olmayı resmen kabul eder, görevlerini yerine getirirken haklarını da korursun. Bu sözleşme ile ilişkilendirilmiş tüm hak ve arazilerden feragat, ihanet veya ölüm gibi başka yollarla geri alınamaz" />
     <string id="o394sPDk" text="Close Relatives Honorifics" />
     <string id="AinXkzz7" text="Apply title honorifcs for close relatives of title holders. This only takes effect if the 'Title Honorifcs' option is any other than 'No Titles'. Different rules apply but in general, spouses of will have an equivalent, gendered title (ie, 'Queen FemaleName' the spouse of 'King MaleName'), while children of Kings and Emperors may be Princes." />
     <string id="2MqbeBCb" text="Title Honorifics" />
@@ -1629,40 +1629,40 @@
     <string id="CTerwC4b" text="Slave Price:" />
     <string id="KdEiqFm2" text="Slave Demand:" />
     <string id="sYmEYKF8" text="Militia policy" />
-    <string id="eJECyLLw" text="Hearth Growth:" />
-    <string id="wcHDxPQJ" text="The number of homes in this village. Hearths are used to calculated the population capacity. Each hearth on average houses 4 people. Increasing hearths allows for population to keep growing and thus making the village more productive and relevant." />
-    <string id="9s1iC4kE" text="Total Population:" />
-    <string id="zaCDpfP2" text="Number of people present in this settlement and surrounding regions." />
-    <string id="OfNn72n9" text="Population Cap:" />
-    <string id="TSwN7iFc" text="The maximum number of people this settlement is capable of having." />
-    <string id="HcFqTg6k" text="Population Growth:" />
-    <string id="hANYHGHR" text="The population growth of your settlement on a daily basis, distributed among the classes." />
-    <string id="NP0RCoMH" text="Foreigner Ratio:" />
-    <string id="E2QuHXGQ" text="Merchant and freemen foreigners that refuse to be assimilated, but have a living in this settlement." />
-    <string id="Vk6Maijr" text="Dominant Culture:" />
-    <string id="jnE7pP1M" text="Dominant Language:" />
-    <string id="Lf9styae" text="Language spoken by population of the dominant culture. Speaking their language helps in creating cultural acceptance of your own language, if dominant culture is not your own." />
-    <string id="R8mbRNcL" text="Cultural Presence:" />
-    <string id="36DgL50p" text="How present your culture is. Presence is affected by notables and governor following your culture, as well as other factors. This is the percentage that you culture's assimilation will gravitate towards in the settlement." />
-    <string id="qKsaiPd0" text="Acceptance Gain:" />
-    <string id="ADimYYhg" text="How much acceptance your culture gains in this settlement, per day." />
-    <string id="Lb5b7JZX" text="Cultural Acceptance:" />
-    <string id="K4DsLUBQ" text="How accepted your culture is towards the general populace. A culture first needs to be accepted to be assimilated into. Acceptance is gained through a stable reign and competent governor in place." />
-    <string id="pVCiG95C" text="How much the local population can progress with construction projects, on a daily basis" />
-    <string id="fvaNp0we" text="Current Progress:" />
-    <string id="ZhWtAYrh" text="Daily project (endless)" />
-    <string id="uUQpLvpq" text="Amount of completed work in the current project" />
-    <string id="CT7CW9ZL" text="Days to complete:" />
-    <string id="f26MsNsU" text="Remaining days for the current project to be built" />
+    <string id="eJECyLLw" text="Hane Artışı:" />
+    <string id="wcHDxPQJ" text="Bu köydeki ev sayısı. Nüfus kapasitesini hesaplamak için ocaklar kullanılır. Her ocakta ortalama 4 kişi barınmaktadır. Artan ocaklar, nüfusun artmaya devam etmesini sağlar ve böylece köyü daha üretken ve ilgili hale getirir." />
+    <string id="9s1iC4kE" text="Toplam nüfus:" />
+    <string id="zaCDpfP2" text="Bu yerleşim ve çevre bölgelerde bulunan insan sayısı." />
+    <string id="OfNn72n9" text="Nüfus Sınırı:" />
+    <string id="TSwN7iFc" text="Bu yerleşim yerinin sahip olabileceği maksimum insan sayısı." />
+    <string id="HcFqTg6k" text="Nüfus Artışı:" />
+    <string id="hANYHGHR" text="Yerleşiminizin günlük olarak nüfus artışı, sınıflar arasında dağıtılır." />
+    <string id="NP0RCoMH" text="Yabancı Oranı:" />
+    <string id="E2QuHXGQ" text="Asimile olmayı reddeden, ancak bu yerleşimde yaşayan tüccar ve özgür yabancılar." />
+    <string id="Vk6Maijr" text="Baskın kültür:" />
+    <string id="jnE7pP1M" text="Baskın Dil:" />
+    <string id="Lf9styae" text="Baskın kültürün nüfusu tarafından konuşulan dil. Baskın kültür size ait değilse, onların dilini konuşmak, kendi dilinizin kültürel kabulünü oluşturmaya yardımcı olur." />
+    <string id="R8mbRNcL" text="Kültürel Varlık:" />
+    <string id="36DgL50p" text="Kültürünüz ne kadar mevcut. Varlık, diğer faktörlerin yanı sıra, kültürünüze bağlı olan eşraf ve vali tarafından etkilenir. Bu, yerleşimde kültürünüzün asimilasyonunun yöneleceği yüzdedir." />
+    <string id="qKsaiPd0" text="Kabullenme Artışı:" />
+    <string id="ADimYYhg" text="Kültürünüz bu yerleşimde günde ne kadar kabul görüyor." />
+    <string id="Lb5b7JZX" text="Kültürel Kabullenme:" />
+    <string id="K4DsLUBQ" text="Kültürünüz genel nüfusa karşı ne kadar kabul görüyor? Bir kültürün özümsenmesi için önce kabul edilmesi gerekir. Kabul, istikrarlı bir saltanat ve yetkin bir valinin yerinde olmasıyla sağlanır." />
+    <string id="pVCiG95C" text="Yerel nüfus, inşaat projeleriyle günlük olarak ne kadar ilerleyebilir?" />
+    <string id="fvaNp0we" text="Mevcut İlerleme:" />
+    <string id="ZhWtAYrh" text="Günlük proje (sonsuz)" />
+    <string id="uUQpLvpq" text="Geçerli projede tamamlanan iş miktarı" />
+    <string id="CT7CW9ZL" text="Tamamlanmasına kalan gün:" />
+    <string id="f26MsNsU" text="İnşa edilecek mevcut proje için kalan gün sayısı" />
     <string id="HiTo8SPQ" text="Invert Clan" />
     <string id="oezwtR1u" text="Invert the expected result for final clan. The clan whose member leaves it is owed the Dowry by the other family. Therefore, if your family member is leaving your clan, you are owed the Dowry. Spouses are less likely to leave their clans if they are it's leader or it's primary expected inheritor." />
-    <string id="GuLW3uHZ" text="Arranged Marriage" />
-    <string id="HMOHcfzh" text="Arrange the marriage without consulting the spouses. While their personal relations are still considered, the to-be-spouses have no power to dictate the marriage result. If you are one of the spouses, this means no Courting phase - the marriage is sealed off right away." />
-    <string id="n6gncAsu" text="Alliance Pact" />
-    <string id="DrZ2KnbO" text="Join both houses in alliance. By doing so, both houses are bound to not enter in conflict with each other when it comes to internal matters of the kingdom. Instead, if they are the leading houses of separate kingdoms, it would prevent a war between both realms. Subject houses may still fight each other if their sovereigns declare war." />
-    <string id="BNF7CWaY" text="Feast Celebration" />
-    <string id="a3fxEHyJ" text="Arrange a feast to celebrate the marriage. A selection of families within the realm will be invited, and as a host you ought to provide them a quality celebration. Doing so will allow you to improve your standing with them, as well as bring your family renown." />
-    <string id="qSKxuPRF" text="Spouse value.\n\n{HINT}" />
+    <string id="GuLW3uHZ" text="Görücü Usulü Evlilik" />
+    <string id="HMOHcfzh" text="Eşlere danışmadan evliliği düzenleyin. Kişisel ilişkileri hala göz önünde bulundurulurken, eş adaylarının evlilik sonucunu dikte etme güçleri yoktur. Eşlerden biriyseniz, bu Kur yapma aşaması olmadığı anlamına gelir - evlilik hemen mühürlenir." />
+    <string id="n6gncAsu" text="İttifak" />
+    <string id="DrZ2KnbO" text="İttifakta her iki eve katılın. Bunu yaparak, krallığın iç meseleleri söz konusu olduğunda her iki hane de birbiriyle çatışmaya girmeyecek. Bunun yerine, ayrı krallıkların önde gelen evleri iseler, bu iki krallık arasında bir savaşı önleyecektir. Hükümdarları savaş ilan ederse tabi haneler yine de birbirleriyle savaşabilir." />
+    <string id="BNF7CWaY" text="Ziyafetle Kutla" />
+    <string id="a3fxEHyJ" text="Evliliği kutlamak için bir ziyafet düzenleyin. Diyardaki bazı aileler davet edilecek ve ev sahibi olarak onlara kaliteli bir kutlama sunmalısınız. Bunu yapmak, ailenizi üne kavuşturmanın yanı sıra, onlarla olan konumunuzu geliştirmenize olanak tanır." />
+    <string id="qSKxuPRF" text="Eş değeri.\n\n{HINT}" />
     <string id="CaSNVQQf" text="Unclear" />
     <string id="u9GPa1eQ" text="Whether or not their clan will accept this proposal. This is mainly dicatated by the different of value between the spouses, but also influence by their relationship with each other and the clan's trust towards you, as well as other kingdom-related matters, such as matching cultures and faiths.\n\n{REASON}" />
     <string id="gJMje5q5" text="The influence cost associated with this marriage. Influence is associated with the social standing of the other clan. A clan of high standing, such as those leading kingdoms, are valuable marriage targets both within and outside their factions. Thus, the more important a clan is, the more influence is associated with marrying them.\n\n{HINT}" />
@@ -1674,9 +1674,9 @@
     <string id="fUUa62LS" text="Final Clan" />
     <string id="EB5e2m4T" text="Acceptable" />
     <string id="hXFhY2tN" text="Spouse Score" />
-    <string id="Yy2s38FQ" text="Rites" />
+    <string id="Yy2s38FQ" text="Ritüeller" />
     <string id="77isPS24" text="{EFFECTS}\nPiety cost: {COST}" />
-    <string id="t8gCwGPJ" text="Demesne Information" />
+    <string id="t8gCwGPJ" text="Yerleşke Bilgisi" />
     <string id="cBhrSfro" text="{MATERIAL}\n{DESCRIPTION}\nStash: {STASH}\nMarket: {MARKET}" />
     <string id="kGCHAdZG" text="Assembled for use by the Calradoi dynasty, Strategikon compiles series of treatises on army maneuvers and tatics. The book deals with diverse formations and battle tactics used by opponents of the Empire, since it's inception by Calradios the Great. The book is treated as basic education for military-minded lords in the empire." />
     <string id="5qh4CNDP" text="Written by Dhashwal of the Nahasa, the treatise compiles a series of reflections on trade routes and trading practices the caravaneer deal with in his lifetime. From the Jawwal nomadic traders, through the Imperial bureaucrats up to the sea-faring nothern traders, Dhashwal writes on his experience of mastering the trade through decades of field experience." />
@@ -1845,18 +1845,18 @@
     <string id="5sWFJZV6" text="{COUNT} {OFFERING} was ritually offered by {HERO}." />
     <string id="rK6v9sBw" text="Make an offering of {COUNT} {ITEM}, as the faith prescribes." />
     <string id="8OwEJjZb" text="Will you relinquish {COUNT} {ITEM} to prove your faith?" />
-    <string id="6Yj8erp7" text="May be performed every {YEARS} years\nRequires {COUNT} {ITEM}" />
-    <string id="87WtQvgP" text="Sacrifice a worthy enemy hero to prove your devotion." />
-    <string id="qBDbqpf3" text="May be performed every {YEARS} years\nRequires a lord from an enemy faction" />
-    <string id="dUaYvqQu" text="In Banner Kings, religions are attached to cultures and possibly factions. All heroes (lords, notables) and settlements of that group will follow the adequate faith. All religions are defined by a few core aspects, their doctrines, rites, divinities and clergy.\nDoctrines are features of the faith - they may introduce buffs and debuffs, or slightly change the faith's behavior.\nClergy are the representatives of the faith. They function as notables in settlements. Each faith has a different hierarchy of clergy, with different titles and spawning at different types of settlements. The clergy are how heroes may interact with the faith\nThrough them you may perform rites, which will award you with piety, as well as receive blessings from the divinities." />
-    <string id="AGbBGrX8" text="In Banner Kings, settlement management is several layers more in depth than vanilla. Settlements have many new interconnected factors such as Mercantilism, Militarism, Stability, Autonomy, and others, making settlement management way more intricate than choosing a new town project every few weeks or so. They also have several new policies (multi choice options) and decisions (true/false options) that it's owner may manage.\nYou can check all this information in Demesne Management tab in your settlements - all of the fields have tooltips with further explanations." />
-    <string id="c0ndZFek" text="Food is extensively reworked. Food in settlements is now produced and consumed in the hundreds by the day - every single person in the population eats, in a similar rate to your soldiers. Food in settlements is now dictated by settlement acreage and it's workforce. The settlement needs acres ready to work and people - serfs and slaves - to work on them. Settlements will no longer starve with markets full of food - the population will buy off the market stocks when production does not meed demand, meaning true starvating will only start when markets are completely out of food. Food stocks are much higher, based on population. Excess food in stocks will rot. If the limit is reached, the population sells food items to the market instead of the food simply disappearing. Food can be manually dumped into the settlement by stocking the Stack with food - it will only be consumed when the normal reserves are very low." />
-    <string id="NsabZ6iw" text="In Banner Kings, Educations are now a big part of heroes' personal lives. Heroes may learn languages, read books and adopt lifestyles. Languages may be taught to you by someone fluent in it.\nBooks are sold by the few book sellers in the continent. Each book is written in a different language - you can not read any book at will.\nLifestyles present a new way to specialize in a specific way of living. Lifestyles are composed by 2 skills, and advance slowly through time. At some point, you need to reach a skill threshold to keep advancing. Advancement is rewarded with unique, powerful perks each lifestyle contains. In addition to these, lifestyles have passive effects - both a negative and positive one, which respectively punish and reward you for playing as the lifestyle is intended to be played." />
-    <string id="SPYNasOF" text="Titles are also composed of laws, duties and rights, that together form the contract. All titles in the same hierarchy have the same contract. All titles have Succession, Inheritance, Government and Gender laws. Succession describes how the faction leadership is inherited, while Inheritance describes the clans' leadership inheritance. Government has various passive effects on settlements as well as dictate what kingdom policies are possible, and sometimes restricts the other laws. Gender law describes the preference for a certain gender in terms of granting knighthood, faction succession and clan inheritance." />
-    <string id="19hMJEJy" text="Titles are also composed of laws, duties and rights, that together form the contract. All titles in the same hierarchy have the same contract. Duties and Rights are fulfilled between vassal and suzerain. Your suzerain is the title holder of the title directly above your highest title. Say you have a dukedom title - in the hierarchy, the dukedom is under a kingdom. The kingdom title holder will be your suzerain, and you their vassal. Vassals fulfill Duties such as paying taxes, or participating in armies (the player is coerced to participate, with renown penalties). Suzerains fulfill rights such as granting titles or financial aids in certain circunstances." />
-    <string id="hdCe0ntY" text="In Banner Kings, clans have a council. Councils are composed by 5 roles - marshal, steward, chancellor, spymaster and religious advisor.\nThese roles may be performed by notables or vassals, and each of them requires a specific skillset. Therefore, different candidates will have different competences at each role.\nCouncils may also be Royal Councils. These are the councils of the faction leading clans. These councils have extra positions and characteristics. The new positions are dynamic and depend on various factors such as kingdom culture and government form. Lastly, Royal Councils' 5 main roles may only be filled by lords, the king's vassals, and not by lowly notables." />
-    <string id="00LCPzVE" text="In Banner Kings, innovations in technology and society happen over time. These may alter several aspects - mainly in settlements - such as agricultural output or general production efficiency.\nEach culture has a set of innovations that advances independently from others. They also have a Fascination - an innovation that develops faster.\nInnovations are developed with research points. These are generated by settlements, mainly settlements' noble population. The more settlements a culture has, the faster it advances." />
-    <string id="ipu2SLhu" text="In Banner Kings, smithing is significantly extended with the possibility of crafting bardings, shields, ammunitions and armor pieces. Unlike weapon crafting, these have a botching chance, based on the piece's difficulty compared to your smithing skill. When botched, you get xp, but no item.\nIn addition, smithing is made harder. Everything costs more stamina to build. Every point of stamina spent correlates to time spent in the map - spending all your stamina will make you wait several hours in the settlement, working on your smithing. These hours are also paid hours, because the smithy is not yours. Essentialy, Banner Kings aims to fix smithing as a massive exploit in the game, while extending it's uses." />
+    <string id="6Yj8erp7" text="Her {YEARS} yılda bir gerçekleştirilebilir\nGerekir {COUNT} {ITEM}" />
+    <string id="87WtQvgP" text="İmanınızı kanıtlamak için değerli bir düşman kahramanını kurban edin." />
+    <string id="qBDbqpf3" text="Her {YEARS} yılda bir gerçekleştirilebilir\nDüşman klandan bir lord gerektirir" />
+    <string id="dUaYvqQu" text="Banner Kings'te dinler, kültürlere ve muhtemelen gruplara bağlıdır. O grubun tüm kahramanları (beyleri, ileri gelenleri) ve yerleşim yerleri yeterli inancı izleyecektir. Tüm dinler birkaç temel yönüyle tanımlanır; doktrinleri, ayinleri, tanrıları ve din adamları.\nÖğretiler inancın özellikleridir - güçlendirmeler ve zayıflıklar getirebilir veya inancın davranışını biraz değiştirebilirler.\nRahipler, inancın temsilcileridir. Yerleşim yerlerinde eşraf olarak işlev görürler. Her inancın, farklı unvanlara sahip ve farklı yerleşim türlerinde yumurtlayan farklı bir din adamı hiyerarşisi vardır. Din adamları, kahramanların inançla nasıl etkileşime girebileceğidir\nOnlar aracılığıyla, sizi dindarlıkla ödüllendirecek ve tanrılardan kutsamalar alacak ayinler gerçekleştirebilirsiniz." />
+    <string id="AGbBGrX8" text="Banner Kings'te yerleşim yönetimi, vanilyadan çok daha derin birkaç katmandır. Yerleşim yerlerinde Merkantilizm, Militarizm, İstikrar, Özerklik ve diğerleri gibi birbirine bağlı birçok yeni faktör vardır ve yerleşim yönetimini birkaç haftada bir yeni bir kasaba projesi seçmekten çok daha karmaşık hale getirir. Ayrıca, sahibinin yönetebileceği birkaç yeni politika (çoktan seçmeli seçenekler) ve kararlar (doğru/yanlış seçenekleri) var.\nBütün bu bilgileri yerleşimlerinizdeki Demesne Yönetimi sekmesinden kontrol edebilirsiniz - tüm alanlarda daha fazla açıklama içeren araç ipuçları bulunur." />
+    <string id="c0ndZFek" text="Yiyecekler geniş kapsamlı bir şekilde yeniden tasarlandı. Yerleşim yerlerinde yiyecekler artık günlük yüzlerce üretim ve tüketim ile üretiliyor ve tüketiliyor - nüfusun her bir bireyi askerlerinizle benzer bir oranda yiyor. Yerleşim yerlerinde yiyecekler artık yerleşim alanı ve işgücü tarafından belirleniyor. Yerleşimlerin çalışacak araziye ve köylüler ile kölelere ihtiyacı var. Yerleşimler artık yiyecek piyasası dolu olsa bile açlıktan ölmeyecek - üretim talebi karşılamadığında nüfus piyasadan yiyecek satın alacak, bu da gerçek açlığın ancak piyasanın tamamen yiyeceklerden boş olduğunda başlayacağı anlamına gelir. Yiyecek stokları, nüfusa dayalı olarak çok daha yüksek. Stoklardaki fazla yiyecekler çürüyebilir. Sınırı aşıldığında, nüfus yiyecekleri sadece yok olmak yerine marketlere satar. Yiyecek, stoklara yiyeceklerle dolgu yaparak manuel olarak yerleşimlere atılabilir - sadece normal rezervler çok düşük olduğunda tüketilecektir." />
+    <string id="NsabZ6iw" text="Banner Kings'te, eğitimler artık kahramanların kişisel hayatlarının büyük bir parçasıdır. Kahramanlar dil öğrenebilir, kitap okuyabilir ve yaşam tarzlarını benimseyebilirler. Diller, konusunda yetkin biri tarafından size öğretilebilir. Kitaplar, kıtadaki az sayıdaki kitap satıcısı tarafından satılır. Her kitap farklı bir dilde yazılmıştır, istediğiniz her kitabı okuyamazsınız.\nYaşam tarzları, belirli bir yaşam tarzında uzmanlaşmanın yeni bir yolunu sunar. Yaşam tarzları 2 beceriden oluşur ve zamanla yavaşça ilerler. İlerlemeye devam etmek için belirli bir beceri eşiğine ulaşmanız gerekebilir. İlerleme, her yaşam tarzının sahip olduğu benzersiz, güçlü ayrıcalıklarla ödüllendirilir. Bunların yanı sıra, yaşam tarzlarının pasif etkileri vardır - her biri olumlu veya olumsuz bir etkiye sahiptir ve yaşam tarzı olarak oynadığınız için sizi ödüllendirir veya cezalandırır." />
+    <string id="SPYNasOF" text="Unvanlar da birlikte sözleşmeyi oluşturan kanunlar, görevler ve haklardan oluşur. Aynı hiyerarşideki tüm başlıklar aynı sözleşmeye sahiptir. Tüm unvanların Veraset, Miras, Devlet ve Cinsiyet kanunları vardır. Veraset, hizip liderliğinin nasıl miras alındığını anlatırken, Miras, klanın liderlik mirasını açıklar. Hükümetin yerleşim yerleri üzerinde çeşitli pasif etkileri olduğu gibi, hangi krallık politikalarının mümkün olduğunu dikte etmekte ve bazen diğer kanunları kısıtlamaktadır. Cinsiyet yasası, şövalyelik, hizip veraset ve klan mirası verme açısından belirli bir cinsiyet tercihini tanımlar." />
+    <string id="19hMJEJy" text="Unvanlar da birlikte sözleşmeyi oluşturan kanunlar, görevler ve haklardan oluşur. Aynı hiyerarşideki tüm başlıklar aynı sözleşmeye sahiptir. Vasal ve hükümdar arasında görev ve haklar yerine getirilir. Hükümdarınız, en yüksek unvanınızın hemen üzerindeki unvanın sahibidir. Bir düklük unvanınız olduğunu varsayalım - hiyerarşide düklük bir krallığın altındadır. Krallık unvanı sahibi sizin hükümdarınız olacak ve siz de onların vasalı olacaksınız. Vasallar, vergi ödemek veya ordulara katılmak gibi Görevleri yerine getirir (oyuncu ünlü cezalarla katılmaya zorlanır). Hükümdarlar, belirli durumlarda unvan verme veya mali yardım gibi hakları yerine getirir." />
+    <string id="hdCe0ntY" text="Banner Kings'te klanların bir konseyi vardır. Konseyler 5 rolden oluşur - mareşal, kâhya, şansölye, casus şefi ve din danışmanı.\nBu roller eşraf veya vasallar tarafından yerine getirilebilir ve her biri belirli bir beceri seti gerektirir. Bu nedenle, farklı adayların her rolde farklı yetkinlikleri olacaktır.\nKonseyler, Kraliyet Konseyleri de olabilir. Bunlar, hizip lideri klanların konseyleridir. Bu konseylerin ekstra pozisyonları ve özellikleri vardır. Yeni pozisyonlar dinamiktir ve krallık kültürü ve hükümet biçimi gibi çeşitli faktörlere bağlıdır. Son olarak, Kraliyet Konseylerinin 5 ana rolü, yalnızca lordlar, kralın vasalları tarafından doldurulabilir, alt düzeydeki eşraf tarafından doldurulamaz." />
+    <string id="00LCPzVE" text="Banner Kings'te teknoloji ve toplumdaki yenilikler zamanla gerçekleşir. Bunlar, tarımsal üretim veya genel üretim verimliliği gibi - özellikle yerleşim yerlerinde - çeşitli yönleri değiştirebilir.\nHer kültürün diğerlerinden bağımsız olarak ilerleyen bir dizi yeniliği vardır. Ayrıca bir Büyüleyicilikleri var - daha hızlı gelişen bir yenilik.\nYenilikler araştırma noktalarıyla geliştirilir. Bunlar, yerleşim yerlerinin soylu nüfusu başta olmak üzere yerleşim yerleri tarafından üretilir. Bir kültür ne kadar çok yerleşime sahipse, o kadar hızlı gelişir." />
+    <string id="ipu2SLhu" text="Banner Kings'te, at zırhları, kalkanlar, cephaneler ve zırh parçaları üretme olasılığı ile demircilik önemli ölçüde genişletildi. Silah işçiliğinin aksine, demircilik becerinize kıyasla parçanın zorluğuna bağlı olarak, bunların başarısız olma şansı vardır. Başarısız olduğunuzda, xp alırsınız, ancak öğe olmaz.\nAyrıca demircilik daha da zorlaşır. Her şeyi inşa etmek daha fazla dayanıklılığa mal olur. Harcanan her dayanıklılık noktası, haritada harcanan zamanla ilişkilidir - tüm dayanıklılığınızı harcamak, demircilik üzerinde çalışarak yerleşim yerinde birkaç saat beklemenize neden olur. Bu saatler de ücretlidir çünkü demirhane sizin değildir. Esasen Banner Kings, kullanım alanlarını genişletirken demirciliği oyundaki büyük bir istismar olarak düzeltmeyi amaçlıyor." />
     <string id="mgmaiTbH" text="You are free to go." />
     <string id="jm464D6p" text="Thank you, {?PLAYER.GENDER}madam{?}sir{\\?}. I will tell the {CLAN} of your deed." />
     <string id="fAXkhM0C" text="I am under your mercy." />
@@ -1920,10 +1920,10 @@
     <string id="iQ7M8YNb" text="{SUZERAIN} is your de jure suzerain as the {TITLE} is your highest title." />
     <string id="QrXhX0kF" text="{SUZERAIN} is your default suzerain as a vassal without titles." />
     <string id="WpXfTefm" text="Suzerain" />
-    <string id="AaS8WTzj" text="Personal" />
+    <string id="AaS8WTzj" text="Kişisel" />
     <string id="Tcir35E5" text="Kingdom decisions affect your realm as a whole or your family's position in the realm." />
-    <string id="8MLr4eSD" text="Unique" />
-    <string id="VbM15ztE" text="Choose a category of decisions to take. Decisions are always taken on behalf of the family head, regardless of what hero is chosen in the Character tab." />
+    <string id="8MLr4eSD" text="Özel" />
+    <string id="VbM15ztE" text="Almak için bir karar kategorisi seçin. Karakter sekmesinde hangi kahraman seçilirse seçilsin, kararlar her zaman aile lideri adına alınır." />
     <string id="VX9LJJpS" text="Workshop is running on inventory!" />
     <string id="8YCJrv0F" text="{NUMBER} / {CAPACITY}" />
     <string id="WmzEL8hL" text="Career" />
@@ -1963,7 +1963,7 @@
     <string id="CyF16uSZ" text="Tournament started with prize: {PRIZE}" />
     <string id="Fin3KXMP" text="Goods Production:" />
     <string id="RmEtkH3A" text="Reclaim" />
-    <string id="8uURr54W" text="Religious" />
+    <string id="8uURr54W" text="Din" />
     <string id="aoZYxUYV" text="Government Type:" />
     <string id="GqmH24N4" text="Sponsor a tournament in this town. As the main sponsor, you have to pay 5000 coins for the tournament costs, as well as provide an adequate prize. Sponsoring games improves population loyalty towards you, and valuable prizes provide renown to your name." />
     <string id="5E2NZBtK" text="Mercantilism:" />
@@ -1972,14 +1972,14 @@
     <string id="V8KAUwe9" text="Militia already raised from {SETTLEMENT}" />
     <string id="eTBhP7tY" text="Stability:" />
     <string id="5PtgU6L1" text="Autonomy:" />
-    <string id="Ccr7mQMZ" text="Notable Support:" />
+    <string id="Ccr7mQMZ" text="Önemli Kişilerin Desteği:" />
     <string id="1O1b2s03" text="They are pledged to {CULT} indefinitely." />
     <string id="wA81PG4d" text="They are pledged to {CULT} until {DATE}." />
-    <string id="M3CdwrTZ" text="Induction" />
-    <string id="yS81FhXP" text="The criteria for being inducted into this faith. Induction may be done through preachers. Depending on the preacher's rank, they may require different things." />
-    <string id="GmqBFSgN" text="The Imperial language of the Calradian empire. Though scholars have made efforts into keeping the language pure, centuries of contact with local cultures have made Calradian adopt small quantities of local vocabularies. Being a language of prestige, Calradian vocabulary are also often adopted by foreign languages, due to it's usefulness in the continent as a Lingua Franca, often used by traders, nobles during their education or peasants looking for a better life within the Empire." />
-    <string id="Z0uU7Tn6" text="Greater chance of being awarded fiefs during elections" />
-    <string id="iNvtNtoK" text="Increased prosperity of cattle, hog and forestry villages" />
+    <string id="M3CdwrTZ" text="Kabul Edilme" />
+    <string id="yS81FhXP" text="Bu inanca kabul edilme kriterleri. İndüksiyon vaizler aracılığıyla yapılabilir. Vaizin rütbesine göre farklı şeyler talep edebilirler." />
+    <string id="GmqBFSgN" text="Kalradya imparatorluğunun imparatorluk dili. Bilginler dili saf tutmak için çaba göstermiş olsalar da, yerel kültürlerle yüzyıllarca süren temas, Calradian'ın az miktarda yerel kelime dağarcığı benimsemesine neden oldu. Bir prestij dili olan Kalradyanca kelime dağarcığı, kıtada tüccarlar, eğitimleri sırasında soylular veya İmparatorluk içinde daha iyi bir yaşam arayan köylüler tarafından sıklıkla kullanılan bir Lingua Franca olarak yararlı olması nedeniyle yabancı diller tarafından da sıklıkla benimsenmiştir." />
+    <string id="Z0uU7Tn6" text="Seçimler sırasında tımar alma şansı daha yüksek" />
+    <string id="iNvtNtoK" text="Sığır, domuz ve orman köylerinin artan refahı" />
     <string id="4cnju8xP" text="Improved settlement cultural assimilation\nReduced costs for convincing vassals to assume culture or faith" />
     <string id="ouvoa3Y4" text="Emperor Martyr" />
     <string id="XzD669be" text="Extra influence as battle reward\nGain extra relations from victories with those that share faith" />
@@ -1991,8 +1991,8 @@
     <string id="tXp4wuPZ" text="Among the children of the forest, many devouts, specially in the Chertyg region, have devoted themselves to Méhns. The Moon, in their understanding, is the source of prosperity for both land and mankind, and thus the Goddess gained popularity among believers. Although not a warrior as Pérkos, she is also believed to a protector of the children, in a motherly manner, as Méhns is solely responsible for keeping darkness away during nighttime." />
     <string id="Vn3bTO6r" text="Prosperity for all villages of acceptable cultures\nIncreased fertility" />
     <string id="foD5TnsR" text="Goddess" />
-    <string id="SLogDwvH" text="Not part of Aserai, Imperial or Khuzait cultures." />
-    <string id="CrfLUm3F" text="You must be part of Aserai, Imperial or Khuzait cultures, or have relations with village notables (Faqir), have an Aserai spouse (Imam) or clan tier above 2 (Murshid)." />
+    <string id="SLogDwvH" text="Aseray, İmparatorluk veya Kuzait kültürlerinin bir parçası değil." />
+    <string id="CrfLUm3F" text="Aseray, İmparatorluk veya Kuzait kültürlerinin bir parçası olmanız veya köyün ileri gelenleriyle (Faqir) ilişkiniz olması, bir Aseray eşiniz (İmam) veya 2'den yüksek bir klan seviyesine (Mürşid) sahip olmanız gerekir." />
     <string id="m5CCxwmx" text="Only Battanians with 50 or more roguery are accepted." />
     <string id="NNMB0hrF" text="Only members of the Southern Empire are accepted." />
     <string id="qYmkFsWj" text="I would like to pledge myself to a cult." />
