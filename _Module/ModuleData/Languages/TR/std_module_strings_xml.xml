@@ -1413,7 +1413,7 @@
     <string id="cdMTu4OV" text="yemek kalitesi olağanüstüydü" />
     <string id="VbPGdCx3" text="yemekler lezzetliydi" />
     <string id="Ojj8ijxR" text="yemek çeşitleri boldu" />
-    <string id="9FSPGGmD" text="yiyecek seçimi yeterliydi" />
+    <string id="9FSPgGmD" text="yiyecek seçimi yeterliydi" />
     <string id="pOCbabjg" text="içinde boğulacak kadar alkol vardı" />
     <string id="XzMKdK1S" text="alkol yeterliydi" />
     <string id="VmRpyXt3" text="sunucu her zaman hazırdı" />
@@ -1450,7 +1450,7 @@
     <string id="UB0oinVR" text="{TITLE}, isteğiniz beni onurlandırdı. Ancak bir teklifi kabul edecek durumda değilim. Ailemizin reisi {LEADER} ile görüşebilirsiniz." />
     <string id="ogAieLQE" text="{TITLE}, bir teklifi kabul edecek durumda değilim. Lütfen aile reisi {LEADER} ile konuşun." />
     <string id="e5MpCH3G" text="Bir teklifi kabul etmek bana düşmez. Ailemizin reisi {LEADER} ile konuşabilirsiniz." />
-    <string id="qJ30OzLa" metin="\" />
+    <string id="qJ30OzLa" text="\" />
     <string id="T8qzYXR5" text="Evlilik mi? Senin gibi soytarılar evlenir mi?" />
     <string id="XMMjS27Y" text="Hayır, seni aptal. Gözümün önünden çekil." />
     <string id="hcvHjyDM" text="Evlilik adayları müsait." />
