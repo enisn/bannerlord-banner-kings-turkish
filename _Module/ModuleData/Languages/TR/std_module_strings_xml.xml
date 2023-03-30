@@ -492,51 +492,51 @@
     <string id="ntTyYVuH" text="Well Read" />
     <string id="BfnH3yR4" text="Increased reading rates for books" />
     <string id="XxqhKKR5" text="Cultural fascination progresses faster" />
-    <string id="BUyRc4AY" text="Mechanic" />
-    <string id="iY5A6B2Y" text="Engineering skill tree yields both perks rather than 1" />
-    <string id="o8yaA6r6" text="Accountant" />
-    <string id="zQT8PzBc" text="Stewardship skill tree yields both perks rather than 1" />
-    <string id="cYxDhcpG" text="Teacher" />
-    <string id="fPje2R7V" text="Additional focus points to children coming of age" />
-    <string id="4S4MV14E" text="Book Worm" />
-    <string id="o2cMkCJt" text="Peer Review" />
-    <string id="XdiiPz1L" text="Clan settlements yield more research points" />
-    <string id="Tr4vXMDi" text="Books yield double skill experience" />
-    <string id="S8D75zGm" text="Bed Time Story" />
-    <string id="dsaqAcgd" text="Daily experience points in random skill for companions and family in party" />
-    <string id="G0HZtZGF" text="Treasurer" />
-    <string id="at3o6Jsb" text="Trade skill tree yields both perks rather than 1" />
-    <string id="y34n8Mxh" text="Natural Scientist" />
-    <string id="W6FgZML0" text="Medicine skill tree yields both perks rather than 1" />
-    <string id="LbpgEp03" text="Polyglot" />
-    <string id="28gM5dpU" text="Language limit is increased by 2" />
-    <string id="A81Gi3e4" text="Language learning is significantly increased" />
+    <string id="BUyRc4AY" text="Mühendis" />
+    <string id="iY5A6B2Y" text="Mühendislik beceri ağacı, 1 yerine her iki avantajı da verir" />
+    <string id="o8yaA6r6" text="Sayman" />
+    <string id="zQT8PzBc" text="Yönetim beceri ağacı, 1 yerine her iki avantajı da verir" />
+    <string id="cYxDhcpG" text="Muallim" />
+    <string id="fPje2R7V" text="Reşit olan çocuklara ek odak noktaları" />
+    <string id="4S4MV14E" text="kitap Kurdu" />
+    <string id="o2cMkCJt" text="Akran Değerlendirmesi" />
+    <string id="XdiiPz1L" text="Klan yerleşimleri daha fazla araştırma puanı sağlar" />
+    <string id="Tr4vXMDi" text="Kitaplar çift beceri deneyimi sağlar" />
+    <string id="S8D75zGm" text="Uyku Vakti Hikayesi" />
+    <string id="dsaqAcgd" text="Partideki arkadaşlar ve aile için rastgele beceride günlük deneyim puanı" />
+    <string id="G0HZtZGF" text="Hazinedar" />
+    <string id="at3o6Jsb" text="Ticaret beceri ağacı 1 yerine her iki avantajı da verir" />
+    <string id="y34n8Mxh" text="Doğa Bilimcisi" />
+    <string id="W6FgZML0" text="Hekimlik beceri ağacı 1 yerine her iki avantajı da verir" />
+    <string id="LbpgEp03" text="Çok Dilli" />
+    <string id="28gM5dpU" text="Dil sınırı 2 artırıldı" />
+    <string id="A81Gi3e4" text="Dil öğrenimi önemli ölçüde artar" />
     <string id="CjDwUkqP" text="Magnum Opus" />
-    <string id="iDdeeLXK" text="+0.2% experience gain for every skill point in Scholarship above 230" />
-    <string id="DAvAqkn3" text="Focus points add 50% more learning limit" />
-    <string id="SvfaUDRR" text="Scholarship" />
-    <string id="6vdekDjR" text="Reading and writting competence as well as knowledge over literary and legal matters." />
+    <string id="iDdeeLXK" text="Bilginlikte 230'un üzerindeki her beceri puanı için +%0,2 deneyim artışı" />
+    <string id="DAvAqkn3" text="Odak noktaları %50 daha fazla öğrenme sınırı ekler" />
+    <string id="SvfaUDRR" text="Bilginlik" />
+    <string id="6vdekDjR" text="Okuma ve yazma yeterliliği ile edebi ve hukuki konularda bilgi." />
     <string id="SRo2AK0z" text="Teoloji" />
-    <string id="mrDhJePb" text="Understanding over spiritual matters. Normally reserved for preachers and the most pious faithful." />
-    <string id="7LeiEP5f" text="Ability to deal with legal administration of titles and feudal contracts." />
+    <string id="mrDhJePb" text="Manevi konularda anlayış. Normalde vaizler ve en dindar inananlar için ayrılmıştır." />
+    <string id="7LeiEP5f" text="Unvanların ve feodal sözleşmelerin yasal yönetimi ile ilgilenebilme." />
     <string id="wMius2i9" text="{TITLE} of {NAME}" />
-    <string id="bdsY7u3H" text="You now have a claim on the {TITLE}" />
-    <string id="5ryn9tJc" text="{TITLE} has drifted into a legal part of {SOVEREIGN}" />
-    <string id="fBhajAND" text="Active decisions" />
-    <string id="WJFzmFHu" text="Legal crown council." />
-    <string id="JDFpx1eN" text="No kingdom." />
-    <string id="RWoYaSfD" text="Not the ruling clan." />
-    <string id="CGOqUHZb" text="Does not hold faction's sovereign title." />
-    <string id="RpBzpEfz" text="Not part of the council." />
-    <string id="iEe6ndpp" text="Not a valid candidate." />
-    <string id="hVJNXynE" text="Not enough influence." />
-    <string id="nCwf2baA" text="Not trustworthy enough for this position." />
-    <string id="opYJzphN" text="Not competent enough for this position." />
-    <string id="1yzWxjaj" text="Not a better candidate than current councillor." />
-    <string id="bjJ99NEc" text="Action can be taken." />
-    <string id="B6NnSA7H" text="No position to be relinquished." />
-    <string id="peS8Egz2" text="Not current councilman of the position." />
-    <string id="x5Wi8QSD" text="Already part of the council." />
+    <string id="bdsY7u3H" text="Artık {TITLE} üzerinde hak talebiniz var" />
+    <string id="5ryn9tJc" text="{TITLE}, {SOVEREIGN}'ın yasal bir parçası haline geldi" />
+    <string id="fBhajAND" text="Aktif kararlar" />
+    <string id="WJFzmFHu" text="Yasal taç konseyi." />
+    <string id="JDFpx1eN" text="Krallık yok." />
+    <string id="RWoYaSfD" text="Yönetici klan değil." />
+    <string id="CGOqUHZb" text="Grubun yönetici unvanına sahip değil." />
+    <string id="RpBzpEfz" text="Konseyin bir parçası değil." />
+    <string id="iEe6ndpp" text="Geçerli bir aday değil." />
+    <string id="hVJNXynE" text="Yeterli nüfuz yok" />
+    <string id="nCwf2baA" text="Bu pozisyon için yeterince güvenilir değil." />
+    <string id="opYJzphN" text="Bu pozisyon için yeterince yetkin değil." />
+    <string id="1yzWxjaj" text="Mevcut konsey üyesinden daha iyi bir aday değil." />
+    <string id="bjJ99NEc" text="Eylem uygulanabilir." />
+    <string id="B6NnSA7H" text="Vazgeçilecek pozisyon yok." />
+    <string id="peS8Egz2" text="Pozisdyonun mevcut konsey üyesi değil." />
+    <string id="x5Wi8QSD" text="Zaten konseyin bir parçası." />
     <string id="nNESSaBb" text="Eğitmen akıcılığı" />
     <string id="k5G2c550" text="{LANGUAGE} ile anlaşılabilirlik" />
     <string id="1ssSRbe5" text="Dil sınırının üzerinde" />
@@ -1626,8 +1626,8 @@
     <string id="BXFLXR6B" text="Köy Geliri:" />
     <string id="L3KACGcQ" text="Köyün gelir çıktısı. Köylerdeki gelirin çoğu serfler ve köleler tarafından ürün üretimi ve satışı yoluyla elde edilir. Madeni para yerine emekleri üzerinden vergilendirilirler. Ancak soylular ve zanaatkarlar Vergi dairelerinin inşası yoluyla madeni para olarak vergilendirilebilir." />
     <string id="KbTvcQko" text="Yapı:" />
-    <string id="CTerwC4b" text="Bağlı Fiyat:" />
-    <string id="KdEiqFm2" text="Bağımlı Talebi:" />
+    <string id="CTerwC4b" text="Köle Ücreti:" />
+    <string id="KdEiqFm2" text="Köle Talebi:" />
     <string id="sYmEYKF8" text="Milis politikası" />
     <string id="eJECyLLw" text="Hane Artışı:" />
     <string id="wcHDxPQJ" text="Bu köydeki ev sayısı. Nüfus kapasitesini hesaplamak için ocaklar kullanılır. Her ocakta ortalama 4 kişi barınmaktadır. Artan ocaklar, nüfusun artmaya devam etmesini sağlar ve böylece köyü daha üretken ve ilgili hale getirir." />
