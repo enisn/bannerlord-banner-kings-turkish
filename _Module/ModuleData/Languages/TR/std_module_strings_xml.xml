@@ -170,7 +170,7 @@
     <string id="qODLryGe" text="%{PERCENTAGE} tamamlandı." />
     <string id="CW56ko9B" text="%{DAYS} gün içinde talebinizi yapmanız gerekiyor." />
     <string id="nFcAkRcD" text="Mümkün Talep Sahipleri" />
-    <string id="NOYOqKSV" text="Önceki başlık sahibi " />
+    <string id="NOYOqKSV" text="Önceki ünvan sahibi " />
     <string id="0KERfXox" text="Sahte iddia" />
     <string id="n4LgwLxB" text="Sebep" />
     <string id="7rA02JY3" text="{GOLD} altın." />
@@ -307,7 +307,7 @@
     <string id="4WBR3jvK" text="Ekipmanlarını ve eğitimlerini sübvanse ederek milis kalitesini artırın " />
     <string id="OyJ4NDWX" text="Milisleri sübvanse et " />
     <string id="5Wpq8YxN" text="Vergi politikasına göre, özel mülkiyet kölelerinin çalışmaları devlet tarafından vergilendirilecek ve ekstra gelir elde edilecektir.Köle sahipleri memnun olmayacak. " />
-    <string id="qGB6RG9a" text="Vergi Özel Köleler " />
+    <string id="qGB6RG9a" text="Özel Köle Vergileri " />
     <string id="TkkCkCWZ" text="{SUZERAIN} Süzereninize askeri yardım görevinizi yerine getiremediniz. Sonuç olarak, klanınızın ünlüsü acı çekti ve Suzerain ile ilişkiniz {RELATION} tarafından değişti." />
     <string id="5OYuLkYg" text="Süzereniniz {SUZERAIN}, sözleşme yükümlülüklerinizi yerine getirmenizi ve fidye telafisini telafi etmek için ona {RANSOM} altın ödemenizi istedi. Ödemek için {REMAINING} günleriniz kaldı." />
     <string id="iykxiy3G" text="{NEW}, miras yasaları nedeniyle {ORIGINAL} 'den dalmıştır." />
@@ -351,7 +351,7 @@
     <string id="DgTSOSYQ" text="The History of Calradian Archery{@Plural}collection of The History of Calradian Archery{\\@}" />
     <string id="5v2oKnX6" text="Lycaron debate of 1074{@Plural}collection of Lycaron debate of 1074y{\\@}" />
     <string id="3UAFVNOE" text="Ayrıcalıklı Şövalye" />
-    <string id="c9Cwm6Ek" text="Krallığın kültüründen farklı kültür şövalyeleri artık kabul edilmeyecek.Krallık kültürü yerleşke ile şövalyeler, özel bir başlık alacak ve geri kazanımlarını sürdürmelerine yardımcı olacaklar." />
+    <string id="c9Cwm6Ek" text="Krallığın kültüründen farklı kültür şövalyeleri artık kabul edilmeyecek.Krallık kültürü yerleşke ile şövalyeler, özel bir ünvan alacak ve geri kazanımlarını sürdürmelerine yardımcı olacaklar." />
     <string id="9TThCFw6" text="Şövalyeyi sadece kültürel akranlarıyla kısıtlamak" />
     <string id="FrBNgywz" text="Şövalyelik için kültürel kısıtlama\nŞövalye rütbeli lordlar %10 ekstra gelir elde eder" />
     <string id="mLktnT01" text="Sınırlı Ordu ayrıcalığı" />
@@ -473,25 +473,25 @@
     <string id="kJD93Rh2" text="Malikaneler ekstra 0.2 nüfuz sağlar" />
     <string id="wzJW8mFC" text="Askeri Yönetim" />
     <string id="tqWtfNch" text="Yerel milisler, yerleşkede %2 artar." />
-    <string id="6hRejPPe" text="Increased settlement drafting speed by 20%" />
-    <string id="SEB2hNAG" text="Economic Administration" />
-    <string id="w2KEdfGJ" text="Increased settlement production efficiency by 10%" />
-    <string id="UjmvizdY" text="Increased settlement production quality by 5%" />
-    <string id="pQ6oCYEb" text="Hostile actions (claim, usurp &amp; revoke) are 5% cheaper" />
+    <string id="6hRejPPe" text="Mutabakat taslağı hazırlama hızı %20 artırıldı" />
+    <string id="SEB2hNAG" text="Ekonomik Yönetim" />
+    <string id="w2KEdfGJ" text="Yerleşim üretim verimliliğinde %10 artış" />
+    <string id="UjmvizdY" text="Yerleşim üretim kalitesi %5 artırıldı" />
+    <string id="pQ6oCYEb" text="Düşmanca eylemler (talep etme, gasp etme ve iptal etme) %5 daha ucuzdur" />
     <string id="aHL9od5c" text="Patron" />
-    <string id="moMBKpGt" text="Grating titles yields renown" />
-    <string id="jndzbOjF" text="Amicable actions (grant, negotiate) yield more positive relation" />
-    <string id="EFGT3zVR" text="Literate" />
-    <string id="bm513T3G" text="Allows reading books" />
-    <string id="tmS5CdWA" text="Avid Learner" />
-    <string id="JNDa4Q9N" text="Increase language learning rate" />
-    <string id="iE5hXmjw" text="Language limit is increased by 1" />
-    <string id="T5khtP0R" text="Tutor" />
-    <string id="uXF06oDk" text="Additional attribute point to clan children coming of age." />
-    <string id="uFKqv5XM" text="Extra experience gain for companions and family members in party" />
-    <string id="ntTyYVuH" text="Well Read" />
-    <string id="BfnH3yR4" text="Increased reading rates for books" />
-    <string id="XxqhKKR5" text="Cultural fascination progresses faster" />
+    <string id="moMBKpGt" text="Ünvan vermek şöhret kazandırır" />
+    <string id="jndzbOjF" text="Dostane eylemler (hibe, müzakere) daha olumlu bir ilişki sağlar" />
+    <string id="EFGT3zVR" text="Okuryazar" />
+    <string id="bm513T3G" text="Kitap okumaya izin verir" />
+    <string id="tmS5CdWA" text="Hevesli Öğrenci" />
+    <string id="JNDa4Q9N" text="Dil öğrenme oranını artırın" />
+    <string id="iE5hXmjw" text="Dil sınırı 1 artırıldı" />
+    <string id="T5khtP0R" text="Öğretici" />
+    <string id="uXF06oDk" text="Klandaki reşit olan çocuklara ekstra beceri odak puanı." />
+    <string id="uFKqv5XM" text="Partideki yoldaşlar ve aile üyeleri için ekstra deneyim kazanımı" />
+    <string id="ntTyYVuH" text="İyi Okunmuş" />
+    <string id="BfnH3yR4" text="Kitap okuma oranlarında artış" />
+    <string id="XxqhKKR5" text="Kültürel hayranlık daha hızlı ilerler" />
     <string id="BUyRc4AY" text="Mühendis" />
     <string id="iY5A6B2Y" text="Mühendislik beceri ağacı, 1 yerine her iki avantajı da verir" />
     <string id="o8yaA6r6" text="Sayman" />
@@ -552,7 +552,7 @@
     <string id="PSrEtF5L" text="Devlet" />
     <string id="kfYELUGY" text="{TITLE}" />
     <string id="ouK35RSP" text="{SETTLEMENT}{DEJURE}" />
-    <string id="Jh6FdJFE" text="En yüksek başlık seviyesi" />
+    <string id="Jh6FdJFE" text="En yüksek ünvan seviyesi" />
     <string id="eTMvobFw" text="Egemenlik ünvanı zaten var." />
     <string id="Z2tSyHfC" text="Mevcut fraksiyonun lideri değil." />
     <string id="t8HXoFk7" text="Zaten bir jure egemenken bir krallık bulamıyor." />
@@ -570,12 +570,12 @@
     <string id="zMnXdAxp" text="Bu ünvanı talep edebilirsiniz." />
     <string id="OAgroH3G" text="Diyarınızın dışındaki bir Lord ünvanını iptal edemez." />
     <string id="duRc8Vrs" text="Kabile hükümeti iptal edilmesine izin vermez." />
-    <string id="w7b5SE48" text="Jure fraksiyon lideri değil." />
+    <string id="w7b5SE48" text="Jure facto lideri değil." />
     <string id="Mk29oGgs" text="Doğrudan bir vasal değil." />
     <string id="1DGBGp8e" text="Üstün hiyerarşinin efendisinden iptal edilemez." />
     <string id="f5Be67QF" text="Bu ünvanı verebilirsiniz." />
     <string id="CK4rr7yZ" text="Yasal sahibi değil." />
-    <string id="0SQXdrDP" text="Landed ünvanın gerçek sahibi değil." />
+    <string id="0SQXdrDP" text="Toprak ünvanının gerçek sahibi değil." />
     <string id="dW8WA6PG" text="Krallık'ta geçerli aday yok." />
     <string id="97ZWDaBP" text="Kişinin ana ünvanını vermek mümkün değil." />
     <string id="Uw7dMzA4" text="Klan yok." />
@@ -604,9 +604,9 @@
     <string id="w6bLP4DB" text="Rasyonların Kararını Uygulama" />
     <string id="j0bzPuzg" text="Kale rasyonları" />
     <string id="zMPm162W" text="Tarım arazileri" />
-    <string id="ngRhXYj1" text="Pasturelands" />
-    <string id="qPQ7HKgG" text="Woodlands" />
-    <string id="KcNcxeMK" text="Doğurganlık" />
+    <string id="ngRhXYj1" text="Meralar" />
+    <string id="qPQ7HKgG" text="Ormanlık alanlar" />
+    <string id="KcNcxeMK" text="Verimlilik" />
     <string id="DEhtngoL" text="Garnizon politikası" />
     <string id="RkKAd2Yp" text="Genel dikkate değer destek" />
     <string id="qJbYtZjH" text="Genel yerleşim özerkliği" />
@@ -701,11 +701,11 @@
     <string id="2QGyA46m" text="Konsey" />
     <string id="h40bm0cG" text="Üretim" />
     <string id="G1NUDN2i" text="Tüm eylemler için harcanan saat: {saat}" />
-    <string id="A15k4LQS" text="{HERO} has botched {ITEM}!" />
-    <string id="hap0LfbT" text=" with {QUALITY} quality" />
-    <string id="NKVUJKQk" text="{HERO} has crafted {ITEM}{QUALITY}." />
-    <string id="KvHqmTsq" text="You must rest and spend time before you can do this action." />
-    <string id="XiyJ9WrW" text="You don't have all required materials!" />
+    <string id="A15k4LQS" text="{HERO}, {ITEM} öğesini mahvetti!" />
+    <string id="hap0LfbT" text=" {QUALITY} kalitesiyle" />
+    <string id="NKVUJKQk" text="{HERO}, {ITEM}{QUALITY} ürününü üretti." />
+    <string id="KvHqmTsq" text="Bu eylemi yapmadan önce dinlenmeli ve zaman geçirmelisiniz." />
+    <string id="XiyJ9WrW" text="Gerekli tüm malzemelere sahip değilsiniz!" />
     <string id="ph4LMn6k" text="Şövalyeler" />
     <string id="a3G31iZ0" text="Yoldaşlar" />
     <string id="mUaJDjqO" text="Konsey" />
@@ -715,7 +715,7 @@
     <string id="43UgU7C4" text="Gelir:" />
     <string id="Locuup55" text="Gider:" />
     <string id="oHJ6Y66V" text="Yerleşke Limiti, olumsuz çıkarımlar olmadan kaç tane yerleşime sahip olabileceğinizi açıklar. Farklı yerleşim türlerinin farklı ağırlıkları vardır, köyler en düşük, şehirler en yüksek. Limitin üzerinde olmak, tüm yerleşim yerlerinizde istikrarı azaltır. Bir yerleşimin ünvanına sahip olmak ağırlığını azaltacaktır." />
-    <string id="XAvCOvv4" text="Topraksız yerleşke limiti, kaç tane topraksız yerleşke ünvanına sahip olabileceğinizi başlığı tanımlar. Topraksız ünvanlar, düklükler ve krallıklar gibi ünvanlardır - bir yerleşim yeri ile doğrudan ilişkili olmayan ünvanlar. Düklükler en düşük ağırlığa sahipken, imparatorluklar en büyük ağırlığa sahiptir. Sınırı aşmak, vasallarınızla olan ilişkileri aşamalı olarak azaltır." />
+    <string id="XAvCOvv4" text="Topraksız yerleşke limiti, kaç tane topraksız yerleşke ünvanına sahip olabileceğinizi ünvanı tanımlar. Topraksız ünvanlar, düklükler ve krallıklar gibi ünvanlardır - bir yerleşim yeri ile doğrudan ilişkili olmayan ünvanlar. Düklükler en düşük ağırlığa sahipken, imparatorluklar en büyük ağırlığa sahiptir. Sınırı aşmak, vasallarınızla olan ilişkileri aşamalı olarak azaltır." />
     <string id="nhBf1JY5" text="Vassal sınırı, olumsuz sonuçlar olmadan kaç tane vasalınız olabileceğidir. Vassallar, en yüksek ünvanı size ait olan klanlar (yani, bölge ünvanınız altında bir baronluk ünvanı veya tek bir lordluğa sahip şövalye klanları) veya klanınızdaki şövalyelerdir. Şövalyeler sınıra doğru yalnızca 0,5 ağırlıktayken, klan liderleri 1 ağırlıktadır. Yoldaşlar ve aile üyeleri sayılmaz. Sınırı aşmak, etki kazancınızı aşamalı olarak azaltır." />
     <string id="ez3NzFgO" text="{TEXT}\n{EXPLANATIONS}" />
     <string id="rHXu32s5" text="Bu yerleşimde üretilen ürünlerin kalitesini açıklar. Daha yüksek kalite, atölyelerin daha iyi ürünler üretme olasılığının daha yüksek olduğu ve dolayısıyla daha yüksek gelir sağladığı anlamına gelir. Daha iyi ürünler daha pahalı olduğu için, kervanlardan piyasa altına ve mal sahibinin tarifesine daha fazla para çekilir. Bu da atölye fiyatlarında etkendir." />
@@ -734,11 +734,11 @@
     <string id="mVTYGkNP" text="Yerel seçkinlerin sizi ne kadar desteklediğini gösterir. Her bir eşrafın desteği, güçlerine göre ağırlıklandırılır, yani en fazla güce sahip olan bir eşrafın desteğine sahip olmamak, küçük bir destek yüzdesiyle sonuçlanacaktır. Eşrafla daha iyi ilişkiler kurularak destek sağlanır." />
     <string id="8mSDgwhX" text="Bu yerleşimin aleminizde sağladığı etki miktarı." />
     <string id="W4xpFozW" text="Genel Bakış " />
-    <string id="7ELr3vXm" text="Askeri " />
-    <string id="6QMDGRSt" text="Yerleşke " />
-    <string id="XYZ6qwT0" text="Din " />
+    <string id="7ELr3vXm" text="Askeri" />
+    <string id="6QMDGRSt" text="Yerleşke" />
+    <string id="XYZ6qwT0" text="Din" />
     <string id="y5BMxhJv" text="{VILLAGE_NAME} yerleşkesindeki projeler" />
-    <string id="1rU6vVGN" text="Çok fazla alansız başlığınız var. " />
+    <string id="1rU6vVGN" text="Çok fazla alansız ünvanınız var. " />
     <string id="OrGQjeRF" text="Ünvan Limiti Üzerinde" />
     <string id="nESsP3qL" text="Yönetebileceğinizden daha fazla fiefiniz var. " />
     <string id="wV37uMzY" text="Yönetebileceğinizden daha fazla vasal var. " />
@@ -776,8 +776,8 @@
     <string id="y2zNEeT5" text="Zaferlerden kazanılan şöhreti %{EFFECT1} arttırır.\n" />
     <string id="uc7xjTQv" text="Diplomat" />
     <string id="wAPqOuBe" text="August" />
-    <string id="H1igmZMn" text="1 knight less is counted towards vassal limit\nTrade penalty increased by {EFFECT2}%" />
-    <string id="EJEkuBZ4" text="Halk Yöneticisi" />
+    <string id="H1igmZMn" text="1 şövalye eksiği vasal sınırına sayılır\nTicaret cezası %{EFFECT2} artırıldı" />
+    <string id="EJEkuBZ4" text="Halkın Lideri" />
     <string id="sCxt8vV7" text="Kasabaların yerleşke ağırlığı %{EFFECT 1} azaltıldı\nParti büyüklüğü {EFFECT 2} azaltıldı." />
     <string id="F5aAvvhD" text="Kervancıbaşı" />
     <string id="1UEN6xUV" text="Ticaret cezası %{EFFECT1} azaltıldı\nGece saatlerinde hız %{EFFECT2} azaltıldı" />
@@ -823,7 +823,7 @@
     <string id="zYHZu2OC" text="Battanyalıların en büyük göksel ilahiyatını oluşturanlar, Slaugh Aos'An olarak bilinenlerdir - kararmış bulutlar arasında hüküm süren ve yıldız ışığı meşaleleriyle insanlığı gözeten Soylu Halkın Ordusu. Kaprisli varlıklar olarak görüldükleri için nadiren dilekçe verilir; Slaugh Aos'An'ın mevsimlerin değişmesi sırasında Battania'yı ziyaret ettiği ve ülkeye refah ve kıyamet getirmek için kaderin belirlediği kişilerin doğumuna tanık olduğu söylenir. Slaugh Aos'An'ın himayesinde yemin etmek, kişinin sözlerinin harfine veya ruhuna bağlı olmaktır; bir daha asla ve asla ikisi birden. Böyle bir yemini bozmak, kaderin tümünü kendi sonun için işbirliğine davet etmek, cennette ve cehennemde huzuru tanımamaktır." />
     <string id="SgShtGNw" text="Na Sidhfir" />
     <string id="oF7u5Z29" text="Bir nesilden fazla bir süredir Slaugh Aos'An'ın beğenisini ve Battan halkının sevgisini kazanmış sayılanlar, Ormanın Ölümsüz Adamları olan Na Sidhfir'in saflarına atılabilir. Eşit derecede kahramanca ve trajik bir konuma sahip olan Na Sidhfir'in büyük figürlerinin, hatırlandıkları sürece dinlenemeyecekleri, ancak şarkılarının söylenmemesine izin vermeyecek kadar bencil oldukları, yorulmak bilmeyen ve bitkin varlıklar oldukları iddia ediliyor. Derwyddon uygulayıcıları, Na Sidhfir'in Wolfskins'in bedenlerine sahip olduğunu ve onların dinlenmelerine ve göksel alemlerden uzaklaşmalarına izin verdiğini iddia ediyor." />
-    <string id="GgVizsVd" text="Bonus in forest autosimulated battles\nAbility to freely recruit forest bandit parties into your own" />
+    <string id="GgVizsVd" text="Ormanda simüle edilen savaşlarda bonus\nOrman haydut partilerini özgürce kendi bünyenize alma yeteneği" />
     <string id="oWpMWLs8" text="Ata ruhları" />
     <string id="KkYfAdjp" text="Dymhna Sidset" />
     <string id="qhXb37NZ" text="Sabırlı şeytanlar, Dymhna Sidset, çocukların mesellerinin ve kamp ateşi etrafında kötü anlatılan masalların malzemesidir. Kuduz bir köpeğin dudaklarındaki tükürük, kaybolan yavrusunu arayan anne ayının öfkesi, sadece ihanetle vuran soğuk ısırma çeliğidir. Uchalion Platosu'nun Kalradifikasyon girişimi bu pagan inanç setini tamamen temizleyemese de, bölümlere ayırdı ve ritüeller bütününü parçaladı. Devler, hayaletler ve pek çok görünmeyen gölge, İmparatorluğun kaprisleriyle masal ve efsane varlıklarından “sabırlı şeytanlara” dönüştürüldü. Son yıllarda, bazıları Dymhna Sidset'e saygı duymaya çalıştı; bunun yerine onları isyan ve irredantizm yönleri olarak görmek." />
@@ -1080,7 +1080,7 @@
     <string id="sKB4uXQp" text="Ey ruh, hikayen nasıl gidiyor? Anlatmaya değer, ya da böyle bir yükselişte olduğundan eminim. Kahraman ya da kötü adam, kral ya da katil, hoş geldin sana. Açıkça ve içten konuşalım tam gerçek ve tüm ilahiler arasında sözlerimiz için yargılanalım." />
     <string id="x4zmztr7" text="Buna selam olsun, masalını herkes bilsin! İsimleri konuşuluyor, fısıldanıyor ve sallanan dillerle söyleniyor - hem goliard hem de ozan tarafından! Ama onlar kahraman mı yoksa kahraman mı yoksa Onlar hain mi? Bir düzenbaz, bir tırmık, bir arsız veya bir kurtarıcı belki? İlahiler henüz tam olarak yazılmadı, şarkı henüz bitmedi - ama bu sizi rahatsız ediyor veya size ilham veriyor mu? Tarih sizi nasıl tanıyacak?" />
     <string id="hkuoXPq0" text="Hayatımda asillerin ve kral katillerinin, imparatorların ve sultanların benimle konuşmaya geldiği ender günler oldu. Daha önce de oldu, sözlerim pek teselli etmiyordu. Güçlü hükümdarlar her zaman kontrol etmeye çalışırlar. nasıl bakılır, nasıl hatırlanır ve sonsuzluk peşinde şimdiyi ihmal ederek kendilerine lanet ederler.Sizin amelleriniz ve tesirleriniz bir kültür olarak bizim ulu eserlerimizde kaleme alınacak olanlardır ama unutmamanız için dua ederim. sadece bu çağda yaşıyorsun." />
-    <string id="TuFp5arq" text="I have heard of you, even seen the proper pigments used by one who may have potential to be my successor. Their work venerates you, and yet you do not know their name as they know yours. As I know yours." />
+    <string id="TuFp5arq" text="Senin adını duydum, hatta halefim olma potansiyeline sahip birinin kullandığı uygun pigmentleri bile gördüm. İşleri size saygı duyuyor ama siz onların adını onların sizinkini bildikleri gibi bilmiyorsunuz. Seninkini bildiğim gibi." />
     <string id="x5xG6QFp" text="Bunun seni hangi amaçla rahatlatacağını düşünüyorsun? Efsanenin gözünde gençsin; çevrende çok fazla potansiyel var. Kader sana istediğini verecek ve sen - eğer cesursan - arzuladığın şeyi alacaksın." />
     <string id="n9fsvyXc" text="Varlığınız beni yüceltti, çünkü sizinki, İlahiler'deki birçok mısrada söylenen bir isim. yüzünü daha iyi nasıl aydınlatacağımı bilmeden önce yüzünü gümüş noktalı olarak görmüştüm." />
     <string id="pozjMrDc" text="Ey ruh, adını zaten duyduğumu ve seni tavrından tanıdığımı bil. İlahilerde bir lütuftur, ününü onlardan önce almak. Adın benim ciltlerime yazılmıştır. uygun ve önemli olduğunda." />
@@ -1101,7 +1101,7 @@
     <string id="jtinxrFT" text="Ben vaaz vermiyorum yabancı. Sayısız insanımızın - savaşlarımızın, destanlarımızın, trajedilerimizin ve acılarımızın - bileşik tarihlerini, İlahileri yazıyorum. Genç goliardlar şehirlerde övünürken krallığımızın bir katibiyim ve kendimi ülkenin hikayelerini en iyi kendi ellerimle aydınlatabileceğim bir manastıra teslim ettim." />
     <string id="V08yiF68" text="Vaz? şarkı ve şarkıyı dudaklarında taşıyanlar." />
     <string id="eTPHgScM" text="Savaştım, öldürdüm, yaratılmakta olan bir efsaneydim - herkesin kibir içinde olduğunu iddia edeceği gibi. Ama ellerim kılıcın kabzasında ağrıyordu; bir kılıcı kavradığımdan çok daha fazla ağrıyordu. Ve böylece gün batımı günlerimde bile aydınlanıyorum." />
-    <string id="zQKW5qog" text="It is a humble post, and those who recite the tales by rote are seldom worthy of the annals themselves - but those who pen them are granted the privilege of signing their names, and thus we shall be remembered as those who carried the song. " />
+    <string id="zQKW5qog" text="Bu alçakgönüllü bir görevdir ve masalları ezbere okuyanlar nadiren yıllıklara layık görülürler - ancak onları yazanlara isimlerini imzalama ayrıcalığı verilir ve böylece şarkıyı taşıyanlar olarak hatırlanacağız." />
     <string id="JD8uK0Bq" text="Vaaz, bah! Bir Vlandlı vaaz vermez, destanı somutlaştırır ve kendilerinden önce gelenlerden daha büyük arayışlar için kendilerini eylemlere cesaretlendirir!" />
     <string id="Rp3k6Uzy" text="Gençliğimde size hakkında şarkı söylenmesinin şiddet ve şanlı işler gerektirdiğini söylerdim; ama şimdi daha akıllıca söylüyorum, sadece sabırlı olmanız gerekiyor. Bizim inancımız - eğer biri buna öte bir inanç diyebilirse akranlarımıza koyduğumuz şey - senkretizm ve sabırdır. Fethettiğimiz ve üzerinde savaştığımız topraklardan emilen her türlü inançtan, Göklerden, Öteki Dünyadan, Görüşten bahsediyoruz." />
     <string id="tcOP12FR" text="Kanıtlayın... Belki de İlahiler'in doğasını anlamadınız? Bu aşamada bir oyuncusunuz, masalın içinde bir karaktersiniz; yaşayan herkes öyledir. İster üçüncü sınıf olun, ister üçüncü sınıf olun, ikincil, kötü adam ya da kahraman, sayfayı yazanların ve yaptıklarının doğası meselesi. Tarih tarafından yüceltilmek ve ilahilerde söylenmek istiyorsanız, etkinizi her yere yaymalısınız." />
@@ -1193,7 +1193,7 @@
     <string id="OTuRSNZ5" text="Miras Türü:" />
     <string id="Y3mAndLj" text="Bu yerleşimin ünvanıyla ilişkili miras formu. Kalıtım, liderin ölümünden sonra klanı kimin yöneteceğini belirler." />
     <string id="vCryQjBB" text="Cinsiyet Yasası:" />
-    <string id="ArvZcS5p" text="Bu yerleşimin başlığıyla ilişkili cinsiyet yasası. Cinsiyet yasası, mirasın ve diğer kuralların nasıl çalıştığını etkiler." />
+    <string id="ArvZcS5p" text="Bu yerleşimin ünvanıyla ilişkili cinsiyet yasası. Cinsiyet yasası, mirasın ve diğer kuralların nasıl çalıştığını etkiler." />
     <string id="FT5kL9k5" text="Bölüm:" />
     <string id="thVdn5fm" text="Bu bölgedeki mevcut kullanılabilir dönüm miktarı" />
     <string id="ABrCGWep" text="Bu bölgedeki dönümler, çoğu yerde ana gıda kaynağı olan tarım arazisi olarak kullanılıyor" />
@@ -1207,7 +1207,7 @@
     <string id="UMZTmCeE" text="Bölge ne kadar verimli. Bu yalnızca yerel arazi tipine bağlıdır - çöller gibi daha sert ortamlar, ovalar ve çimenli tepelerden daha az verimlidir" />
     <string id="XKe1Q6Db" text="Arazi Zorluğu:" />
     <string id="TVp8DsE9" text="Kullanılabilir yeni dönümler yaratmanın ne kadar zor olduğunu gösterir. Verimlilik gibi, araziye bağlıdır, ancak bununla tam olarak kullanılmaz" />
-    <string id="p7yrSOcC" text="Available Workforce:" />
+    <string id="p7yrSOcC" text="Kullanılabilir Çalışma Gücü:" />
     <string id="1mJgkKHB" text="Bu bölgede arazide çalışabilen üretken işçilerin miktarı" />
     <string id="vaT0rnKq" text="İş Gücü Doygunluğu:" />
     <string id="1KB6Hbpm" text="Alandan tam olarak yararlanmak için gereken miktarla ilişkili olarak kaç işçinin bulunduğunu gösterir. %100'ün üzerindeki doygunluk, arazinin ihtiyaç duyduğundan daha fazla işçiyi gösterirken, %100'ün altındaki tüm dönümlerin üretim yapmadığı anlamına gelir çıktı" />
@@ -1230,7 +1230,7 @@
     <string id="t9sG2dMh" text="Manpower:" />
     <string id="nkk8no8d" text="Köylü İnsan Gücü:" />
     <string id="4gnA3tsw" text="Militarizm:" />
-    <string id="AJMjhhVL" text="Tasarı Verimliliği:" />
+    <string id="AJMjhhVL" text="Dönüşüm Verimliliği:" />
     <string id="8ootTEcK" text="Bu yerleşim yerindeki en asimile edilmiş ve hukuk kültürü olarak kabul edilen kültür." />
     <string id="5VhaJ732" text="Krallığınız için yeni bir ünvan bulundu. Ünvan, konumunuzu meşrulaştıracak ve krallığın de Jure etki alanının, düklüklerin de Jure kaymasıyla genişlemesine ve aynı zamanda bir Hükümdar. Bir ünvan kurmak klanınızın itibarını {RENOWN} artırır. \n \nMaliyetler: {GOLD} {GOLD_ICON}, {INFLUENCE} {INFLUENCE_ICON} \n\nKrallık kurabilir: {POSSIBLE} \n\nAçıklama: {REASON}" />
     <string id="qjD2WwBH" text="{TITLE} ünvanını oluşturmak istiyor musunuz?\nBu size {GOLD}{GOLD_ICON} ve {INFLUENCE}{INFLUENCE_ICON} mal olacak.\nKlanınız ödül olarak {RENOWN} şöhret kazanacak." />
@@ -1280,8 +1280,8 @@
     <string id="scsKRhWJ" text="Bu yerleşim yerinin depolayabileceği yiyecek miktarı." />
     <string id="GX46BKVV" text="Tahmini Bekletme:" />
     <string id="3gN048NJ" text="Bir kuşatma durumunda bu yerleşim yerinin aç kalmaya başlaması ne kadar sürer?" />
-    <string id="WNz6O64F" text="Motorlar:" />
-    <string id="FqCCSBHu" text="Kuşatma durumunda duvarları savunmak için önceden oluşturulmuş kuşatma motorları." />
+    <string id="WNz6O64F" text="Aletler:" />
+    <string id="FqCCSBHu" text="Kuşatma durumunda duvarları savunmak için önceden oluşturulmuş kuşatma aletleri." />
     <string id="tJePaqqg" text="{RELIGION}\nVarlık: {PRESENCE}" />
     <string id="GxcNDrXt" text="{HERO}, nüfusun {PERCENTAGE} üzerinde hakimiyet kuruyor. İnançlarını değiştirmek, yerleşimdeki yeni inancın hakimiyetini güçlendirecektir." />
     <string id="QiyEsZ4L" text="Dini Gerilim:" />
@@ -1654,8 +1654,8 @@
     <string id="uUQpLvpq" text="Geçerli projede tamamlanan iş miktarı" />
     <string id="CT7CW9ZL" text="Tamamlanmasına kalan gün:" />
     <string id="f26MsNsU" text="İnşa edilecek mevcut proje için kalan gün sayısı" />
-    <string id="HiTo8SPQ" text="Invert Clan" />
-    <string id="oezwtR1u" text="Invert the expected result for final clan. The clan whose member leaves it is owed the Dowry by the other family. Therefore, if your family member is leaving your clan, you are owed the Dowry. Spouses are less likely to leave their clans if they are it's leader or it's primary expected inheritor." />
+    <string id="HiTo8SPQ" text="Ters Klan" />
+    <string id="oezwtR1u" text="Nihai klan için beklenen sonucu tersine çevirin. Üyesi ayrılan klana, diğer aile çeyiz borçludur. Bu nedenle, aile üyeniz klanınızdan ayrılıyorsa, Çeyiz borcunuz vardır. Eşler, klan lideri veya beklenen birincil varisi ise, klanlarını terk etme olasılığı daha düşüktür." />
     <string id="GuLW3uHZ" text="Görücü Usulü Evlilik" />
     <string id="HMOHcfzh" text="Eşlere danışmadan evliliği düzenleyin. Kişisel ilişkileri hala göz önünde bulundurulurken, eş adaylarının evlilik sonucunu dikte etme güçleri yoktur. Eşlerden biriyseniz, bu Kur yapma aşaması olmadığı anlamına gelir - evlilik hemen mühürlenir." />
     <string id="n6gncAsu" text="İttifak" />
@@ -1758,7 +1758,7 @@
     <string id="DAEq21QX" text="{CLAN}'a tam Hakimiyet vermek için oy verin" />
     <string id="O2Wi49eq" text="Ülkedeki Akranlar, {CLAN}'ı yeni bir tam Akran olarak onayladı" />
     <string id="VOmEWvW5" text="Krallığın Akranları, {CLAN}'ı yeni bir tam Akran olarak reddetti" />
-    <string id="6oqeHqiZ" text="Krallığın eşleri, {KLAN}'a Hakimiyet verilmesine karar verecek." />
+    <string id="6oqeHqiZ" text="Krallığın eşleri, {CLAN}'a Hakimiyet verilmesine karar verecek." />
     <string id="HiXMs6fF" text="{CLAN}'a Yetki verilmesi için oy verin" />
     <string id="9bbE5rCe" text="{CLAN}'a Yetki verilmesini destekliyoruz" />
     <string id="LaXVFt4S" text="{CLAN}'a Peerage verilmesine karşıyız" />
@@ -1852,8 +1852,8 @@
     <string id="AGbBGrX8" text="Banner Kings'te yerleşim yönetimi, vanilyadan çok daha derin birkaç katmandır. Projeyi seçmekten çok daha karmaşık hale getirir. bulunur." />
     <string id="c0ndZFek" text="Yiyecekler geniş kapsamlı bir şekilde yeniden tasarlanmış. tarafından belirleniyor. Bazlı olarak çok daha yüksek. Stoklardaki fazla düzenlemeler bozulmayabilir. Sınırı aşıldığında, nüfus tüketimi sadece yok olmak yerine marketlere satar." />
     <string id="NsabZ6iw" text="Banner Kings'te, eğitimler artık kahramanların kişisel yaşamlarının büyük bir bölgesi. Kahramanlar dil örnekleri, kitap okumair ve yaşam tarzlarını benimseyebilirler. Diller, konusunda yetkin biri tarafından size öğretilebilir. Kitaplar, kıtadaki az sayıdaki kitap Satıcısı tarafından satılır.Her kitabının bir dilde yazdığı, istediğin her kitabı okuyamazsın.\nYaşam tarzları, belirli bir yaşam tarzı uzmanlaşmanın yeni bir yolunu sunar. İlerleme, her yaşam tarzının sahip olduğu benzersiz, güçlü ayrıcalıklarla ödüllendirilmiş tarzlar." />
-    <string id="SPYNasOF" text="Ünvanlar da birlikte sözleşmeyi oluşturan kanunlar, görevler ve haklardan oluşur. Aynı hiyerarşideki tüm başlıklar aynı sözleşmeye sahiptir. Tüm ünvanların Veraset, Miras, Devlet ve Cinsiyet kanunları vardır. Veraset, hizip liderliğinin nasıl miras alındığını anlatırken, Miras, klanın liderlik mirasını açıklar. Hükümetin yerleşim yerleri üzerinde çeşitli pasif etkileri olduğu gibi, hangi krallık politikalarının mümkün olduğunu dikte etmekte ve bazen diğer kanunları kısıtlamaktadır. Cinsiyet yasası, şövalyelik, hizip veraset ve klan mirası verme açısından belirli bir cinsiyet tercihini tanımlar." />
-    <string id="19hMJEJy" text="Ünvanlar da birlikte sözleşmeyi oluşturan kanunlar, görevler ve haklardan oluşur. Aynı hiyerarşideki tüm başlıklar aynı sözleşmeye sahiptir. Vasal ve hükümdar arasında görev ve haklar yerine getirilir. Hükümdarınız, en yüksek ünvanınızın hemen üzerindeki ünvanın sahibidir. Bir düklük ünvanınız olduğunu varsayalım - hiyerarşide düklük bir krallığın altındadır. Krallık ünvanı sahibi sizin hükümdarınız olacak ve siz de onların vasalı olacaksınız. Vasallar, vergi ödemek veya ordulara katılmak gibi Görevleri yerine getirir (oyuncu ünlü cezalarla katılmaya zorlanır). Hükümdarlar, belirli durumlarda ünvan verme veya mali yardım gibi hakları yerine getirir." />
+    <string id="SPYNasOF" text="Ünvanlar da birlikte sözleşmeyi oluşturan kanunlar, görevler ve haklardan oluşur. Aynı hiyerarşideki tüm ünvanlar aynı sözleşmeye sahiptir. Tüm ünvanların Veraset, Miras, Devlet ve Cinsiyet kanunları vardır. Veraset, hizip liderliğinin nasıl miras alındığını anlatırken, Miras, klanın liderlik mirasını açıklar. Hükümetin yerleşim yerleri üzerinde çeşitli pasif etkileri olduğu gibi, hangi krallık politikalarının mümkün olduğunu dikte etmekte ve bazen diğer kanunları kısıtlamaktadır. Cinsiyet yasası, şövalyelik, hizip veraset ve klan mirası verme açısından belirli bir cinsiyet tercihini tanımlar." />
+    <string id="19hMJEJy" text="Ünvanlar da birlikte sözleşmeyi oluşturan kanunlar, görevler ve haklardan oluşur. Aynı hiyerarşideki tüm ünvanlar aynı sözleşmeye sahiptir. Vasal ve hükümdar arasında görev ve haklar yerine getirilir. Hükümdarınız, en yüksek ünvanınızın hemen üzerindeki ünvanın sahibidir. Bir düklük ünvanınız olduğunu varsayalım - hiyerarşide düklük bir krallığın altındadır. Krallık ünvanı sahibi sizin hükümdarınız olacak ve siz de onların vasalı olacaksınız. Vasallar, vergi ödemek veya ordulara katılmak gibi Görevleri yerine getirir (oyuncu ünlü cezalarla katılmaya zorlanır). Hükümdarlar, belirli durumlarda ünvan verme veya mali yardım gibi hakları yerine getirir." />
     <string id="hdCe0ntY" text="Banner Kings'te klanların bir konseyi vardır. Konseyler 5 rolden oluşur - mareşal, kâhya, şansölye, casus şefi ve din danışmanı.\nBu roller eşraf veya vasallar tarafından yerine getirilebilir ve her biri belirli bir beceri seti gerektirir. Bu nedenle, farklı adayların her rolde farklı yetkinlikleri olacaktır.\nKonseyler, Kraliyet Konseyleri de olabilir. Bunlar, hizip lideri klanların konseyleridir. Bu konseylerin ekstra pozisyonları ve özellikleri vardır. Yeni pozisyonlar dinamiktir ve krallık kültürü ve hükümet biçimi gibi çeşitli faktörlere bağlıdır. Son olarak, Kraliyet Konseylerinin 5 ana rolü, yalnızca lordlar, kralın vasalları tarafından doldurulabilir, alt düzeydeki eşraf tarafından doldurulamaz." />
     <string id="00LCPzVE" text="Banner Kings'te teknoloji ve toplumdaki yenilikler zamanla gerçekleşir. Bunlar, tarımsal üretim veya genel üretim verimliliği gibi - özellikle yerleşim yerlerinde - çeşitli yönleri değiştirebilir.\nHer kültürün diğerlerinden bağımsız olarak ilerleyen bir dizi yeniliği vardır. Ayrıca bir Büyüleyicilikleri var - daha hızlı gelişen bir yenilik.\nYenilikler araştırma noktalarıyla geliştirilir. Bunlar, yerleşim yerlerinin soylu nüfusu başta olmak üzere yerleşim yerleri tarafından üretilir. Bir kültür ne kadar çok yerleşime sahipse, o kadar hızlı gelişir." />
     <string id="ipu2SLhu" text="Banner Kings'te, at zırhları, kalkanlar, cephaneler ve zırh parçaları üretme olasılığı ile demircilik önemli ölçüde genişletildi. Silah işçiliğinin aksine, demircilik becerinize kıyasla parçanın zorluğuna bağlı olarak, bunların başarısız olma şansı vardır. Başarısız olduğunuzda, xp alırsınız, ancak öğe olmaz.\nAyrıca demircilik daha da zorlaşır. Her şeyi inşa etmek daha fazla dayanıklılığa mal olur. Harcanan her dayanıklılık noktası, haritada harcanan zamanla ilişkilidir - tüm dayanıklılığınızı harcamak, demircilik üzerinde çalışarak yerleşim yerinde birkaç saat beklemenize neden olur. Bu saatler de ücretlidir çünkü demirhane sizin değildir. Esasen Banner Kings, kullanım alanlarını genişletirken demirciliği oyundaki büyük bir istismar olarak düzeltmeyi amaçlıyor." />
@@ -1888,7 +1888,7 @@
     <string id="Oo88Sazm" text="Hay hay!" />
     <string id="Nbf4SZPx" text="Paranız olmadığı için dersinizi yarıda bıraktınız." />
     <string id="YfLY43hV" text="{ORIGIN}'den Garnizon" />
-    <string id="scETr7Ej" text="{ORIGIN}'den Yükseltilmiş Milisler" />
+    <string id="scETr7Ej" text="{ORIGIN}'den Çağırılan Milisler" />
     <string id="9JxzuH5a" text="{ORIGIN}'den Geri Alın" />
     <string id="K8qLtDh3" text="Bayramlar" />
     <string id="Ctj7k5TV" text="Oyuncu ve yapay zeka için ziyafetleri tetikleme özelliğini etkinleştirin. Varsayılan: True." />
@@ -1921,7 +1921,7 @@
     <string id="QrXhX0kF" text="{SUZERAIN}, ünvansız bir vasal olarak varsayılan hükümdarınızdır." />
     <string id="WpXfTefm" text="Süzeren" />
     <string id="AaS8WTzj" text="Kişisel" />
-    <string id="Tcir35E5" text="Kingdom decisions affect your realm as a whole or your family's position in the realm." />
+    <string id="Tcir35E5" text="Krallık kararları krallığınızın tamamını veya ailenizin krallıktaki konumunu etkiler." />
     <string id="8MLr4eSD" text="Özel" />
     <string id="VbM15ztE" text="Almak için bir karar kategorisi seçin. Karakter sekmesinde hangi kahraman seçilirse seçilsin, kararlar her zaman aile lideri adına alınır." />
     <string id="VX9LJJpS" text="Atölye envanter üzerinde çalışıyor!" />
@@ -1930,8 +1930,8 @@
     <string id="krVcSaH5" text="Son Ödeme:" />
     <string id="oGNtP5yt" text="Bu köyün sahibi tarafından yapılan son ödeme." />
     <string id="JdH9ubwj" text="Turnuvanız için bir ödül seçin. Değeri ne kadar büyükse, turnuva bittiğinde o kadar çok ünlü verilecektir." />
-    <string id="mGfT9o4X" text="Milisleri yükseltin" />
-    <string id="zzjbxN9h" text="Çağrı Afişleri" />
+    <string id="mGfT9o4X" text="Milisleri Göreve Çağır" />
+    <string id="zzjbxN9h" text="Seferberlik" />
     <string id="QHfkhG0b" text="Bir partide değil." />
     <string id="yG6r0iaK" text="Sancaklarınızı en son toplamanızın üzerinden 2 sezondan az zaman geçti." />
     <string id="5v0L5y5A" text="{HERO}'yu ordunuza çağırın. Onlar sizin evinizde bir şövalye. Şu anda {TROOPS} birliğe liderlik ediyorlar. Onları çağırmak {INFLUENCE} nüfuza mal olacak." />
@@ -1945,7 +1945,7 @@
     <string id="TmB613jp" text="Kanun ve Patrik'in soydaşlarımıza öğrettiği gibi katliam yapacak mısınız?" />
     <string id="WWViZXWf" text="Banner Kings'te ekonomi manzarası oldukça farklıdır.\nTalep yerleşim yerlerindeki nüfus tarafından oluşturulur ve bu nedenle nüfus sınıfları dalgalandığı ve her sınıfın farklı talepleri olduğu için öncekinden çok daha dinamiktir.\ nTicari mallar, 'kaliteli', 'ustalık' veya 'ham' gibi değiştiricilere sahiptir, bu da kâr açısından yeni olasılıklar açar.\nÜretilen ürünler ortalama olarak oldukça pahalıdır, bu da atölyeleri ve karavanları önemli ölçüde daha karlı hale getirir.\nAtölye sahipleri artık ödeme yapıyor yerleşim yeri sahibine vergiler.\nUzlaşma piyasası altını artık günlük olarak sıfırlanmıyor - yerleşim yerleri büyük miktarda altın biriktirebilir veya iflas edebilir, bu nedenle toparlanması biraz zaman alabilir." />
     <string id="civsKq8g" text="Köyler, üretim çıktılarını satarak gelir elde ediyor. Köyler artık nüfus işgücüne ve uygunsa mevcut yüzölçümüne göre üretim yapacak. Örneğin, tarımsal üretimler mevcut dönüm miktarıyla sınırlıdır. ve üretim kapasiteleri - fazladan işçiniz olsa bile tarlalar ancak bu kadar ürün üretebilir.\nSonuç olarak, köyler eskisinden çok daha fazla gelir elde edebilir. Bu, makalelerde hakkında daha fazla bilgi edinebileceğiniz Şövalyelik için özellikle önemlidir. altında." />
-    <string id="9G2RkTYh" text="Banner Kings'te yasal unvanlar, Yerleşke (etki alanı) Hiyerarşisi denilen yerde bulunur. Unvanlar toprak sahibi olabilir veya olmayabilir. Toprak unvanları doğrudan bir tımarhaneye bağlıdır - lordluklar köy unvanlarıdır, baronluklar ise kale unvanları, ilçeler kasaba unvanlarıdır. Bunların üzerinde düklükler ve krallıklar gibi toprak sahibi olmayan unvanlar bulunur. Hiyerarşi, unvan sahipleri arasındaki hükümdar-vassal ilişkileri kurar. Bir unvana sahip olmanın çeşitli etkileri vardır, özellikle Vassal Limitinizi ve Yerleşke Limitinizi etkiler, bu sınır sırasıyla vasal klan ve şövalye sayınız ve yurtluk sınırınız. Oyun başlangıcında her fraksiyonun onları temsil eden krallık düzeyinde bir unvanı vardır. Bu unvan, fraksiyonun birbirini izleyen liderlerine, bağlı olarak farklı biçimlerde aktarılır. başlığın Veraset yasası." />
+    <string id="9G2RkTYh" text="Banner Kings'te yasal unvanlar, Yerleşke (etki alanı) Hiyerarşisi denilen yerde bulunur. Unvanlar toprak sahibi olabilir veya olmayabilir. Toprak unvanları doğrudan bir tımarhaneye bağlıdır - lordluklar köy unvanlarıdır, baronluklar ise kale unvanları, ilçeler kasaba unvanlarıdır. Bunların üzerinde düklükler ve krallıklar gibi toprak sahibi olmayan unvanlar bulunur. Hiyerarşi, unvan sahipleri arasındaki hükümdar-vassal ilişkileri kurar. Bir unvana sahip olmanın çeşitli etkileri vardır, özellikle Vassal Limitinizi ve Yerleşke Limitinizi etkiler, bu sınır sırasıyla vasal klan ve şövalye sayınız ve yurtluk sınırınız. Oyun başlangıcında her fraksiyonun onları temsil eden krallık düzeyinde bir unvanı vardır. Bu unvan, fraksiyonun birbirini izleyen liderlerine, bağlı olarak farklı biçimlerde aktarılır. Unvanın veraset yasası." />
     <string id="r27hBdeh" text="Banner Kings'te yoldaşlar artık klan partileri oluşturamazlar. Bunun yerine, nüfuz ve dinar harcamayı içeren bir süreç olan şövalye olabilirler. Şövalye olduklarında, bir grup kurabilirler. ayrıca şövalyenin alacağı ve gelirini kendi partisine ödemek için kullanacağı bir lordluk unvanı gerektirir - yalnızca aile üyeleriniz tarafından yönetilenler için ödeme yaparsınız. Şövalyeler sonunda lordlar olarak büyüyebilir ve kendi klanlarını kurabilirler. Şövalyeler yapay zeka tarafından kullanılır , yani birçok yeni lord haritada dolaşıyor ve sonunda birçok yeni klan filizleniyor. Oyuncu kendi şövalyelerinin klan oluşturmasını engellemeye çalışabilir." />
     <string id="GLumT6vM" text="O zaman karar verildi. Sana Şövalye unvanını veriyorum." />
     <string id="rf3QLBok" text="Benim kültürüme geçmenizi istiyorum ({INFLUENCE} etkisi)." />
@@ -2161,7 +2161,7 @@
     <string id="5sazP1rU" text="Artan milis üretimi\nGeliştirilen milis kalitesi" />
     <string id="FXZETOgg" text="Militarizmi Teşvik Et" />
     <string id="DViCQ3L7" text="Halk içinde militarizmi teşvik edin. Daha fazla militarizm, nüfusun daha büyük bir kısmının insan gücü olarak hizmet edeceği ve daha hızlı yenilenen daha büyük insan gücü havuzlarına yol açacağı anlamına gelir. Eşraf ayrıca gönüllü yuvalarını daha hızlı dolduracak." />
-    <string id="zFwDhSTs" text="Artan militarizm &amp; tasarı verimliliği" />
+    <string id="zFwDhSTs" text="Artan militarizm &amp; dönüşüm verimliliği" />
     <string id="K8nUXVve" text="Ekonomi Geliştir" />
     <string id="i7cD9XCL" text="Bölgenizde uzun vadeli refahı teşvik edin. Artan kervan çekiciliği, daha fazla ticaret ve tarife geliri sağlar." />
     <string id="y1jcxLnC" text="Artan refah\nArtan karavan çekiciliği" />
