@@ -64,7 +64,7 @@
     <string id="dOcj05n6" text="Ne varsa alıyorum. Teslim ol ya da öl!" />
     <string id="zhRJeYOY" text="Devam et, sonra görüşürüz." />
     <string id="Nk8tSdcu" text="Kölelerinizi ve eşyalarınızı bana verin, aksi takdirde!" />
-    <string id="Hvi96rXx" text="Benim şirketime katılın." />
+    <string id="Hvi96rXx" text="Benim yoldaşlarıma katılın." />
     <string id="xPvsVw4b" text="Eve gidebilirsin." />
     <string id="erGoiFgH" text="{CLERGYMAN_GREETING}" />
     <string id="B9ei3RAA" text="Ne vaaz veriyorsunuz?" />
@@ -338,18 +338,18 @@
     <string id="VJfbLXmi" text="Ekmek{@Plural}somun ekmek{\@}" />
     <string id="Qa0dQMOc" text="Turta{@Plural}sepet turta{\@}" />
     <string id="C5Xe5MJK" text="Havuç{@Plural}sepet havuç{\@}" />
-    <string id="hFV7jxHj" text="Heart's Desire{@Plural}collection of Heart's Desire books{\\@}" />
-    <string id="JBn6T1dd" text="Parangelmata Poliorcetica{@Plural}collection of Parangelmata Poliorcetica books{\\@}" />
-    <string id="jbbauY27" text="Strategikon{@Plural}collection of Strategikon books{\\@}" />
-    <string id="dOtwMJwJ" text="De Re Militari{@Plural}collection of De Re Militari books{\\@}" />
-    <string id="9V3FBo9c" text="A Treatise on the Value of Things{@Plural}collection of A Treatise on the Value of Things books{\\@}" />
-    <string id="SRUPiSKM" text="The Green Knight{@Plural}collection of The Green Knight books{\\@}" />
-    <string id="c44evtZJ" text="Dictionarium Calradium{@Plural}collection of Dictionarium Calradium books{\\@}" />
-    <string id="OYeWEWXA" text="Royal Armouries Ms. I.33{@Plural}collection of Royal Armouries Ms. I.33{\\@}" />
-    <string id="Pd777Yb5" text="Rìghfénnid{@Plural}collection of Rìghfénnid{\\@}" />
-    <string id="b9HdDnYL" text="Origin and Mechanics of the Crossbow{@Plural}collection of Origin and Mechanics of the Crossbow{\\@}" />
-    <string id="DgTSOSYQ" text="The History of Calradian Archery{@Plural}collection of The History of Calradian Archery{\\@}" />
-    <string id="5v2oKnX6" text="Lycaron debate of 1074{@Plural}collection of Lycaron debate of 1074y{\\@}" />
+    <!-- <string id="hFV7jxHj" text="Heart's Desire" />
+    <string id="JBn6T1dd" text="Parangelmata Poliorcetica" />
+    <string id="jbbauY27" text="Strategikon" />
+    <string id="dOtwMJwJ" text="De Re Militari" />
+    <string id="9V3FBo9c" text="A Treatise on the Value of Things" />
+    <string id="SRUPiSKM" text="The Green Knight" />
+    <string id="c44evtZJ" text="Dictionarium Calradium" />
+    <string id="OYeWEWXA" text="Royal Armouries Ms. I.33" />
+    <string id="Pd777Yb5" text="Rìghfénnid" />
+    <string id="b9HdDnYL" text="Origin and Mechanics of the Crossbow" />
+    <string id="DgTSOSYQ" text="The History of Calradian Archery" />
+    <string id="5v2oKnX6" text="Lycaron debate of 1074" /> -->
     <string id="3UAFVNOE" text="Ayrıcalıklı Şövalye" />
     <string id="c9Cwm6Ek" text="Krallığın kültüründen farklı kültür şövalyeleri artık kabul edilmeyecek.Krallık kültürü yerleşke ile şövalyeler, özel bir ünvan alacak ve geri kazanımlarını sürdürmelerine yardımcı olacaklar." />
     <string id="9TThCFw6" text="Şövalyeyi sadece kültürel akranlarıyla kısıtlamak" />
@@ -1355,7 +1355,7 @@
     <string id="JBxgr7jN" text="Dönüşüm mümkün." />
     <string id="dxwTedS0" text="Yeterli dindarlık yok." />
     <string id="7BfN1tqa" text="Vaizleri dönüştürmek mümkün değil." />
-    <string id="6WM78pd8" text="{CARAVAN} size {GOLD}{GOLD_ICON} emanet etti" />
+    <string id="6WM78pd8" text="{CARAVAN} size {GOLD}{GOLD_ICON} gelir getirdi" />
     <string id="xEwX83aU" text="{ORIGIN}'den {CLASS} Seyahati" />
     <string id="cCzJ9Nk6" text="{ORIGIN}'den Köle Karavanı" />
     <string id="KGqPK07Z" text="{COUNT} {UNIT} fanatik partinize katıldı!" />
