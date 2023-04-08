@@ -1225,9 +1225,9 @@
     <string id="O9p6A7yD" text="Karavan Çekiciliği:" />
     <string id="MhzdyoWG" text="Yönetim Maliyeti:" />
     <string id="ay7jnvEJ" text="Vergi gelirinden düşülen etkin politikalar ve kararlar dahil, uzlaşma yönetimiyle ilişkili maliyetler." />
-    <string id="UADFWZgq" text="Milis Cap:" />
+    <string id="UADFWZgq" text="Milis Kapasitesi:" />
     <string id="ROFzvP4W" text="Milis Kalitesi:" />
-    <string id="t9sG2dMh" text="Manpower:" />
+    <string id="t9sG2dMh" text="İnsan Gücü:" />
     <string id="nkk8no8d" text="Köylü İnsan Gücü:" />
     <string id="4gnA3tsw" text="Militarizm:" />
     <string id="AJMjhhVL" text="Dönüşüm Verimliliği:" />
@@ -1478,7 +1478,7 @@
     <string id="q3PH022A" text="Maden kaynaklarının yerel olarak araştırılması için maden kazın. Cevherler, mevcut yerel kaynaklar ve toprağın zenginliği ile sınırlı olacaktır. Çıktı mümkün olduğunda pazara satılacak veya aksi takdirde Zulada saklanacaktır. Seviyeler cevher üretimini artırın." />
     <string id="rQmTMDxF" text="Tiyatro" />
     <string id="SrAXS0oM" text="Cemaat için ortak bir yer olan tiyatro, sanatı ve hikayeleri aracılığıyla kültürün varlığını güçlendirme amacına hizmet eder. Sahibinin kültürünün kültürel varlığını artırır." />
-    <string id="sBTMZdyq" text="Armory" />
+    <string id="sBTMZdyq" text="Cephanelik" />
     <string id="UoZbZaaT" text="Cephanelik, kasaba milislerinin ekipmanlarını stoklamak ve korumak için kullanılır. Milis kalitesini yükseltir ve garnizon eğitimi sağlar." />
     <string id="4CTz9MRe" text="Adliye" />
     <string id="USZBgRW0" text="Adliye, kasaba halkının ihtilaflarını yasal olarak çözdüğü yerdir. Mülkiyet ihtilafları veya hakaret gibi ihtilaflar yerel yönetim tarafından ele alınır. İstikrarı artırır." />
@@ -1495,18 +1495,18 @@
     <string id="83fgAUQK" text="seçimleri başlatamayacak" />
     <string id="QwfFjAZ9" text="şövalyelik verebilecek" />
     <string id="6sUSbwzR" text="şövalyelik veremeyecek" />
-    <string id="qH3iU28t" text="fiefler almaya uygun olacak" />
-    <string id="nBw47opa" text="fief verilmesi için uygun olmayacak" />
+    <string id="qH3iU28t" text="tımarlar almaya uygun olacak" />
+    <string id="nBw47opa" text="tımar verilmesi için uygun olmayacak" />
     <string id="qGyXzxD6" text="bir konseye ev sahipliği yapabilecek" />
     <string id="0xeuyAkM" text="bir konsey düzenleyemeyecek" />
     <string id="EP03brzX" text="{HERO}, {LANGUAGE} öğrenmeyi durdurdu. {INSTRUCTOR} eğitmeni müsait değil veya öldü." />
-    <string id="ywciPeBS" text="Limestone{@Plural}stacks of limestone bricks{\\@}" />
-    <string id="D3mU8bc3" text="Marble{@Plural}stacks of marble bricks{\\@}" />
-    <string id="E6sgXO5n" text="Gold Ore{@Plural}sacks of gold ore{\\@}" />
-    <string id="ak0txv88" text="Gold Ingot{@Plural}stacks of gold ingots{\\@}" />
-    <string id="SajCUfsW" text="Gems{@Plural}pouches of gems{\\@}" />
+    <string id="ywciPeBS" text="Kireçtaşı{@Plural}stacks of limestone bricks{\\@}" />
+    <string id="D3mU8bc3" text="Mermer{@Plural}stacks of marble bricks{\\@}" />
+    <string id="E6sgXO5n" text="Altın Madeni{@Plural}sacks of gold ore{\\@}" />
+    <string id="ak0txv88" text="Altın Külçesi{@Plural}stacks of gold ingots{\\@}" />
+    <string id="SajCUfsW" text="Değerli Taş{@Plural}pouches of gems{\\@}" />
     <string id="wNr4YQOo" text="Franceska{@Plural}collection of Franceska{\\@}" />
-    <string id="w7yf8SAj" text="Aseran Papyrus{@Plural}collection of Aseran Papyrus{\\@}" />
+    <string id="w7yf8SAj" text="Asera Papirüsü{@Plural}collection of Aseran Papyrus{\\@}" />
     <string id="10HppTfS" text="Siz ve oluşumunuz, yayayken büyük kılıçlarla %4 daha fazla hasar verirsiniz." />
     <string id="4oCh1aji" text="Siz ve dizilişiniz yayayken %10 nişan alın." />
     <string id="PWvLhAPL" text="Yağmacı" />
@@ -1519,10 +1519,10 @@
     <string id="pSdJAe7r" text="Önemlilerle işe alma seviyesini 1 artır." />
     <string id="ZkcrOXbm" text="Ghazw" />
     <string id="8V2avPGC" text="Develer %12 daha fazla sağlığa sahiptir." />
-    <string id="DiGKj6HS" text="Camel Master" />
+    <string id="DiGKj6HS" text="Deve Ustası" />
     <string id="DD8PV3zG" text="Siz ve oluşumunuzdaki askerler, develere bindiğinizde %8 daha hızlısınız." />
     <string id="9kDvMoNQ" text="Siz ve oluşumunuzdaki askerler, binek üzerindeyken %10 daha fazla fırlatma hasarı verirsiniz." />
-    <string id="me23NvbZ" text="Dune Rider" />
+    <string id="me23NvbZ" text="Çöl Binicisi" />
     <string id="MbEcXyGc" text="Siz ve oluşumdaki birlikleriniz, ciritlerle vururken binicileri indirmek için %5 şansa sahipsiniz." />
     <string id="dLnLYNRE" text="Çöllerde parti %8 daha hızlıdır." />
     <string id="fvbLMV0a" text="{LAW}, {TITLE} içinde yürürlüğe girmiştir." />
@@ -1607,7 +1607,7 @@
     <string id="66zjiMe4" text="Atölye çalışma koşulları. Gerekli girdiler olmadığı için üretim yapmıyor olabilir." />
     <string id="1qiPuhoF" text="Vergi oranı:" />
     <string id="kZMXmhpv" text="Atölye Güncellemesi" />
-    <string id="gVt0aj0G" text="Bu atölye mülkünü yükseltmek ister misiniz? Yükseltme yaparak atölyenin giderleri %12, üretim kalitesi ise %8 artacaktır. Süreç 3 inşaat günü sürecek ve maliyeti { MALİYET}{GOLD_ICON}" />
+    <string id="gVt0aj0G" text="Bu atölye mülkünü yükseltmek ister misiniz? Yükseltme yaparak atölyenin giderleri %12, üretim kalitesi ise %8 artacaktır. Süreç 3 inşaat günü sürecek ve maliyeti {COST}{GOLD_ICON}" />
     <string id="vArnerHC" text="Varis" />
     <string id="89Wxt2hs" text="Kraliyet:" />
     <string id="mxVj1euY" text="Evlilik" />
