@@ -3,4 +3,7 @@
 <LanguageData id="Türkçe" name="Türkçe" subtitle_extension="tr" supported_iso="tr,tr-TR" under_development="false">
 	<LanguageFile xml_path="TR/std_module_strings_xml.xml" />
 	<LanguageFile xml_path="TR/common_strings.xml" />
+	<LanguageFile xml_path="TR/item_modifiers.xml" />
+	<LanguageFile xml_path="TR/estates.xml" />
+	<LanguageFile xml_path="TR/council.xml" />
 </LanguageData>

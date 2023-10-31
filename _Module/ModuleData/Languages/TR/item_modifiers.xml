@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<base xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" type="string">
+  <tags>
+    <tag language="Türkçe" />
+  </tags>
+  <strings>
+    <string id="8Tal0XIj" text="Şaheser {ITEMNAME}" />
+    <string id="bAdxUq7s" text="Kaliteli {ITEMNAME}" />
+    <string id="xeb1b5PQ" text="İyi {ITEMNAME}" />
+    <string id="RwBOv1Mz" text="Ham {ITEMNAME}" />
+    <string id="RwBOv1Mz" text="Eskimiş {ITEMNAME}" />
+    <string id="bk_modifier_poor" text="Kötü {ITEMNAME}" />
+    <string id="bk_modifier_purebred" text="Safkan {ITEMNAME}" />
+    <string id="bk_modifier_strong" text="Güçlü {ITEMNAME}" />
+    <string id="bk_modifier_stubborn" text="İnatçı {ITEMNAME}" />
+    <string id="bk_modifier_anaemic" text="Kansız {ITEMNAME}" />
+  </strings>
+</base>

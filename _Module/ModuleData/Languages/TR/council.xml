@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<base xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" type="string">
+  <tags>
+    <tag language="Türkçe" />
+  </tags>
+  <strings>
+    <string id="bk_council_description_legioncommander1" text="Yüksek rütbeli imparatorluk ordu komutanlığı görevi. Ordular kurabilir ve yönetebilir." />
+    <string id="str_bk_council_description_antiquarian" text="." />
+  </strings>
+</base>
