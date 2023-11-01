@@ -1,1 +1,0 @@
-xcopy *.xml 'C:\program files (x86)\steam\steamapps\common\Mount & Blade II Bannerlord\Modules\BannerKings\ModuleData\Languages\TR'

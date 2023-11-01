@@ -1,13 +1,13 @@
 ﻿<Project Sdk="Microsoft.NET.Sdk">
 
   <PropertyGroup>
-    <Version>0.1.0</Version>
+    <Version>0.1.8</Version>
     <TargetFramework>netstandard2.0</TargetFramework>
     <Platforms>x64</Platforms>
     <LangVersion>10.0</LangVersion>
     <Nullable>enable</Nullable>
-    <ModuleId>BannerKings</ModuleId>
-    <ModuleName>BannerKings</ModuleName>
+    <ModuleId>BannerKings.Turkish</ModuleId>
+    <ModuleName>BannerKings.Turkish</ModuleName>
     <GameFolder>$(BANNERLORD_GAME_DIR)</GameFolder>
   </PropertyGroup>
 

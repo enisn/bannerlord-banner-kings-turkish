@@ -6,4 +6,5 @@
 	<LanguageFile xml_path="TR/item_modifiers.xml" />
 	<LanguageFile xml_path="TR/estates.xml" />
 	<LanguageFile xml_path="TR/council.xml" />
+	<LanguageFile xml_path="TR/workshops.xml" />
 </LanguageData>
