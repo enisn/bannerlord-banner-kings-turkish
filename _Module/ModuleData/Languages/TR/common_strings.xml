@@ -7,6 +7,25 @@
   </tags>
   <strings>
     <string id="gaJDVkvHA" text="Placeholder" />
+    <string id="iWcM5S0d" text="Zula" />
+    <string id="QVOpQQ9V" text="Market" />
+    <string id="DKd1O8fp" text="En yakın kaynak" />
+    <string id="qRqnrtdX" text="Sahibi" />
+    <string id="j4F7tTzy" text="Klan" />
+
+    <string id="FU9JZQuP" text="Lüks Ürünler" />
+    <string id="2wwjFQ2A" text="Mücevher, kadife ve kürk gibi ürünlerin mevcudiyetinden duyulan memnuniyet." />
+    <string id="GsJWKW0o" text="Endüstriyel Ürünler" />
+    <string id="irOAqrdy" text="Deri, kil ve aletler gibi imalat ürünlerinin mevcudiyetinden duyulan memnuniyet." />
+    <string id="SuHW6rM5" text="Gıda Ürünleri" />
+    <string id="QJ1pjKxw" text="Gıda türlerinin mevcudiyetinden duyulan memnuniyet." />
+    <string id="HoU7ZObZ" text="Temel Ürünler" />
+    <string id="NENnF6oJ" text="Askeri ekipman ve atlar da dahil olmak üzere çeşitli ürünlerin mevcudiyetinden duyulan memnuniyet." />
+
+    <string id="CyF16uSZ" text="Turnuva şu ödülle başladı: {PRIZE}" />
+
+    <string id="str_bk_estate_task.Land_Expansion" text="{=bk_land_expansion}Arazi Genişletme" />
+    <string id="str_bk_estate_task.Prodution" text="{=bk_production}Üretim" />
 
     <string id="trait_obtuse" text="Kalın Kafalı" />
     <string id="trait_blunt" text="Açık Sözlü" />
@@ -69,20 +88,19 @@
     <string id="bk_land_expansion" text="Arazi Genişletme" />
     <string id="bk_production" text="Üretim" />
 
-    <string id="bk_description_clay"
-      text="Kil, tarihi ahşap kadar eski bir geçmişi olan, yapı malzemesi olarak kullanılması uzun bir geleneğe sahiptir. Kıtada oldukça yaygın olan bu malzeme, ahşap tabanlardan daha sağlam bir taban sağlar. Tuğla olarak pişirilebilir ve bu sayede çok yönlü bir malzemedir." />
-    <string id="bk_description_marble"
-      text="Kireçtaşından daha nadir ve daha değerli bir malzeme olan mermer, İmparatorlar tarafından heykeltraşlık için oyulabilen yumuşak bir malzeme olarak keşfedildi. Bu özellik, malzemenin doğal güzelliği ile birleşince, onu çok aranan bir malzeme haline getirdi. Saraylar ve forumlar gibi daha gösterişli binalarda zenginliği ve gücü yansıtmak için sıkça kullanılır." />
+    <string id="bk_description_clay" text="Kil, tarihi ahşap kadar eski bir geçmişi olan, yapı malzemesi olarak kullanılması uzun bir geleneğe sahiptir. Kıtada oldukça yaygın olan bu malzeme, ahşap tabanlardan daha sağlam bir taban sağlar. Tuğla olarak pişirilebilir ve bu sayede çok yönlü bir malzemedir." />
+    <string id="bk_description_marble" text="Kireçtaşından daha nadir ve daha değerli bir malzeme olan mermer, İmparatorlar tarafından heykeltraşlık için oyulabilen yumuşak bir malzeme olarak keşfedildi. Bu özellik, malzemenin doğal güzelliği ile birleşince, onu çok aranan bir malzeme haline getirdi. Saraylar ve forumlar gibi daha gösterişli binalarda zenginliği ve gücü yansıtmak için sıkça kullanılır." />
 
-    <string id="bk_description_hardwood"
-      text="Yapı malzemelerinin özü olan, insanların yapacaklarını yazmadan önce kullandığı malzemelerin başında gelir. Sadece yapıların tamamını inşa etmekle kalmaz, aynı zamanda kil veya kireçtaşı gibi daha sağlam tabanlar üzerine yapılmış yapıları da tamamlar." />
-    <string id="bk_description_limestone"
-      text="Kireçtaşı, taş binaların, duvarların ve yolların sağlam bir malzemesi olarak hizmet veren yaygın bir mineraldir. Yaygın olmasına rağmen, ahşap veya kil kullanmaktan daha maliyetli çıkarılır ve taşınır." />
+    <string id="bk_description_hardwood" text="Yapı malzemelerinin özü olan, insanların yapacaklarını yazmadan önce kullandığı malzemelerin başında gelir. Sadece yapıların tamamını inşa etmekle kalmaz, aynı zamanda kil veya kireçtaşı gibi daha sağlam tabanlar üzerine yapılmış yapıları da tamamlar." />
+    <string id="bk_description_limestone" text="Kireçtaşı, taş binaların, duvarların ve yolların sağlam bir malzemesi olarak hizmet veren yaygın bir mineraldir. Yaygın olmasına rağmen, ahşap veya kil kullanmaktan daha maliyetli çıkarılır ve taşınır." />
 
-    <string id="bk_limestone" text="Kireçtaşı{@Plural}kireçtaşı blokları{\@}" />
-    <string id="bk_gold" text="Altın{@Plural}yük altın yükleri{\@}" />
-    <string id="bk_mead" text="Bal kabağı{@Plural}meşrubat fıçıları{\@}" />
-    <string id="bk_marble" text="Mermer{@Plural}mermer blokları{\@}" />
+    <string id="bk_description_iron" text="Demir, aletler ve binaların destekleyici yapıları için temel malzemedir. Çoğu gelişmiş binada bir dereceye kadar demir kullanılır." />
+		<string id="bk_description_tools" text="En kaba yapılar dışında her şey özel aletler gerektirir. Binalar geliştikçe daha fazla alete ihtiyaç duyarlar, özellikle de taşın olağanüstü sert doğası nedeniyle taş binalar." />
+
+    <string id="bk_limestone" text="Limestone{@Plural}blocks of limestone{\@}" />
+    <string id="bk_gold" text="Altın" />
+    <string id="bk_mead" text="Bal kabağı" />
+    <string id="bk_marble" text="Mermer" />
 
     <string id="bk_primogeniture" text="Büyük oğul mirası" />
     <string id="bk_ultimogeniture" text="Küçük oğul mirası" />

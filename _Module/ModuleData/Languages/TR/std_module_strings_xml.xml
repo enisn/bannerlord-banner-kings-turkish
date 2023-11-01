@@ -194,7 +194,7 @@
     <string id="NSWFGCd6" text="Primogeniture en büyük yaştaki kan ailesini destekler.Kan ile ilişkili olmayan klan üyeleri son çare. " />
     <string id="SiRpKHww" text="Kıdem, kan bağlantılarından bağımsız olarak klanda daha ileri yaştaki yaşları desteklemektedir. " />
     <string id="aybPH14L" text="Ultimogeniture, kan ailesinin yanı sıra klandaki en genç olanı destekliyor.Kan ile ilişkili olmayan klan üyeleri son çare. " />
-    <string id="EjVOGKj7" text="Agnatic yasası erkekleri destekler.Kadınlar tamamen hariç tutulmasa da, sadece bir erkek adayın mevcut olmaması durumunda seçileceklerdir. " />
+    <string id="EjVOGKj7" text="Agnatik yasası erkekleri destekler.Kadınlar tamamen hariç tutulmasa da, sadece bir erkek adayın mevcut olmaması durumunda seçileceklerdir. " />
     <string id="M0MP3ysP" text="Bilişsel yasa her iki cinsiyet arasında bir ayrım görmez.Adaylar, bağlamın gerektirdiğine göre, esaslarına kesinlikle seçilir. " />
     <string id="25sz3WPn" text="Şef" />
     <string id="Tmq9K61V" text="{MALE}Ard-Rìgh{?}Kraliçe{\\?}" />
@@ -294,12 +294,12 @@
     <string id="OdpuFusm" text="Merkantilizmi teşvik et " />
     <string id="xngDTGdf" text="Yetenekli erkekleri aktif milis kuvvetine katılmaya teşvik edin " />
     <string id="sOQrvQc9" text="Milisleri Teşvik Edin " />
-    <string id="zsQgCCoS" text="Tüccarları tarifelerden muaf tutar, fiyatları azaltır ve karavanları cezbeder " />
-    <string id="cpsR3aMg" text="Tarifeler muafiyeti " />
+    <string id="zsQgCCoS" text="Tüccarları gümrük vergisinden muaf tutar, fiyatları azaltır ve karavanları cezbeder " />
+    <string id="cpsR3aMg" text="Gümrük vergisi muafiyeti " />
     <string id="XpBjitcr" text="Köle Karavanlar, köle nüfusunun payı yeterince büyük olduğunda oluşturulacak " />
-    <string id="jgoC9Nr8" text="Kölelerin ihraç edilmesine izin verin " />
-    <string id="Bp5YdLju" text="Gıda tüketimi zorunlu rasyon ile azaldı.Sadakati azaltır, eğer yerleşim kuşatılmazsa çift etki ile.ADM'yi artırır.maliyetler. " />
-    <string id="8OmoZNnS" text="Gıda rasyonunu zorlayın " />
+    <string id="jgoC9Nr8" text="Kölelerin ihracatına izin ver" />
+    <string id="Bp5YdLju" text="Gıda tüketimini porsiyonları zorunlu olarak küçülterek azaltır. Sadakati azaltır, eğer yerleşim kuşatılmazsa çift etki ile daha uzun süre dayanır. " />
+    <string id="8OmoZNnS" text="Gıda tüketimini kısıtlayın" />
     <string id="BtTGO2bG" text="Suçluları durdurmak için küçük devriyeler gönderin.Devriyeler süvari odaklıdır ve en az 100 güçlü garnizon gerektirir " />
     <string id="Pj7fYmTP" text="Devriye gönder " />
     <string id="8tPOeyCN" text="Yerleşim çevresinde geniş bir alanı izlemek ve düşman hareketi faaliyetlerini bildirmek için bir avuç atı gönderin " />
@@ -332,12 +332,12 @@
     <string id="QVkOr639" text="Üretim verimliliğini artırır (%15)" />
     <string id="uZPepQjz" text="{CLAN}, {CULTURE} kültürünün kültürel öncüsü rolünü üstlendi." />
     <string id="Hvt8EySp" text="{CULTURE} artık {FASCINATION} inovasyonu etkisi altında." />
-    <string id="1Maj0j6J" text="Bal{@Plural}fıçı bal{\@}" />
-    <string id="1MAr0j2J" text="Elma{@Plural}sepet elma{\@}" />
-    <string id="Krqwsins" text="Portakal{@Plural}sepet portakal{\@}" />
-    <string id="VJfbLXmi" text="Ekmek{@Plural}somun ekmek{\@}" />
-    <string id="Qa0dQMOc" text="Turta{@Plural}sepet turta{\@}" />
-    <string id="C5Xe5MJK" text="Havuç{@Plural}sepet havuç{\@}" />
+    <string id="1Maj0j6J" text="Bal" />
+    <string id="1MAr0j2J" text="Elma" />
+    <string id="Krqwsins" text="Portakal" />
+    <string id="VJfbLXmi" text="Ekmek" />
+    <string id="Qa0dQMOc" text="Turta" />
+    <string id="C5Xe5MJK" text="Havuç" />
     <!-- <string id="hFV7jxHj" text="Heart's Desire" />
     <string id="JBn6T1dd" text="Parangelmata Poliorcetica" />
     <string id="jbbauY27" text="Strategikon" />
@@ -1181,7 +1181,7 @@
     <string id="2GV3HnQ4" text="Bu ünvana meşruiyetiniz ve onun vasalları. Bu ünvana sahip olduğunuzda yasalsınız ve kültürünüz bundan farklıysa bir yabancı olarak kabul ediliyorsunuz." />
     <string id="qXe7jFLM" text="Egemen:" />
     <string id="phHrT2JN" text="İster kral ister imparator tipi hükümdar olsun, bu ünvanın ana hükümdarı." />
-    <string id="9EWirk3d" text="Dukedom:" />
+    <string id="9EWirk3d" text="Düklük:" />
     <string id="BvJb2QSM" text="Bu yerleşimin ilişkili olduğu düklük." />
     <string id="02REd9mG" text="Yerleşke limiti:" />
     <string id="dhr9NJoA" text="{TEXT}&#10;Şimdiki Yerleşke:&#10;{CURRENT}&#10; &#10;Limit:&#10;{LIMIT}" />
@@ -1213,14 +1213,14 @@
     <string id="1KB6Hbpm" text="Alandan tam olarak yararlanmak için gereken miktarla ilişkili olarak kaç işçinin bulunduğunu gösterir. %100'ün üzerindeki doygunluk, arazinin ihtiyaç duyduğundan daha fazla işçiyi gösterirken, %100'ün altındaki tüm dönümlerin üretim yapmadığı anlamına gelir çıktı" />
     <string id="GZooOyxK" text="Tüccar Geliri:" />
     <string id="rcApyg1K" text="Köle iş gücü ve üretim verimliliğine dayalı olarak yerel tüccarların günlük geliri." />
-    <string id="NnOoYOTC" text="Durum Köleleri:" />
-    <string id="yJzJMg5Z" text="Bu yerleşim yerinde devlete ait olan ve bu nedenle inşaat projeleri gibi devlet amaçları için kullanılan kölelerin yüzdesi." />
+    <string id="NnOoYOTC" text="Eyalet Köleleri:" />
+    <string id="yJzJMg5Z" text="Bu yerleşim yerinde eyalete ait olan ve bu nedenle inşaat projeleri gibi devlet amaçları için kullanılan kölelerin yüzdesi." />
     <string id="6gaLfex6" text="Üretim Kalitesi:" />
     <string id="oJKPne1U" text="Üretim Verimliliği:" />
     <string id="Gm0F8o7L" text="Günlük bazda yerel halkın inşaat projelerinde ne kadar ilerleyebileceği." />
     <string id="hmtRGrpt" text="Üretilen Öğeler:" />
     <string id="0RAPEDaT" text="Nüfus tarafından yerel olarak üretilen ürünler." />
-    <string id="Re0UyaL5" text="Tarife:" />
+    <string id="Re0UyaL5" text="Vergi Oranı:" />
     <string id="UgD3or79" text="Bir ürünün satıldığında vergi olarak alınan değerinin yüzdesi." />
     <string id="O9p6A7yD" text="Karavan Çekiciliği:" />
     <string id="MhzdyoWG" text="Yönetim Maliyeti:" />
@@ -1367,14 +1367,14 @@
     <string id="Pmo8GKez" text="Bilinsin ki {PROPOSER} ve {PROPOSED} artık kan bağı içindedir. Umarım gelecekte ortak bir amaç bulmaya devam edebilir ve birlikte gelişebiliriz." />
     <string id="61jgyXzF" text="{HERO} dindarlığı, {PIETY} miktarda değişti." />
     <string id="AkTU4Qwg" text="Sen, {NAME}, bundan sonra {TITLE} ile bağlı olmayı resmen kabul eder, görevlerini yerine getirirken haklarını da korursun. Bu sözleşme ile ilişkilendirilmiş tüm hak ve arazilerden feragat, ihanet veya ölüm gibi başka yollarla geri alınamaz" />
-    <string id="o394sPDk" text="Yakın Akraba Takdir Belgesi" />
-    <string id="AinXkzz7" text="Ünvan sahiplerinin yakın akrabaları için ünvan onur beyanlarını uygulayın. Bu yalnızca 'Ünvan Takdirleri' seçeneği 'Ünvan Yok'tan farklıysa geçerli olur. Farklı kurallar geçerlidir, ancak genel olarak vasiyet eşleri eşdeğer, cinsiyete dayalı bir ünvana (yani, 'Kraliçe KadınAdı', 'Kral ErkekAdı'nın eşi) sahipken, Kralların ve İmparatorların çocukları Prens olabilir." />
-    <string id="2MqbeBCb" text="Title Honorifics" />
+    <string id="o394sPDk" text="Yakın Akrabalıklar" />
+    <string id="AinXkzz7" text="Ünvan sahiplerinin yakın akrabaları için ünvan onur beyanlarını uygulayın. Bu yalnızca 'Onursal Unvanlar' seçeneği 'Ünvan Yok'tan farklıysa geçerli olur. Farklı kurallar geçerlidir, ancak genel olarak vasiyet eşleri eşdeğer, cinsiyete dayalı bir ünvana (yani, 'Kraliçe KadınAdı', 'Kral ErkekAdı'nın eşi) sahipken, Kralların ve İmparatorların çocukları Prens olabilir." />
+    <string id="2MqbeBCb" text="Onursal Unvanlar" />
     <string id="LuLE14V8" text="Ünvanlı lordlar nasıl adlandırılır. Tam ünvanlar Son Eklendi (Varsayılan): 'Firstname, Prince of TitleName'; Tam ünvanlar: 'Prince FirstName of TitleName'; Ünvan Önekleri: 'Prince TitleName'. " />
     <string id="0GVNKkGr" text="Köy Vergi Karşılığı" />
     <string id="y9fQuceM" text="Köylerin üretiminin beşte birini oyuncu gelirinin dışında bırakın. Bu, köyleri oyuncunun gelir özetinde tutar ve böylece köylerin ve mülklerin ne kadar ürettikleri hakkında her zaman bir fikir sahibi olmalarını sağlar. Bunlar şunlar olabilir: yerleşim menüleri aracılığıyla manuel olarak toplanır. Devre dışı bırakıldığında, tüm gelir kaldırılır ve bu nedenle köylerin ve malikanelerin çoğu zaman rapor edecek hiçbir şeyleri olmaz, çünkü gelirleri köylülerin kasabalardan kar getirmesine bağlıdır. Varsayılan: yanlış." />
     <string id="vWcskVBm" text="Gerçekçi Karavan Geliri" />
-    <string id="1it7E8tF" text="Karavanlar oyunda temsil edilmeyen önemli bir risk faktörü oluşturur: karlarınızı taşımak. Bu ayarla, karavan karları yalnızca sahiplerinin sahip olduğu bir yerleşime girdiklerinde veya bulundukları yerde eklenir. yer alan (yani, ileri gelenler). Varsayılan: doğru." />
+    <string id="1it7E8tF" text="Karavanlar oyunda temsil edilmeyen önemli bir risk faktörü oluşturur: karlarınızı taşımak. Bu ayarla, karavan karları yalnızca sahiplerinin sahip olduğu bir yerleşime girdiklerinde veya bulundukları yerde eklenir. yer alan (yani, ileri gelenler). Varsayılan: Aktif." />
     <string id="OohdenyR" text="Yavaş Partiler" />
     <string id="P8UecnYf" text="Dengeleme" />
     <string id="FtWk1Jm0" text="Daha Uzun Kuşatmalar" />
@@ -1382,7 +1382,7 @@
     <string id="2AsFpOok" text="Ayanların sahip olabileceği gönüllü sayısı. Yeniden yükleme gerektirir. Vanilya 6'dır, BK için varsayılan değer 10'dur. Askere alınabilir miktar yüzdeler üzerinden hesaplanır ve bu nedenle her zaman dengelidir. daha küçük bir sınıra geçiş. Sınırlar, kampanyalar sırasında herhangi bir noktada değiştirilebilir." />
     <string id="QBYvQNa6" text="Tam Ünvanlar Sonekli" />
     <string id="WxPFvjyO" text="Tam Ünvanlar" />
-    <string id="SL6RAxxj" text="Önek Ünvan" />
+    <string id="SL6RAxxj" text="Sadece Ünvan Önekli" />
     <string id="oSt1agLC" text="Ünvan Yok" />
     <string id="xa13n63V" text="Bu üyeye erişiminiz yok." />
     <string id="vqP5R9TS" text="Açıklamalar" />
@@ -1500,13 +1500,13 @@
     <string id="qGyXzxD6" text="bir saray ev sahipliği yapabilecek" />
     <string id="0xeuyAkM" text="bir saray kuramayacak" />
     <string id="EP03brzX" text="{HERO}, {LANGUAGE} öğrenmeyi durdurdu. {INSTRUCTOR} eğitmeni müsait değil veya öldü." />
-    <string id="ywciPeBS" text="Kireçtaşı{@Plural}stacks of limestone bricks{\\@}" />
-    <string id="D3mU8bc3" text="Mermer{@Plural}stacks of marble bricks{\\@}" />
-    <string id="E6sgXO5n" text="Altın Madeni{@Plural}sacks of gold ore{\\@}" />
-    <string id="ak0txv88" text="Altın Külçesi{@Plural}stacks of gold ingots{\\@}" />
-    <string id="SajCUfsW" text="Değerli Taş{@Plural}pouches of gems{\\@}" />
-    <string id="wNr4YQOo" text="Franceska{@Plural}collection of Franceska{\\@}" />
-    <string id="w7yf8SAj" text="Asera Papirüsü{@Plural}collection of Aseran Papyrus{\\@}" />
+    <string id="ywciPeBS" text="Kireçtaşı" />
+    <string id="D3mU8bc3" text="Mermer" />
+    <string id="E6sgXO5n" text="Altın Madeni" />
+    <string id="ak0txv88" text="Altın Külçesi" />
+    <string id="SajCUfsW" text="Değerli Taş" />
+    <string id="wNr4YQOo" text="Franceska" />
+    <string id="w7yf8SAj" text="Asera Papirüsü" />
     <string id="10HppTfS" text="Siz ve oluşumunuz, yayayken büyük kılıçlarla %4 daha fazla hasar verirsiniz." />
     <string id="4oCh1aji" text="Siz ve dizilişiniz yayayken %10 nişan alın." />
     <string id="PWvLhAPL" text="Yağmacı" />
@@ -1890,15 +1890,15 @@
     <string id="YfLY43hV" text="{ORIGIN}'den Garnizon" />
     <string id="scETr7Ej" text="{ORIGIN} Milisleri" />
     <string id="9JxzuH5a" text="{ORIGIN}'den Geri Alın" />
-    <string id="K8qLtDh3" text="Bayramlar" />
-    <string id="Ctj7k5TV" text="Oyuncu ve yapay zeka için ziyafetleri tetikleme özelliğini etkinleştirin. Varsayılan: True." />
+    <string id="K8qLtDh3" text="Ziyafetler" />
+    <string id="Ctj7k5TV" text="Oyuncu ve yapay zeka için ziyafetleri tetikleme özelliğini etkinleştirin. Varsayılan: Aktif." />
     <string id="FnRzVf4Q" text="Performans" />
     <string id="W54KmZDR" text="AI Yardımcıları" />
-    <string id="juP6OXmp" text="Yapay zekanın yoldaş oluşturma yeteneğini etkinleştirin. Dünyaya çok sayıda kahraman ekler ve performansı etkileyebilir. Varsayılan: Doğru." />
+    <string id="juP6OXmp" text="Yapay zekanın yoldaş oluşturma yeteneğini etkinleştirin. Dünyaya çok sayıda kahraman ekler ve performansı etkileyebilir. Varsayılan: Aktif." />
     <string id="5MR7XH9E" text="Tüm tarafları orijinal hızlarına göre yavaşlatır. %0 orijinal hızdır. Gerçekçi bir harita ölçeğini daha iyi yansıtması amaçlanmıştır. Varsayılan: %40." />
     <string id="0ctG0FEp" text="Kuşatma kampı inşa etme hızını düşürür. %0 orijinal hızdır. Kuşatmaları daha sert ve daha etkili hale getirmek ve aynı yerleşim yerinin birden fazla ardışık kuşatmasını önlemek için tasarlanmıştır. Varsayılan: %50." />
     <string id="DZyyJXRn" text="İşleme Bekleme Süresi" />
-    <string id="pSX0rWGt" text="Demirhanede herhangi bir iş yaparken, ne kadar enerji kullanıldığına karşılık gelen bir süre beklemeniz ve ayrıca bu süre için ödeme yapmanız gerekecek. Daha fazlasını temsil eder işçiliğe gerçekçi yaklaşım. Varsayılan: doğru." />
+    <string id="pSX0rWGt" text="Demirhanede herhangi bir iş yaparken, ne kadar enerji kullanıldığına karşılık gelen bir süre beklemeniz ve ayrıca bu süre için ödeme yapmanız gerekecek. Daha fazlasını temsil eder işçiliğe gerçekçi yaklaşım. Varsayılan: Aktif." />
     <string id="Bm4KO72P" text="0 Gönüllü" />
     <string id="50TKr7ae" text="{TOWN} artık krallığın bir parçası değil!" />
     <string id="qj2yixfi" text="Savaş çıktı!" />
@@ -1908,8 +1908,8 @@
     <string id="13LGeTLO" text="Bu benim tek atölyem olduğu için sizden %15 prim alacağım." />
     <string id="FWQjpwex" text="{INVENTORY_PRICE} {GOLD_ICON}, atölyenin envanter değeri olarak nihai fiyata eklenir." />
     <string id="c0yr2MTu" text="Askeri Yardım Görevi" />
-    <string id="KwR84Oew" text="Likör{@Plural}fıçı likör{\\@}" />
-    <string id="skP17S9C" text="Garum{@Plural}amfora garum{\\@}" />
+    <string id="KwR84Oew" text="Likör" />
+    <string id="skP17S9C" text="Garum" />
     <string id="y1Jzq1cv" text="Marketlerdeki Vergiler" />
     <string id="EF0OTQ0p" text="Vassal Limitin Üzerinde" />
     <string id="jb7sCNT2" text="{HERO} şu anda {COURTING} ile flört ediyor" />
@@ -1956,9 +1956,9 @@
     <string id="OXP2Kb4E" text="Her ayinin yerine getirilmesi gereken farklı koşulları vardır. Ayrıca tekrar yapılmadan önce zaman aralıkları vardır, ayrıntılarını Din sekmesinden kontrol edin." />
     <string id="B4M6aqo5" text="Hangi ayini gerçekleştirmek istediğinizi seçin. Ayrıntılar için Dinler sekmesindeki açıklamalarına ve girişlerine bakın." />
     <string id="6Qs7booz" text="AI Şövalyeleri" />
-    <string id="aNSCjnzn" text="Yapay zekanın şövalye oluşturma yeteneğini etkinleştirin. Dünyaya çok sayıda kahraman ekler ve performansı etkileyebilir. Varsayılan: Doğru." />
+    <string id="aNSCjnzn" text="Yapay zekanın şövalye oluşturma yeteneğini etkinleştirin. Dünyaya çok sayıda kahraman ekler ve performansı etkileyebilir. Varsayılan: Aktif." />
     <string id="UgfQur9G" text="AI Yönetimi" />
-    <string id="3tCf6aOi" text="Unvanları ne zaman vereceğini hesaplayarak yapay zekanın kendi alanlarını ve vasallarını yönetme yeteneğini etkinleştirin. Varsayılan: True." />
+    <string id="3tCf6aOi" text="Unvanları ne zaman vereceğini hesaplayarak yapay zekanın kendi alanlarını ve vasallarını yönetme yeteneğini etkinleştirin. Varsayılan: Aktif." />
     <string id="tT53t7ny" text="Hükümdarınız {SUZERAIN}, sizi askeri yardım yemininizi yerine getirmeniz için çağırdı. Şu anda {SETTLEMENT}'e yakın olan {ARMY}'ye katılmak için {DAYS} gününüz var. Yerine getirilemiyor adını ve hükümdarınla birlikte durmanı lekeleyecek." />
     <string id="CyF16uSZ" text="Turnuva şu ödülle başladı: {PRIZE}" />
     <string id="Fin3KXMP" text="Mal Üretimi:" />
@@ -2221,27 +2221,27 @@
     <string id="RQq8tssi" text="Zorla veya başka bir şekilde kanunun uygulanmasını denetleyin. Yasaların daha iyi uygulanması, ticaret için müreffeh bir ortam sağlar." />
     <string id="o27axaVY" text="Gelişmiş Güvenlik&#10;Yüksek karavan çekiciliği" />
     <string id="9D4AgMLu" text="Ruhlar birçok türde adağı kabul etse de, Uchalion platosunda demir temel seçenek olmuştur. Ham doğasına rağmen, geniş kullanışlılığı nedeniyle Tanrılara layık bir hediye olarak ödüllendirilir." />
-    <string id="DLx4qCTY" text="{TITLE}, that would be a generous gift. Additional properties would allow me to field a bigger retinue." />
-    <string id="YWw9LkmQ" text="It is decided then." />
-    <string id="BOhrKJtw" text="You have properties available to be granted." />
-    <string id="LxC6xyv4" text="Select the Lordship you would like to give away." />
-    <string id="pYnDCZfv" text="Brigands of {HERO}" />
-    <string id="zbaC8VGZ" text="Bandit Horde" />
-    <string id="CHVW1U24" text="De Re Militari Bandits" />
+    <string id="DLx4qCTY" text="{TITLE}, bu cömert bir hediye olurdu. Fazladan mülkler daha büyük bir maiyet oluşturmamı sağlar." />
+    <string id="YWw9LkmQ" text="O zaman karar verildi." />
+    <string id="BOhrKJtw" text="Verilebilecek mülkleriniz var." />
+    <string id="LxC6xyv4" text="Vermek istediğiniz Lordluğu seçin." />
+    <string id="pYnDCZfv" text="{HERO}'un Eşkıyaları" />
+    <string id="zbaC8VGZ" text="Haydut Sürüsü" />
+    <string id="CHVW1U24" text="De Re Militari Haydutları" />
     <string id="bAt2AWmj" text="If you have De Re Militari (DRM) mod, enabling this allows bandit heroes and parties to use DRM's new bandits. Enabling it without DRM will break your game. Default: false." />
-    <string id="k2Vw7iNm" text="Bandits" />
-    <string id="tx1tsrx0" text="Hieout Spotting Difficulty" />
+    <string id="k2Vw7iNm" text="Haydutlar" />
+    <string id="tx1tsrx0" text="Sığınak Tespit Zorluğu" />
     <string id="rn4pdZCU" text="Zorluk 0" />
     <string id="gsnBrnud" text="Despite being supposed to be hidden, 'Hideouts' can be spotted past the player's actual seeing range, and are not difficult at all to find. Spotting range is divided by the difficulty factor here: 1 is vanilla, 10 means a spotting range 10 times shorter." />
     <string id="00bG9Ube" text="Haydut Birliği Limiti" />
     <string id="4tnEdJNu" text="0 Birlik " />
-    <string id="O3MXc6GM" text="Maximum number of bandit parties in the world map. Vanilla is 150. Default: 300." />
-    <string id="0BQP6L5G" text="A renowned criminal, {HERO}, has arisen among the {CLAN}! They were sighted in the vicinity of {TOWN}..." />
-    <string id="CY32Qr0W" text="The clan is under mercenary service." />
-    <string id="MZuuw80X" text="The {FAITH} requires councilors of same faith due to it's Legalism." />
-    <string id="f3yxaXA3" text="This privy council position requires a noble." />
-    <string id="uPR7ENhu" text="{SUZERAIN} holds your duty of military aid fulfilled. You have gained {INFLUENCE}{INFLUENCE_ICON} and {RELATION} relation with your suzerain." />
-    <string id="yfBEQUdh" text="{POSITION} in {OWNER}'s council" />
+    <string id="O3MXc6GM" text="Dünya haritasındaki maksimum haydut partisi sayısı. Vanilla: 150. Varsayılan: 300." />
+    <string id="0BQP6L5G" text="Ünlü bir suçlu, {HERO}, {CLAN} arasında ortaya çıktı! {TOWN} civarında görüldüler..." />
+    <string id="CY32Qr0W" text="Klan paralı askerlerlik yapıyor." />
+    <string id="MZuuw80X" text="{FAITH} hukuğu gereğince, bu pozisyon aynı inanca sahip saray üyelerine ihtiyaç duyar." />
+    <string id="f3yxaXA3" text="Bu özel saray pozisyonu bir asil gerektirir." />
+    <string id="uPR7ENhu" text="{SUZERAIN} askeri yardım görevinizi yerine getirdiniz.{INFLUENCE}{INFLUENCE_ICON} kazandınız ve efendinizle {RELATION} ilişkisi kazandınız." />
+    <string id="yfBEQUdh" text="{OWNER} sarayında {POSITION}" />
     <string id="C0MCMXZ1" text="Haydur sürüsü" />
     <string id="L2tDXJrq" text="Current competence ({CURRENT}%):&#10;{CURRENT_EXPLANATION}&#10;&#10;Projected competence ({PROJECTED}%):&#10;{PROJECTED_EXPLANATION}" />
     <string id="Y9JAa2S8" text="{CURRENT}% / {PROJECTED}%" />
@@ -2295,9 +2295,9 @@
     <string id="3GMTHrkh" text="Bilgeliğe yatkınlık, kişinin entelektüel görevlere ne kadar eğilimli olduğunu tanımlar. Bilgili kişiler Tıp, Burs ve diğerleri gibi entelektüel becerileri öğrenmeye daha yatkındır." />
     <string id="o2Zvo6fr" text="Sosyalleşme" />
     <string id="1ABqAjFQ" text="Sosyalleşme yeteneği, kişinin kendini ifade etme ve çatışmaları çözme konusunda ne kadar yetenekli olduğunu açıklar. Sosyal kişiler Liderlik, Cazibe ve Ticaret becerilerini öğrenmeye daha yatkındır." />
-    <string id="SVt6kyNg" text="{COUNT} full Peers out of {MINIMUM} minimum within the realm" />
+    <string id="SVt6kyNg" text="Bölge içinde minimum {MINIMUM} üzerinden {COUNT} tam Soylu" />
     <string id="FVA72PZG" text="Misafirler" />
-    <string id="udvUcHNf" text="War Parties:" />
+    <string id="udvUcHNf" text="Savaş Birlikleri:" />
     <string id="cBqiYPdT" text="Kişilik" />
     <string id="B5Bx8p70" text="{TRAIT}:" />
     <string id="p2qS5hym" text="Yetkinlikler" />
@@ -2305,7 +2305,7 @@
     <string id="HOeiJpH0" text="Siyasi" />
     <string id="1s67OmJE" text="Tüm kahramanlardaki tüm teçhizatı envanterinize geri aktarın." />
     <string id="g4pjb4j4" text="Bu hiyerarşideki tımarlardaki toplam nüfus, onları kimin kontrol ettiğine bakılmaksızın." />
-    <string id="OD6eU7dQ" text="Minimum Peers:" />
+    <string id="OD6eU7dQ" text="Minimum Soylular:" />
     <string id="H1pvLYrA" text="The minimum amount of full Peerage noble houses this realm requires. A minimum amount of Peers is required to maintain the power equilibrium in the realm, so that the ruler does not monopolize voting and fief rights.&#10;&#10;{EXPLANATION}" />
     <string id="v0bOk0Y9" text="Reduced demesne weight of towns by {EFFECT1}%&#10;Party size reduced by {EFFECT2}%" />
     <string id="v094GOtN" text="Sarayı Taşı" />
@@ -2365,18 +2365,18 @@
     <string id="sJFMPgj1" text="Saray yerinin olmaması" />
     <string id="qGGGAMzW" text="Saray konumu:" />
     <string id="bohHNqF2" text="Mahkemenizin toplanacağı tımar. Belirlenmiş bir yere sahip olmak, mahkemenin işleyişi ve nezaketinizin itibarı için çok önemlidir." />
-    <string id="PxX0AYBK" text="Are you sure that you want to increase your expenses to {EXPENSE}? This change will yield {GRACE} more grace, but cost {GOLD}{GOLD_ICON}, as well as increase your administrative costs by {ADM_COST}%." />
-    <string id="PL6mEtzJ" text="Are you sure that you want to diminish your expenses to {EXPENSE}? Once reduced, increasing them again will incur financial costs. Reducing this expense will save you {ADM_COST}% in administrative costs, but reduce your grace by {GRACE}." />
-    <string id="jg72kgKe" text="Missing construction policy!&#10;Edit your workforce policy under Demesne Management, Demesne tab." />
-    <string id="mcyKmOiC" text="Missing materials!&#10;Bring materials into the Stash or let caravans bring them naturally." />
-    <string id="CO7bKu1R" text="Missing Governor!&#10;A governor will buy necessary materials for projects without your intervention." />
-    <string id="E61zQNSt" text="Tax Revenues:" />
-    <string id="yZhrtORs" text="Taxes levied on local population, and other local expenses and revenues. To maximize your revenues, increase local stability and reduce administrative costs." />
-    <string id="o3Ohk2hA" text="Population" />
-    <string id="n3j1wX9z" text="Destroyed Crops" />
-    <string id="qqxppUOY" text="Peasants at {VILLAGE} report that their crops were trampled on by cattle from {ESTATE}, owned by {OWNER}. They refuse any responsability, yet {HEADSMAN} swears the estate is at fault." />
-    <string id="LFVNq2Uz" text="Your court has spent {GOLD}{GOLD_ICON} buying {ITEMS} items for its good requirements." />
-    <string id="6PxQfUrN" text="Your court has consumed {COUNT} out of {DESIRED} required goods, changing your grace by {GRACE}." />
+    <string id="PxX0AYBK" text="Giderlerinizi {EXPENSE}'e yükseltmek istediğinizden emin misiniz? Bu değişiklik {GRACE} daha fazla zarafet getirecek, ancak {GOLD}{GOLD_ICON}'a mal olacak ve idari masraflarınızı {ADM_COST}% oranında artıracaktır." />
+    <string id="PL6mEtzJ" text="Harcamalarınızı {EXPENSE} seviyesine düşürmek istediğinizden emin misiniz? Azaltıldıktan sonra tekrar artırılması finansal maliyetlere neden olacaktır. Bu masrafı azaltmak size idari masraflarda {ADM_COST}% tasarruf sağlayacak, ancak zarafetinizi {GRACE} kadar azaltacaktır." />
+    <string id="jg72kgKe" text="Eksik inşaat politikası!&#10;İşgücü politikanızı Toprak Yönetimi'ne gidip, Yerleşke sekmesinden değiştirin." />
+    <string id="mcyKmOiC" text="Eksik malzemeler!&#10;Malzemeleri Zula'ya getirin veya karavanların doğal olarak getirmesine izin verin." />
+    <string id="CO7bKu1R" text="Vali Yok!&#10;Bir vali, sizin müdahaleniz olmadan projeler için gerekli malzemeleri satın alacaktır." />
+    <string id="E61zQNSt" text="Vergi Gelirleri:" />
+    <string id="yZhrtORs" text="Yerel nüfustan alınan vergiler ve diğer yerel harcamalar ve gelirler. Gelirlerinizi en üst düzeye çıkarmak için yerel istikrarı artırın ve idari maliyetleri azaltın." />
+    <string id="o3Ohk2hA" text="Nüfus" />
+    <string id="n3j1wX9z" text="Yok Edilen Mahsuller" />
+    <string id="qqxppUOY" text="{VILLAGE} köyündeki köylüler, mahsullerinin {OWNER} sahibine ait {ESTATE} sığırları tarafından çiğnendiğini bildirdi. Herhangi bir sorumluluğu reddediyorlar, ancak {HEADSMAN} suçlunun hatalı olduğuna yemin ediyor." />
+    <string id="LFVNq2Uz" text="Sarayınız {GOLD}{GOLD_ICON} harcayarak ihtiyaçları için {ITEMS} eşyalarını satın aldı." />
+    <string id="6PxQfUrN" text="Sarayınız, zerafetinizi {GRACE} ile değiştirerek {DESIRED} gerekli mallardan {COUNT} tüketti." />
     <string id="Y0NWoa6b" text="Minimal Konaklama" />
     <string id="ZtBCanDT" text="Misafirler için minimum konaklama imkanı sağlayın. Konuk kapasitesini 1 artırır." />
     <string id="p0WegVVv" text="Yeterli Konaklama" />
@@ -2486,15 +2486,15 @@
     <string id="LLwOeHmr" text="{CONVERSION_ACCEPTED_TEXT}" />
     <string id="WzpHv2iE" text="I am willing to do that, {TITLE}. If you can make the arrangements for my induction, I am glad to accept." />
     <string id="wtUzdPs5" text="Very well, I shall see to it." />
-    <string id="gWqmDXOC" text="Irk Bitig{@Plural}collection of Irk Bitig books{\\@}" />
-    <string id="EGsKJpNS" text="Naked Fingers{@Plural}collection of Naked Fingers books{\\@}" />
-    <string id="ia3kgNVe" text="West Gemynt{@Plural}collection of West Gemynt books{\\@}" />
-    <string id="3BY8K3S5" text="Fabulae Aquilae{@Plural}collection of Fabulae Aquilae books{\\@}" />
-    <string id="c0sJc9o9" text="Skulls of the Eleftheroi{@Plural}collection of Skulls of the Eleftheroi books{\\@}" />
-    <string id="mnCoKY5H" text="The Storming of the Castle of Love{@Plural}collection of The Storming of the Castle of Love books{\\@}" />
-    <string id="gCQCWHYT" text="An Argument in the Garden{@Plural}collection of An Argument in the Garden books{\\@}" />
-    <string id="BMtB9P3L" text="Helgerad and Kara{@Plural}collection of Helgerad and Kara books{\\@}" />
-    <string id="zwsT7Dzj" text="Kais and Layala{@Plural}collection of Kais and Layala books{\\@}" />
+    <string id="gWqmDXOC" text="Irk Bitig" />
+    <string id="EGsKJpNS" text="Naked Fingers" />
+    <string id="ia3kgNVe" text="West Gemynt" />
+    <string id="3BY8K3S5" text="Fabulae Aquilae" />
+    <string id="c0sJc9o9" text="Skulls of the Eleftheroi" />
+    <string id="mnCoKY5H" text="The Storming of the Castle of Love" />
+    <string id="gCQCWHYT" text="An Argument in the Garden" />
+    <string id="BMtB9P3L" text="Helgerad and Kara" />
+    <string id="zwsT7Dzj" text="Kais and Layala" />
     <string id="x384LrUe" text="Seductiveness" />
     <string id="GQcHnPjV" text="Diligence is one's willingness to work tirelessly towards their goal." />
     <string id="bYHRQmAW" text="Willingness to convert" />
@@ -2516,5 +2516,427 @@
     <string id="jAdG0wG9" text="{DESCRIPTION}&#10;{GOLD_AMOUNT}{GOLD_ICON}&#10;Language: {LANGUAGE}&#10;{SKILL}&#10;{TRAIT}" />
     <string id="sLTkCtmc" text="Army creation limited by title level (minimum: Barony)&#10;Calling potential army leaders costs twice as much" />
     <string id="P1yotQ6Q" text="Army creation delegated to Legion Commander council positions&#10;Legion cohesion lasts longer&#10;Supply buildup reduced for armies&#10;Reduced influence for army participation&#10;Calling potential army leaders costs 5 times as much" />
+    <string id="bLDOCauy" text="Custom Start ({CURRENT})" />
+    <string id="j7VPTVNU" text="None selected" />
+    <string id="8bRUkyzN" text="You do not have any religions installed. Install the separate mod, 'Banner Kings: Cultures Expanded' for the official, lore-based BK religions. Alternatively, install another third party mod that adds BK religions." />
+    <string id="Xs11nNCv" text="Religion ({CURRENT})" />
+    <string id="gQhnXrB8" text="Important Concepts" />
+    <string id="Hnd77MGb" text="The main topics a newcomer to the mod should become familiarized with, concerning essential gameplay systems and balance changes." />
+    <string id="qiKaxzov" text="Learning Concepts" />
+    <string id="V92Smg1M" text="Learn about the various topics of the mod." />
+    <string id="vULtmArw" text="Finish" />
+    <string id="MS6bxE0y" text="Start the game with the chosen start and religion." />
+    <string id="opYVgVdg" text="Welcome to the Banner Kings mod. Before starting your campaign, you should pick a custom start and a religion for your character first. You can also read on topics of the mod. All these topics are available on the Concepts page of Encyclopedia.{newline}{newline}Support is only provided through Discord. Please check out the mod-links over there if you consider contributing. Have fun!" />
+    <string id="sYsFSGay" text="Banner Kings - Learning Concepts" />
+    <string id="xDf02993" text="To access these concepts again, access Concepts in Encyclopedia. All names and descriptions here are exactly what is present over there." />
+    <string id="iY2Sg1nD" text="Banner Kings - Important Concepts" />
+    <string id="dxwTedS0" text="Not enough piety." />
+    <string id="hVJNXynE" text="Not enough influence." />
+    <string id="D1VctBSa" text="{HERO} was installed as a preacher at {FIEF}" />
+    <string id="vSg8n1aD" text="Can I learn about specific topics?" />
+    <string id="nXdid8HP" text="{CLERGYMAN_TOPICS}" />
+    <string id="XjwTd1zD" text="Certainly, {PLAYER.NAME}. What can I help you with?" />
+    <string id="9QUdEwse" text="{DIVINITY_NAME}" />
+    <string id="D9ym09HE" text="I was thinking of another option" />
+    <string id="C7Sv8uuS" text="{DIVINITY_TEXT}" />
+    <string id="by9omcAC" text="{DIVINITY_LAST_TEXT}" />
+    <string id="gjt1OiLA" text="You are researching {RESARCH}. Your current research progress is {POINTS} research points." />
+    <string id="rLYSkukw" text="Research" />
+    <string id="jAi7YyNP" text="Cultural information" />
+    <string id="trLSmog4" text="You have improved your {SKILL1} and {SKILL2} skills during your current action." />
+    <string id="KtHKWud4" text="{HERO} has lost {PIETY} piety." />
+    <string id="otTG7tdd" text="Base Wages" />
+    <string id="8VkUUUHP" text="Modifier for base wages of soldiers, changing their daily upkeep but also their recruitment cost, calculated on their base wage. May SEVERELY impact AI and it's ability to recruit/keep troops. Default: 100%." />
+    <string id="05V0rJze" text="Party Size Scaling" />
+    <string id="whbmKsP4" text="The scale of party sizes on the map. Applies in half to parties of heroes not leading their clan. Vanilla is 100%. Default: 200%." />
+    <string id="veWSuSLd" text="Alternative Leveling" />
+    <string id="TE55bGSt" text="An alternate skill leveling progression. Skills will require a higher base xp since level 1, but will scale less aggressively. The result should be more consitent xp across all levels, slower at the beginning but faster near the end. Default: true." />
+    <string id="TTO137XN" text="Army Cohesion Boost" />
+    <string id="rqcm7XzY" text="Cohesion boost to armies to they last longer, to counter balance the presence of more parties. Vanilla is 0%, 50% decreases cohesion loss by half. Default: 50%." />
+    <string id="k5EAfYNF" text="{HERO} has invaded the continent alongside their army... Reports say they arrived near {TOWN}..." />
+    <string id="4qKHOTih" text="{HERO1} and {HERO2} are now betrothed! Romantic action can be pursued." />
+    <string id="DztikJZL" text="{PARTY} is at {PLACE} and travelling to {FIEF} on water until {DATE}." />
+    <string id="pJAF5pzO" text="Nobles" />
+    <string id="d0YJZ6Z1" text="Craftsmen" />
+    <string id="h9UDWQcM" text="Tenants" />
+    <string id="jH7cWD5r" text="Serfs" />
+    <string id="8xhVr4rK" text="Slaves" />
+    <string id="recVYNHb" text="Princes" />
+    <string id="nuw4kaoi" text="{HERO} research project is now {RESEARCH}." />
+    <string id="uBeOmBnc" text="{HERO} has stopped researching {RESEARCH}: innovation is fully researched." />
+    <string id="DoAUtPMs" text="Manorialism" />
+    <string id="4ucRh2AA" text="Originated from the Calradian Villae, manorialism describes the agrarian relationship of a suzerain and their dependents. While each peasant may own or rent certain parts of the fields, the entire fields are collectively worked on, and their productions shared, a significant part of which is paid to the overlord as taxes, who often lives in a large habitation - the manor." />
+    <string id="udmrYRaD" text="Enables new village buildings&#10;Reduced slave presence in villages" />
+    <string id="t1K5E334" text="A crop rotation system using 3 separate types of crops simultaneously. This system, also called Open Field, is a major improvement the culture of 2 fields, allowing the soil to regenerate as different types of crops provide and consume different nutrients." />
+    <string id="hZjRfs3V" text="Greatly improved farmland output" />
+    <string id="BCf6ZRMv" text="Forum" />
+    <string id="JJwyfgNP" text="A Calradian invention, the Forum is the center of town life, where announcements are made, sentences passed, and emperors are named. It is the marble heart of a city, and itself a form of art." />
+    <string id="fpYE0jAx" text="Enables the construction of forums" />
+    <string id="rQmTMDxF" text="Theater" />
+    <string id="hAjhWQGk" text="It is unclear whether Calradians or Laconians first invented Theaters. More than a building, theaters are a cultural innovation - common folk gather to watch elaborate, classical works of both tragedy and comedy. In many ways, theaters stablish a cultural foundation and promote cultural values through the stories told in them." />
+    <string id="Z7dS6Y6K" text="Enables the construction of theaters" />
+    <string id="qqSEe0VF" text="Aqueducts" />
+    <string id="GGJhnCuN" text="A feat of engineering by the Calradoi - aqueducts transport water through a downard gradient from a water source to a town. The reliable supply of water serves to satiate the populace's thirst, but also provide water to industries such as farming, milling and dyeing, keeping food supply cheap and the economy active. It is said among the Calradoi a city without an aqueduct is doomed to failure." />
+    <string id="5CBPtEym" text="Enables the construction of aqueducts" />
+    <string id="64RLFpQk" text="Burgage" />
+    <string id="86XB5t44" text="A Burgage is a rental property with a town, owned by a lord. Such plots are rented in exchange for monetary payment, providing a steady source of income to their noble overlords." />
+    <string id="zN4Tu7gN" text="Increased population cap in towns" />
+    <string id="Q3WGEVUS" text="Guilds" />
+    <string id="sBeUMd2i" text="Enables the existance of guilds in towns" />
+    <string id="9ZAOcfJL" text="Focused efforts on public infrastructure by the state, such as roads and bridges, allow better development of the economy." />
+    <string id="6rowXRSC" text="Increased town prosperity and adm. costs" />
+    <string id="8cfV7KHV" text="Stirrups" />
+    <string id="hxoGOQva" text="A riding application that greatly helps with rider stability. The stirrup provides support for the rider's feet, reducing the risk of a fall and losing control of the animal. In military terms, it means cavalry can be significantly more effective and reliable. For the economy, it is also quite useful as the horse is widely used in agriculture, transportation and communication." />
+    <string id="pjgAo28P" text="Increased production efficiency&#10;Better cavalry efficiency in sim. battles" />
+    <string id="3BpdtVee" text="Crossbows" />
+    <string id="TNyxcpWT" text="A weapon developed by the Calradoi - a crossbow works by launching a bolt across a horizontal frame with the force of its string. The string, rather than drawn and held in place by a hand, is locked into place by a mechanism, allowing the crossbowman to aim the weapon, ready to release, with virtually no restrictions, as opposed to a bow, which requires significant strength to hold while ready." />
+    <string id="1Q9g98BK" text="Enables the construction of crossbows" />
+    <string id="vChTaa30" text="Cogs" />
+    <string id="dzV81MuV" text="These large devices were often made of massive strong wooden blocks shaped into almost perfect circular discs. Metal teeth were then bolted into the disc such that an array of cogs can produce complex axes of motion. They were mainly used in sophisticated mill designs such as watermills or windmills. Such mechanical mills facilitate the process of milling grains to make bread, an extremely important item in the continent's general diet. However, other mills could be essential parts in industrial military forges for producing armour, weapons and horse equipment fit for massive imperial armies." />
+    <string id="2Z7q6vuC" text="Increased production efficiency" />
+    <string id="dArUBiyz" text="Mills" />
+    <string id="XL0XiicC" text="A large contraption moved by the flow of water, wind or force. Mills largely facilitate the process of milling grains in order to make bread. Different types of mills may be constructed to fit any context - for example, a village with a river stream may use the flow of water to turn the mill. A more complex, but flexible mill could be moved by wind. Ultimately, however, they could simply be moved through slave labor." />
+    <string id="GfP5BS66" text="Enables construction of mills" />
+    <string id="q0mx2Q1V" text="A adaptation of the plough, but heavier and used for tougher, moist terrain. This plough allows more soil to be turned over, facilitating agricultural work and recycling nutriets found in deeper soil layers." />
+    <string id="9brq7fUh" text="Improved farmland output" />
+    <string id="gVZZWCvg" text="Horse Collar" />
+    <string id="4jUiGhRt" text="A padded collar specifically made to fit horses allows the animal to comfortably pull ploughs with maximum efficiency of its strength. This in turn allows to the replacement of oxen teams for horse teams as plough pullers, a significant improvement due to the horses' increased speed and endurance over oxen." />
+    <string id="smzpgRRv" text="Significantly improved farmland output" />
+    <string id="wbozW4Jj" text="Horse Shoes" />
+    <string id="HxUTs5jM" text="Metallic horse shows protect the hooves of the animal against the deterioration caused by intense labor. With the advent of teams of horses instead of oxen to pull ploughs, the shoes amplify the animal's advantage of working longer by protecting it moving ability." />
+    <string id="VZf7THzN" text="Significantly improved construction speed&#10;Increased production efficiency" />
+    <string id="T50kP1RT" text="Significantly increased production efficiency" />
+    <string id="hCtTmyc6" text="Half-Plate Armor" />
+    <string id="vbt5GH5r" text="Enables the production of half-plated and similar armors" />
+    <string id="iRtPLg1P" text="Compass" />
+    <string id="T8bPd7W6" text="An instrument used to tell the cardinal directions, extensively used in long travels, by ship or land." />
+    <string id="3OXCtWJV" text="Astrolabe" />
+    <string id="FZVKcWAj" text="." />
+    <string id="6DR1LT0a" text="C" />
+    <string id="nhQ69z7g" text="The {CULTURE} culture is now on the {ERA}!" />
+    <string id="bnyp18zu" text="The Art of Horsemanship{@Plural}collection of The Art of Horsemanship books{\\@}" />
+    <string id="MG8QA9Tp" text="Laconian Shipping Network" />
+    <string id="POrrwW2o" text="Western Sea Network" />
+    <string id="xmtcSNfH" text="Junme Trade Network" />
+    <string id="bky09Vyw" text="Perassic Trade Network" />
+    <string id="qGPDAaM2" text="Egalitarianism is a political stance of those that defy the Calradian systems of hierarchy. Egalitarians seek to distribute power and resources, and as such defend policies and laws that favor the general people and/or petty lords. Women often tend more towards this stance, given theyr are often disfavored in matters of kingdom law." />
+    <string id="CKtSLBtN" text="Oligarchism is the political stance of those that find themselves in a powerful group and seek to preserve that power. The ultimate example of oligarchists are dukes - lords of high station that, more often than not, seek to pass policies and laws that preserve their power, at the expense of lower groups, or even their ruler. Oligarchists understand their strength lies in supporting each other, as a power structure rather than singular powerful individuals, and so seek to fortify their class as a whole, as opposed to exclusively themselves. Oligarchic lords often support feudal and republic governments, as well as any elective form of succession, which limit the power of the ruling dynasty and allow them to thrive." />
+    <string id="H9feq6aD" text="Authoritarism describes the political support of strong rule. This often means strength through might - iron first ruling. Rulers, more than anyone, stand to benefit from such political views. Authoritarian lords often support laws and policies that benefit the ruling dynasty, in favor of said strong rule. Of course, many times it comes at the expense of others, such as the vassal lords, or the general population. Authoritarian minded lords are often aligned with monarchies, empires and succession forms that are not elective - for that would mean uncertain heirs, and inevitably weak rulers." />
+    <string id="7gyGorco" text="Attractiveness" />
+    <string id="vCix4HE5" text="Intellect" />
+    <string id="WUOPDtXU" text="A person's ability to understand topics in depth. It is a trait inherited from one's parents. Persons with good intellect are considered more Intelligent and learn topics quicker.&#10;Effects:&#10;Added Intelligence points&#10;Faster skill learning" />
+    <string id="n9zy2NHn" text="Robustness" />
+    <string id="87tL6n8N" text="Seductiveness is one's ability to sexually charm someone else. Seductive persons have an easier time coupling with their spouses and are more liked as marriage prospects.&#10;Effects:&#10;Increased fertility&#10;Characters are more sexually attracted to you" />
+    <string id="wUN3wtHS" text="Justice is the appropriate punishment and reward for a given deed. Just rulers are often respected by their vassals for delivering appropriate sentences, but also adequately rewarding loyalty.&#10;Effects:&#10;Increased settlement stability&#10;Decreased relation loss from political disagreements" />
+    <string id="40JCKFO7" text="Humility describes a person's ability to restrain their ego. Humble persons are often more generally likable by their peers, by those who outrank them and those beneath them.&#10;Effects:&#10;Increased settlement loyalty&#10;Improved relations gain" />
+    <string id="VOaUqsr8" text="Diligence is one's willingness to work tirelessly towards their goal. Diligent persons are constantly working on a project, or otherwise feel like withering away. Though this means they accomplish more, it is also intense on their psyche.&#10;Effects:&#10;Faster progress in Education topics&#10;Higher stress gain" />
+    <string id="OTJaTUnD" text="Ambition is one's desire to ascend in their social status. An ambitious vassal is always looking for ways to further their position, often at the expense of others." />
+    <string id="cVOU505N" text="Stability" />
+    <string id="doNE04Se" text="Towns (x{COUNT})" />
+    <string id="VRA7VDQP" text="Villages (x{COUNT})" />
+    <string id="wwYABLRd" text="Clan Influence Limit" />
+    <string id="9NPywyY1" text="Power of {HERO}" />
+    <string id="pgBYKJSH" text="Missing holy site ({FIEF})" />
+    <string id="DS6s4eYZ" text="Missing faith seat ({FIEF})" />
+    <string id="weQkrvG3" text="Holy site ({FIEF})" />
+    <string id="cCg5So9K" text="Faith seat ({FIEF})" />
+    <string id="Jh6FdJFE" text="Highest title level" />
+    <string id="nstJNjFj" text="Household member" />
+    <string id="yL8pzipU" text="Republican government only allows revoking of dukes." />
+    <string id="DJgiwgUZ" text="Imperial government requires being de Jure faction leader." />
+    <string id="tju37np1" text="De jure suzerain of this title" />
+    <string id="PSrEtF5L" text="Government" />
+    <string id="Vt6CSGow" text="Power" />
+    <string id="QTHu140M" text="Settlement Stability" />
+    <string id="uqSzB34S" text="The Cultural Head is the most proeminent lord or lady within a culture. They are able to determine a culture's Fascination, which is an innovation that develops faster. They are also more influential as a family. Usually this position is occupied by a ruler." />
+    <string id="MYVok4yX" text="A Cultural Fascination is an innovation that takes precedence over others. This innovation will receive more research points, developing faster while slowing down other innovations. The Cultural Head is responsible for deciding the fascination.&#10;{NAME}:&#10;{DESCRIPTION}" />
+    <string id="Frajyv3X" text="Years Remaining:" />
+    <string id="CHwVbxJM" text="{COUNT} years" />
+    <string id="8hiLTYVc" text="How many years remanining until all innovations for this Era are done, approximately." />
+    <string id="udcKAWYK" text="The approximate number of people that follow this culture, across the continent." />
+    <string id="io89fhJT" text="The number of settlements that predominantly follow this culture, across all realms." />
+    <string id="cfZNfFe6" text="A Research project is a personal endeavour towards progressing an innovation. You can research an innovation regardless of being Cultural Head or not. Researching will increase your Scholarship as well as an additional skill, depending on the innovation's type (Buildings, Military, Civic, etc).{newline}{newline}To make progress in your research, visit a friendly fief, select Banner Kings -&gt; Take an Action -&gt; Research." />
+    <string id="ZVJ9nA89" text="The cultural fascination is an innovation that progresses faster than others. As Cultural Head, you can determine the fascination. Changing fascinations incurs no type of cost." />
+    <string id="FjYuHT4G" text="{TRAIT} is considered virtuous" />
+    <string id="2Xz2qH0R" text="{NAME} - {SUPPORT}% Support, {INFLUENCE}{INFLUENCE_ICON}" />
+    <string id="FwejoE0q" text="{DESCRIPTION}{newline}{newline}Effects:{newline}{EFFECTS}" />
+    <string id="UvnpBOCb" text="{DESCRIPTION}{newline}{newline}Viable Candidates:{newline}{CANDIDATES}{newline}{newline}Effects:{newline}{EFFECTS}" />
+    <string id="5FRgZVMf" text="Successions" />
+    <string id="fMUCfVxR" text="Inheritances" />
+    <string id="2JZa2Nvs" text="Gender Laws" />
+    <string id="5DaAnTh2" text="Gender laws determine what gender is or not favorable for positions of power and take precedence in clan inheritances. You may propose a change to the gender law process that will be voted on by the peers.{newline}{newline}For more information, search for Gender Laws in Encyclopedia." />
+    <string id="FJaxAnj0" text="Propose" />
+    <string id="aELuNrRC" text="Inheritance" />
+    <string id="LESrJQvC" text="Gender Law" />
+    <string id="MnpFUeoe" text="Shipping Lanes" />
+    <string id="YQjEMYqd" text="{COUNT} ports" />
+    <string id="GWUscuL8" text="Manpower from every non-noble population class. Available classes are affected by kingdom demesne laws. Peasant manpower compromises the majority of military forces." />
+    <string id="Cbho6xVC" text="Possible Recruits:" />
+    <string id="r7xmGDgn" text="These are the troops the notables may directly muster, not accounting for further trainning. The chance of each one is correlated to its population class' manpower in relation to the overall manpower.&#10;&#10;" />
+    <string id="8b5OC6vH" text="{TROOP} ({TYPE}): {CHANCE}" />
+    <string id="zVwtUAaF" text="{DESCRIPTION}&#10;&#10;Demand for this class: {DEMAND}&#10;Explanations:&#10;{EXPLANATIONS}" />
+    <string id="LmX3Yszk" text="The amount of research this settlement produces towards innovations. This research is used for the settlement's culture innovations. Assimilating a fief will make it research towards your culture instead of the previous." />
+    <string id="UTAqhNhf" text="Appoint Preacher" />
+    <string id="hq2POKcM" text="Banish Preacher" />
+    <string id="S2asLsQF" text="{HERO} ({FAITH})" />
+    <string id="G1QUosQ3" text="Faith Presence ({FAITH}):" />
+    <string id="Xb1dNYLb" text="{TEXT}{newline}{newline}Explanations:{newline}{EXPLANATIONS}" />
+    <string id="JZ4Zvrz9" text="The faith's fervor. A faith's fervor makes its populations and heroes harder to convert. In settlements, fervor grealy contributes to the faith's presence. Heroes instead are less likely and/or require more resources to convert. Fervor is based on doctrines, settlements and clans that follow the faith. Additionaly, holding the Faith Seat and the faith's Holy Sites are important factors to fervor." />
+    <string id="Q2EVQ13r" text="The {FAITH} faith would admit a preacher of rank {PREACHER} for {FIEF}. Appointing such a preacher would cost you {PIETY}{PIETY_ICON} and {INFLUENCE}{INFLUENCE_ICON}" />
+    <string id="Pi7qxSgR" text="The {FAITH} faith does not admit any type of preacher for {FIEF}. It is not possible to appoint one." />
+    <string id="ZGRJzCE9" text="Not possible to banish a preacher of the local dominant religion." />
+    <string id="0fywUtMJ" text="Removing {HERO} will cost you {PIETY}{PIETY_ICON} and {INFLUENCE}{INFLUENCE_ICON}. Moreover, due to their influence over the populace, the fief will suffer a loyalty hit of {LOYALTY} points reduction." />
+    <string id="gsDscRQW" text="{HERO} was removed as a preacher at {FIEF}" />
+    <string id="F1ZSKuMN" text="Faith Seat" />
+    <string id="xQunLygC" text="Nonexistent" />
+    <string id="LvLjtUQr" text="The Faith Seat is the most religiously important fief within the faith. When the Seat is not held by a member of the faith, it loses a great deal of fervor. The holder of the Seat is given extra influence limit and piety according to the stability of the Seat, and thus is encouraged to give it good management." />
+    <string id="AepbQReE" text="Holy Sites" />
+    <string id="VHBzSQtV" text="Holy sites are the fiefs directly connected to the religion's divinities or cults. Holding such sites is important for religious Fervor. In addition, being blessed by a Divinity in its holy site adds double the blessing duration.{newline}{newline}Sites:{SITES}" />
+    <string id="VTYPt84B" text="{HOLY_SITE}: {DIVINITY}" />
+    <string id="AfsRi9wL" text="Fervor" />
+    <string id="rLLzRbvj" text="{TEXT}&#10;&#10;{DESCRIPTION}" />
+    <string id="USVLTxou" text="Mill" />
+    <string id="nUT8tOhu" text="A Calradic, illustrated treatise on siege warfare, also known as poliorcetics. The manuscript goes over all the main topics of sieges: building appropriate engines, bringing men upon the enemy's walls, as well as keeping the enemy off yours. All those in Calradia can attest that none can match the Calradoi in terms of siege warfare." />
+    <string id="8t43UAyc" text="A Vlandic tale that explores the themes of chivalry, honor and sacrifice. A knight is made an offer by this mysterious, green knight figure, at the possible cost of his life. Believing the danger to be absurd and the offer purely benefitial to himself, he makes a pledge. A year later, the terms of the offer come due, and the knight's honor and integrity are challenged: will he keep his word and risk his life?" />
+    <string id="8RfPV1Hs" text="An ancient Calradic treatise concerning the trainning, care and art of mounting horses. The treatise is the staple manuscript on the long Calradic equestrian tradition, an art developed by its nobility and culminated into the cataphract doctrice." />
+    <string id="4xQpDCk5" text="Nahawasi" />
+    <string id="dZrxkDn0" text="Levy Duty" />
+    <string id="5LVp3PEM" text="You don't have any vassals to levy duties from" />
+    <string id="D58n3Pbb" text="Kingdom is not legally stablished with a title" />
+    <string id="MdPUp5Nf" text="As a suzerain, you are capable of levying duties from your legal vassals. Such duties depend exclusively on the contract of the realm you serve." />
+    <string id="mJYUzMmh" text="{DESCRIPTION}{newline}{newline}Results:{newline}{RESULTS}" />
+    <string id="wzZ7JwKi" text="It has been {SEASONS} seasons since this duty was last levied from the {TITLE}. This duty may be levied every {DELAY} seasons." />
+    <string id="oRkarDqv" text="{HERO} is not able to fulfill this duty at this time." />
+    <string id="q6cxgOou" text="Commander" />
+    <string id="k4oyM9dT" text="Steward" />
+    <string id="gpLwTTYT" text="The era of the Calradoi was the period in which the Imperium reigned unmatched. " />
+    <string id="moSuZZ4Y" text="Internecine Age" />
+    <string id="Zbbr3caZ" text="With the advent of the battle of Pendraic and death of emperor Arenicos Pethros, the former Imperium has shattered into civil war - an Internecine." />
+    <string id="6kaEF0qo" text="Dark Age" />
+    <string id="5dayLuhU" text="Little is known about the period after the Internecine... However, scholars all agree that, within the 2 centuries, the empire was completely destroyed. Hordes have pillaged and razed cities to the ground, faiths and cultures ceased to exist and new kingdoms arose from the darkness. Yet, none ever shone a light so strong as did the Imperium." />
+    <string id="67UAi5rW" text="An association of merchants. As a group, merchants seek to have the freest markets possible, avoiding tariffs to noble overlords or other regulations.&#10;Effects:&#10;Increased mercantilism&#10;Increased caravan attractiveness" />
+    <string id="PwJdEYOg" text="An association of construction workers and engineers. Masons are responsible for stonework in construction and hence essential for towns and castles.&#10;Effects:&#10;Improved construction power" />
+    <string id="GwK8yr0R" text="An association of various types of metalworkers, such as tool makers, horseshoe makers, among others." />
+    <string id="09qT3Guk" text="Gods of Fate" />
+    <string id="TqfndFAk" text="According to the Junme, the world revolves around the concept of Urthr - or in other words, fate. The gods are stewards of the Great Oak that mankind inhabits, keeping its roots and leaves from rotting. Moreover, the gods are the force of justice that fights Ásbani, the God-Devouring Serpent. The gods of fate, they say, give man what is just - rewards to those who are brave and virtuous, and punishment to the wicked, for they do not weave what choices a man makes, but they do the consequences." />
+    <string id="JHhJgEzt" text="Signicantly increased renown and influence from battles" />
+    <string id="iE8OCyCv" text="Gods" />
+    <string id="4bVzgqO8" text="Gundar" />
+    <string id="7S0RFBFv" text="Ancestor Hero" />
+    <string id="TrhurNid" text="Arkina" />
+    <string id="4amxwnwM" text="Great She-Wolf" />
+    <string id="q1aAurkQ" text="Many among the eastern Devseg, such as the Khuzaits, count themselves among the descendants of the Great She-Wolf. The She-Wolf, it is said, nursed a wounded young boy back to health, who later impregnated her. 12 sons she had, half-wolf, half-man. To be counted as a descendent of the She-wolf is a great honor." />
+    <string id="cgBCfQm1" text="Increased personal and spouse fertility&#10;Newborn sons have at least one positive congenital trait" />
+    <string id="dYkpzhgj" text="Deity" />
+    <string id="wQUxWmSK" text="Iltanlar" />
+    <string id="jTfgXQRS" text="Improved Devseg town prosperity&#10;Increased troop morale in defensive battles" />
+    <string id="WTCLatv9" text="Mountain God" />
+    <string id="oyesYEFw" text="Yel Uçmag" />
+    <string id="z1FiNPKG" text="Improved settlement stability&#10;Reduced religious tensions" />
+    <string id="tnCHk0nj" text="Heavenly Wind" />
+    <string id="BM7iNr6Z" text="Yel Tamag" />
+    <string id="PnbBqKx5" text="The opposite of Yel Uçmag, Yel Tamag is the guarding of the Underworld, a fiery realm where the unvirtuous are punished. Though one may at first associate him with evil, the Devseg see Yel Tamag as a god of Justice. He does not chose who are to be punished, but only how they will be punished, according to their wrongdoings. The Underworld, Tamag, is where the souls may learn and eventually ascend to Uçmag." />
+    <string id="8yiGDoac" text="Improved settlement stability" />
+    <string id="AyUp8GxU" text="Hellish Wind" />
+    <string id="Y6Jcggsw" text="Yel Kurmag" />
+    <string id="ZKN5L8px" text="The Moon god, also know as Cold or Northern Wind. Yel Kurmag is the lord of the the bleak and cold nights, whese diseases and demons thrive. The god stands as a protector for his faithful, and so the Devseg have great respect for him, lest have malicious spirits or blights take them. It is believed he also presides over the fertility of women, as both the time of birth and pregnancy duration seem related to the Moon." />
+    <string id="egshRkU1" text="Piety gain for every child born&#10;Protection against diseases" />
+    <string id="TnZ7n4zD" text="Northern Wind" />
+    <string id="KD5uA00G" text="Yel Kunmag" />
+    <string id="33xRntMz" text="Increased influence cap&#10;Improved ruler legitimacy" />
+    <string id="gJpZV5js" text="Southern Wind" />
+    <string id="9KSPp6x5" text="Yel Batmag" />
+    <string id="y5MqhpmW" text="The Western Wind, the harbinger of death. Yel Batmag is in direct opposition to Yel Togmag. He grants death to whom he touches, incuding the Sun, who is again bequeated life by Yel Togmag, in an unending cycle. Death from Yel Batmag, however, is not perceived as sorrowful, or painful, but simply the natural and necessary part of the mundane existance, which the god presides over, as opposed to yield for his ambitions. Devseg shamans, the Kams, were the first to oppose the hordes marching westwards, seeing it as a death sentence." />
+    <string id="6do51cHL" text="Protection against curses&#10;Significant extra renown from battles" />
+    <string id="5rMfGYa7" text="Western Wind" />
+    <string id="P4JVGn4L" text="Yel Togmag" />
+    <string id="mrYsA2BM" text="Increased village animal and agricultural productions&#10;Increased village prosperity" />
+    <string id="09ZWFMkL" text="Eastern Wind" />
+    <string id="C0HN22Gb" text="Wilund" />
+    <string id="CUwwdNWd" text="Smith-God" />
+    <string id="s0cGbTxr" text="We, the Wilunding, owe him a great debt. The Smith came onto this land so that we may forge it into our kingdom. We shall repay him with a thousand years more of conquest." />
+    <string id="wZk8C07n" text="Osric Iron-Arm" />
+    <string id="c7Reg1qO" text="Deemed to be the first Vlandic king in Calradia, Osric is responsible for the conquest of Pravend, formerly an imperial capital. While they see it as a trivial game of conquest from a petty tribal warlord, Osric's achievements, in the minds of the Wilunding, prove the prophecy that they are, indeed, promised this fertile land for their taking. Osric is said to have killed the Calradic gods so that the Wilunding instead prosper, and so many among these now call themselves Osrickin." />
+    <string id="RLSTCLAQ" text="On capturing a fief, immediatly receive a claim for it" />
+    <string id="wGC6rgOT" text="Sun-God" />
+    <string id="XTmGHr9g" text="Osric, as he is known in this land, came to us, the Wilunding, to fulfill the prophecy of Horsa, which we so dearly desired. As vengeance for burning the silk and wine laden homes of the Calradoi, Osric's golden shield, the Sun, was struck and removed from him. With the bones of his lost arm, he promised us a new city. And so it was that Wilund forged him an arm of dark iron and said unto him “If they will not love thee when thou canst not carry gold, then I shall give thee iron to cast a shadow upon the world. And the shadow shall be called conquest.”" />
+    <string id="jAJmV7g2" text="Osric gathered great host of lances and bolts, with which he turned the sky above Paravenos dark. It was the dawn of the winter solstice. The imperials were terrified and opened the gates to flee the city. Then the arrows ceased and the bright sun shone once more, blinding the defenders. Seizing their chance, the good men rode into the city rallying under Osrac’s holy name and cut down the Calradoi in the streets. And so it is said to this day that the empire paid in red blood what they would not pay in black soil." />
+    <string id="fXJessKA" text="Horsa" />
+    <string id="G91306Er" text="The warrior Horse-God, Horsa landed near the lordship of Horsger and planted his spear in the beach. He has since become a prophet-like figure to the Vlandic peoples, foretelling the settlement and rise of Vlandic kingdoms. Though man and warrior, he is also depicted as a horse, a Vlandic symbol of both prosperity through the plough and war though the lance." />
+    <string id="k5ocZJjw" text="Increased village prosperity&#10;Improved offensive battle morale" />
+    <string id="6bOWj7wg" text="Horse-God" />
+    <string id="UCiEfW9n" text="When the first of us Wilundings came to Calradia from west-over-sea, we rode inland from Ostican and saw how it was good and green. We buried our weapons to Horsa, the horse god, and asked him to let us leave the life of war behind us, and to turn the saddle to a yoke and set the horse to plough. Yet, the gods of stone that dwell in this land would not let us live in frith. Regarldess, Horsa took our pledge and called more of us from over the sea, and so we came riding." />
+    <string id="NWPCn4Dd" text="When we came across the sea, Horsa said unto us: “Ye have buried your spears to me in this soil, and they shall grow again like crops whenever ye need them. And your harvest shall be war, and your bread shall be conquest.” On Horsa's name, we plant our seeds in the fields and our spears into the flesh of our foes. From battle flows the red wellspring that blesses this land. It makes the crops to grow and feeds both gods and men." />
+    <string id="Yw9KsrGo" text="Oca" />
+    <string id="sYo3yvcq" text="Improved town prosperity&#10;Increased farmland acreage output" />
+    <string id="eGsS0WnQ" text="Ox-God" />
+    <string id="VQZU8GpB" text="When we came from west-over-sea, we landed first near Ostican, built the shrine to Horsa, the horse god, and then we followed the shining shield of Osric. As we rode east we saw great mountains of stone shadowing the morning sun. And so it has ever been in Vlandia. The shadows of dawn are long and cold. ut there was one farmer, some say he was a Massa, others that he was the son of a Nord. Most of us count him as a snake god, but that is another tale. His name was Orm. The Battanians told Orm about a towering giant of stone, the one that was sleeping in the way of his sunlight. His name was Mordus. They said that if he got the giant drunk on wine, he’d be easier to knock down. Mordus was one of the Calradians’ Titans of Stone. He was the bastard of a Battanian god. He made his home on the mountainside in the east near the lake of Llyn." />
+    <string id="pZtBhjqe" text="Orm prayed to the god Oca. He said, “Oca, god of the oxen, plough away for me a sleeping giant. And I will give you all the wine you can drink in summer.” Now Orm went to Mordus and offered him all the wine he could drink if only he would spare his oxen. So Mordus watched Orm yoke a fine ox and plough slowly south towards him. And he drank. The sun was setting over the western sea. He drank so much that he didn’t see the ox was ploughing away the mountainside, by the time the ox came close, Mordus was asleep. And so Oca picked up the pace as night fell and charged right at the sleeping Mordus and cut him to pieces. In the morning light, Orm was horrified. There stood Oca, a giant ox, drinking wine from Mordus’ corpse. It had spilled into the furrow made the day before. Orm shouted at Oca: “I asked you to plough away the body of Mordus but here you are drinking up my wine.”, to which the go replied: “No. This is the wine thou hast promised me. But thou gavest it to Mordus. Now I plough no more. Every summer I will come back and drink this wine, and thou shalt have nothing more from the gods. Instead, beest happy with what thou havest. Learnest to pay those who work for thee.”" />
+    <string id="HpsdHEpS" text="Kronvalt" />
+    <string id="cHvceeEy" text="D" />
+    <string id="5SNrZFw3" text="Improved village prosperity&#10;Increased farmland acreage output" />
+    <string id="hsJ5Qp24" text="The Calradoi call him Koronvaldos, but the god of the Rhodoks is called Kronvalt in Vlandic. The name means “king-chooser”. " />
+    <string id="uQu7Ey63" text="Test 1" />
+    <string id="AjL2apCu" text="Test 2" />
+    <string id="nCXOPnzT" text="Pérkken, Thunder Wielder" />
+    <string id="neMrkdZH" text="Once, there was naught but the Great Oak, the sea and sky.." />
+    <string id="w2ve58am" text="Suurihirvi" />
+    <string id="wXZ3behN" text="Vakken shamans tell the story of Suurihirvi - king of the forest. Naturally, the Vakken believe the forests to be ripe with spirits, but some are greater than others, and Suurihirvi is the greatest of all. Hunters pray to him for bountiful game, and foresters for protection. In most stories, Suurihirvi is depicted as a great white elk, for it needs not to hide as the forest is its domain." />
+    <string id="DDX2uacs" text="Forester and fur villages increased productivity&#10;Woodland acreage food production greatly increased" />
+    <string id="ifJimDjm" text="Forest Spirit" />
+    <string id="jkio5SZp" text="As ruler, you must decide whether to enforce the law {LAW}." />
+    <string id="YBhZOZOy" text="Implement the {LAW} law" />
+    <string id="xpP9AOpR" text="The {CHANGE} law will be made part of the realm's demesne, replacing the {CURRENT} law." />
+    <string id="hEJudw47" text="The {CHANGE} law will not be made part of the realm's demesne, and the {CURRENT} law is upheld." />
+    <string id="8qoiPqHf" text="Succession law will be changed to {NAME}." />
+    <string id="98OiALWN" text="{FACTION_LEADER} proposes the legal implementation of {CHANGE} throughout the realm's demesne, replacing its current law, {CURRENT}. You can pick your stance regarding this decision." />
+    <string id="ZWZgWM7r" text="Vote for the implementation of {CHANGE}" />
+    <string id="xwk2WFuF" text="{?SUPPORT}Change contract{?}Maintain contract{\\?}" />
+    <string id="WXLJX913" text="{HERO} is not able to fulfill the {DUTY} duty." />
+    <string id="UZXrDvdp" text="Every fief owned by a clan make it a weaker candidate option, favoring clans with less property" />
+    <string id="ChpPC4x7" text="Title claimants of the fief are stronger candidates, de jure holder is strongest of all" />
+    <string id="mVgzLixh" text="Yerleşimin fatihi (yalnız klan veya ordu lideri) diğer tüm adaylara göre güçlü bir şekilde tercih edilir" />
+    <string id="KU04yYmF" text="Geld" />
+    <string id="0LOAsStv" text="Geld, Wilunding'in geleneksel vergilendirme şeklidir. Bu, Deriler olarak adlandırılan bölüştürdükleri verimli arazinin değerlendirilmesine göre hesaplanır ve bu derilerin her birine belirli bir miktarda altın vergilendirilir. Hesaplanması nispeten basit olmasına rağmen Geld, arazinin üretken değerini tamamen göz ardı eder ve bu nedenle, özellikle verimsiz bir araziye sahip veya doğası gereği en verimli arazi türü olan tarım arazilerinin bulunmadığı bir tımar üzerinde adil olmayan bir şekilde değerlendirilebilir. Geld, yılda 2 defaya kadar alınabiliyor, ancak bu pek popüler değil; her vergi, diplomatik bir cezaya neden oluyor." />
+    <string id="3CzrAsYf" text="Hükümdarınız {SUZERAIN}, sizden ona Geld'i vermenizi istiyor." />
+    <string id="9QLLuiqk" text="{VASSAL} will pay you {RESULTS}{GOLD_ICON}" />
+    <string id="PhLpcb1r" text="Feodal Vergi" />
+    <string id="xY1jAQ1X" text="Feodal vergi, feodal krallıkların standart vergilendirme şeklidir. Bu vergi, her tımarın gelirinin belirli bir gün miktarıyla çarpımı üzerinden hesaplanır. Bir tımar yasal olarak vergilendirilen lordun elinde olduğunda, onun vergi katkısı azalır. Vergi yılda bir kez alınabilir, ancak popüler değildir; her vergi, diplomatik bir cezaya neden olur." />
+    <string id="HnoPHp3J" text="Hükümdarınız {SUZERAIN}, ona feodal vergiyi sağlamanız için sizi çağırıyor." />
+    <string id="mFDdNTMY" text="Kabile Vergisi" />
+    <string id="zqrmLMoS" text="Kabile vergisi, her yerleşim yeri başına belirli miktarda altın tahsil eden basit bir vergilendirme şeklidir. Kabile vergisi yılda bir kez alınabiliyor ama pek popüler değil; her vergi diplomatik bir cezaya neden oluyor." />
+    <string id="0W4heOrZ" text="Hükümdarınız {SUZERAIN}, ona kabile vergisini vermeniz için sizi çağırıyor." />
+    <string id="UZjiUv2W" text="İmparatorluk Vergisi" />
+    <string id="WUz9qfT0" text="İmparatorluk vergisi, verimli arazilerin değerlendirilmesine göre hesaplanır ve bunların niteliğine göre, yani tarım arazisi, mera ve ormanlık olup olmadığına göre farklı şekilde vergilendirilir. Vergi yılda 2 defaya kadar alınabiliyor ancak pek popüler değil; her vergi diplomatik bir cezaya neden oluyor." />
+    <string id="CQD9fhsp" text="Hükümdarınız {SUZERAIN}, ona İmparatorluk vergisini sağlamanızı istiyor." />
+    <string id="AaBWKate" text="Agnatik" />
+    <string id="dmbqnCHY" text="Enatik" />
+    <string id="QyyZetHC" text="- Every year, an election for ruler takes place (Republican succession){newline}- Settlement production quality +10%{newline}- Settlement loyalty +1{newline}- Settlement mercantilism +50%" />
+    <string id="SW29YLBZ" text="Imperial" />
+    <string id="djjvMfwJ" text="The Calradoi Imperial government was created after its original Republic. Unlike feudal monarchies, the empire, though often hereditary, is built on a different ethos. Though a Senate may exist, it is more often than not a formality than an effective political force. All property is considered ultimately the emperor's, and thus their vassals are mere administrators, rather than owners of their domains. In theory, ruling families only inherit their properties by the emperor's grace, who temporarily holds them in the family head's death, before granting it back to them. In truth, many emperors cannot afford to not concede to such influential families. Imperial fiefs are highly integrated, with security and assimilation as priorities." />
+    <string id="4tFExGFv" text="- Settlement cultural weight +40%{newline}- Settlement security +1{newline}- Settlement mercantilism +20%" />
+    <string id="hUASPCjM" text="Tribal" />
+    <string id="9Dzw0cQS" text="Most non-Imperial societies are organized in the 'tribal' manner, for example: the Battanians who united under a High-Kingdom to fight their common enemy, the Nahawasi as a tribe confederation with the purpose of protecting trade and prosperity. Tribal administrations are often more descentralized and autonomous than otherwise, and legal arguments often have no place against military force and cultural tradition." />
+    <string id="5cBQyuP6" text="- Settlement militia +1{newline}- Settlement draft efficiency +20%{newline}- Settlement mercantilism +30%" />
+    <string id="9VfvAxKf" text="Feudal" />
+    <string id="8aQ8LkdX" text="- Petitioning rights yields no relation loss{newline}- Settlement stability +5%{newline}- Settlement prod. efficiency +10%{newline}- Settlement mercantilism +15%" />
+    <string id="bC0oiQ0k" text="Primogeniture" />
+    <string id="sypcwdkK" text="Ultimogeniture" />
+    <string id="a1Nz6q4v" text="Seniority" />
+    <string id="EZLpozeS" text="The Nahawasi succession is most interested in the economic prosperity of the realm, for trade is the blood that keeps the Nahasa clans alive. A strong leader, the Aserai say, is one both brave, so they may defeat their enemies, and generous, so they may be loved by those under their protection. Moreover, in keeping with the traditions of Banu Asera, the Nahawasi place value in the religious integrity and scholarly tendencies of their leader, or in other words, that they understand and seek Truth. A fool leader is no worse than a craven one." />
+    <string id="QpP9y26C" text="- Heir of current ruler&#10;- Any Full Peerage clan leader" />
+    <string id="HeUB6uTS" text="++ Skills&#10;++ Military power&#10;+ Clan tier&#10;+ Inheritance score (for clan inheritors)" />
+    <string id="3JirTrex" text="Gold" />
+    <string id="2xJWYF4F" text="-Inheritance candidates of current ruler&#10;- Title claimants&#10;- Anyone capable of leading an army (marshal, legates)" />
+    <string id="AM2CzKvt" text="++ Inheritance score (for clan inheritors)&#10;+ Title claim&#10;+ Skills" />
+    <string id="weztdbRZ" text="{CLAN} inheritor" />
+    <string id="1VEaSqLZ" text="- Inheritance candidates of current ruler&#10;- Title claimants&#10;- Any clan leader capable of leading an army (marshal, legates)" />
+    <string id="MD274bWx" text="++ Inheritance score (for clan inheritors)&#10;++ Influence cap&#10;+ Title claim&#10;+ Skills" />
+    <string id="UJhomH2r" text="Influence cap" />
+    <string id="9zjb2SWJ" text="- Inheritance candidates of current ruler&#10;- Title claimants&#10;- Anyone with title of duke or higher (if there aren't at least 3 candidates)" />
+    <string id="tg5OYy99" text="+++ Inheritance score (for clan inheritors)&#10;++ Title claim&#10;+ Clan tier" />
+    <string id="0ZuNYeWy" text="- Any Full Peerage clan leader" />
+    <string id="Ei7SBfL6" text="+++ Political traits&#10;++ Clan tier&#10;++ Skills&#10;+ Age" />
+    <string id="uUmEcuV8" text="Age" />
+    <string id="DtuTcLEK" text="Theocratic Elective" />
+    <string id="TcswpG5x" text="-Every clan leader of same faith as current ruler" />
+    <string id="Jwr3N58J" text="++ Piety&#10;++ Virtues&#10;++ Zealotry&#10;+ Skills&#10;+ Clan tier" />
+    <string id="0EVuzzOU" text="Piety" />
+    <string id="us3oeQaG" text="Battanian Elective" />
+    <string id="ENVo6B8m" text="The Battanian succession is traditionally reliant upon renown. Caladog fen Gruffendoc is a notorious exception, who managed to leverage his close relationship to the previous High King, Aeril fen Uthelhain, to rally the traditional houses behind him. Yet, the tradition of renowned, strong leaders remains - Battanians care little for 'legal arguments' such as claims, and instead respect force and name. Family members of the ruler are generally preferred, but will quickly be cast aside once a stronger option presents itself." />
+    <string id="RAG2GB3K" text="- Inheritance candidates of current ruler&#10;- Any clan leader of clan tier 5 or higher" />
+    <string id="JEbqdGy1" text="+++ Clan tier&#10;++ Skills&#10;+ Inheritance score (for clan inheritors)&#10;+ Military power" />
+    <string id="vqeThhp5" text="Military power" />
+    <string id="UpzdXYZ8" text="-Inheritance candidates of current ruler&#10;- Title claimants&#10;- Anyone with title of count or higher and clan tier 5 or higher" />
+    <string id="epPE04EB" text="+++ Inheritance score (for clan inheritors)&#10;++ Title claim&#10;Influence cap&#10;+ Clan tier&#10;+ Skills" />
+    <string id="KMU5LGC6" text="The Wilunding succession is the traditional practice brought the Wilunding peoples, also known as Vlandians, from their ancestral home. This practice gives precedence to the ruling dynasty's inheritors, but in the absence of a good match, legitimizes powerful claimants and lords." />
+    <string id="JffBWMDf" text="++ Inheritance score (for clan inheritors)&#10;++ Military power&#10;+ Clan tier&#10;+ Title claim&#10;+ Leadership" />
+    <string id="tbuOqjrs" text="Ancestor Worship" />
+    <string id="957PYc30" text="Honoring the ancestors is a crucial part of the faith, for they watch over the living, expecting them to fulfill their traditions. They live on as spirits, when they are not among the ranks of the gods themselves." />
+    <string id="5pdkDb7J" text="Easier to marry within the same faith{newline}Clan renown yields piety" />
+    <string id="rkiPYmy7" text="Renovatio Imperi" />
+    <string id="DV4jze8u" text="Peace in Calradia can only exist with an united Empire. A kingdom under the teachings of Heaven. The faithful should cast aside their ambitions and work together for the benefit of the gods." />
+    <string id="XvjrxDRt" text="On Imperial fiefs, showing mercy post siege, gain relations with all notables and lose no fief stability" />
+    <string id="gKTOQfRL" text="Esotericism" />
+    <string id="pYzJ1Nn2" text="Knowledge and faith are less divided than most think. The cosmos is littered with mysteryes, and to seek their answers is to seek to reach the gods themselves." />
+    <string id="Z9hS2rqU" text="Wisdom yields piety{newline}Finishing education projects yields piety and Theology" />
+    <string id="q7oZycda" text="Astrology" />
+    <string id="jhqnz1vk" text="The study of the stars is the study of the divine itself. Much like the Sun blesses the land with fertility, the stars bless man with wisdom." />
+    <string id="pju7HLP4" text="Tolerant" />
+    <string id="pbamMhjM" text="A tolerant faith considers all faiths to be different interpretations of the Truth, as different paths to the real god(s). Tolerant faiths do not have hostile opinions toward any other faith, facilitating marraiges and decreasing tensions in multiple faith fiefs." />
+    <string id="fBd0mhEA" text="Every other faith is consedered Tolerated" />
+    <string id="k5DNJydq" text="Shamanism" />
+    <string id="QfL3Q5Hk" text="Shamans are the intermediaries between manking and the spiritual world. They do not adhere to an organized structure, instead relying on oral tradition and local custom. Shamans often live close to nature, where the spirits lie, and perform rituals to access the spiritual world to communicate with them, acquiring knowledge to guide their people in the mundane plane." />
+    <string id="Lvf7fqDC" text="Preachers are able to heal diseases and curses" />
+    <string id="zw1LUPXy" text="Osric's Vengeance" />
+    <string id="GhuGWTNU" text="Osric fulfilled his vengeace against the Calradic gods when the captured Pravend, taking away their power and providing bountiful land to his people. As such, the Wilunding should follow in his path of occupying their enemies." />
+    <string id="EdWPfhMS" text="Occupying fiefs yields significant piety" />
+    <string id="XBPpOf2D" text="Reavers" />
+    <string id="8W1MAQmT" text="Raiding and pillaging is understood as a pious practice. This faith" />
+    <string id="V5X06pOb" text="Warlike" />
+    <string id="yTbRioDV" text="Alti Yel, or Six Winds, represents the Devseg beliefs that the universe is, in essence, an everflowing current. Six Winds represent the aspects of this current: U�mag, Tamag, Kurmag, Kunmag, Batmag, Togmag. Each of them is represented by a god or godess, who embodies a necessary aspect of the cosmos, such as the life or death. The Devseg hold all of them in high regard, but U�mag, Heaven, as the most important guide to their ethics, as every faithful strives to reach the purity of U�mag on their death." />
+    <string id="R5WuSvO2" text="I would like the blessing of the Winds." />
+    <string id="smEZ1zk5" text="pray to." />
+    <string id="nkCxc5r9" text="Are you sure? Once I enter the realm of the Iye and the Winds, they will not take fickle words." />
+    <string id="uvqLR5Vc" text="Tell me which of the Winds do you favor. Or would you rather honor the She-Wolf? Perhaps Iltanlar of the mountains?" />
+    <string id="fDcUT9Xu" text="{HERO} is now pledged to {DIVINITY}." />
+    <string id="41pnhKOc" text="Be welcome, kin. Here we live in harmony with the spirits and breathe in the pure Winds. I am the Kam and speak for them. Come to me whenever you need to contact the spirits, or interpet the messages of the Winds." />
+    <string id="Z62bofvo" text="Welcome, {?PLAYER.GENDER}madam{?}sir{\\?}. I am the local Kam - a shaman as your people say - and speak for the Devseg. We live in harmony with the spirits and Winds, and hope you can do so as well." />
+    <string id="zxu2QB6K" text="Be welcome, kin. I can see that you are a faithful of the Heavens, and listener to the Winds. I am the local Kam, if you need to contact the Iye. May good winds guide you." />
+    <string id="vCeXSNWi" text="A Kam has no power to 'induct' one into the Winds. Do you not hear them, whispering into your ear? The words of gods are everywhere. You merely pay attention to them or not." />
+    <string id="Vx74pces" text="A Kam has no power to 'induct' one into the Winds. Even if I could, I would not. You are not one who is fit to bear the name of our good gods. Your foreign customs are a corruption of nature, which is unacceptable to the Winds." />
+    <string id="Jjri5A06" text="Go, {?PLAYER.GENDER}madam{?}sir{\\?}, and live according to gods. That is your true induction. Uphold the virtues of the Winds and be in harmony with the Iye. You want to reach U�mag, do you not? May good winds guide you." />
+    <string id="ESdDJ63U" text="If you truly wish to live by our traditions, then take them upon yourself. Become a {?PLAYER.GENDER}woman{?}man{\\?} of the hordes, sleep in a yurt and gaze into the Heavens for enlightenment. Such is the way of our forefathers, the way of the Winds." />
+    <string id="2e200pGf" text="Leave preaching for the aloof Calradoi. Here, I interpret the Winds. To the Calradoi the world may seem a static, fixed place. But it is not. It is an everflowing current, which flows in 6 directions. These are the Winds that make everything. As a river flows continously downstream, so does everything towards the fate of the gods." />
+    <string id="ehb12OvU" text="We must uphold the teachings of the Winds. To be true to our words and give just treatment to others. To be in harmony with the Iye - spirits, as others call them. Only in such ways we may ascend with Yel U�mag at the time of our death." />
+    <string id="SLsF0Mrc" text="Give just treatment, specially do those you least want to. Be true to your word, always. Never slaughter an animal without a just reason. Disturb not the Iye, for they share this plane with us, through the rivers, forests and mountains, as the gods desired. U�mag is realm of the virtuous, and only by upholding these principles you may enter." />
+    <string id="vD0mQdSk" text="If you wish to be zealous, hear me then. Sacrifice to the Winds, 6 horses, 6 lambs or 6 cattle heads. Horses so that they may ascend to U�mag as Khiimori and bless us with health. Lambs to bless our steppes with bountiful game and grass. Cattle so that Iltanlar may bless with the strength of his axe." />
+    <string id="4wtsC3C5" text="Alti Yel" />
+    <string id="tBTGVwcL" text="Your culture is not accepted." />
+    <string id="mgDiWMY7" text="You need to be of a Devseg culture (Khuzait, Iltanlar)" />
+    <string id="TBywthWP" text="Kam" />
+    <string id="t6GmZt8q" text="{HERO} is medidating upon {DIVINITY}." />
+    <string id="ngc5c6mj" text="Pérkkenukos is a native faith of the Calradian continent, natural to the Vakken peoples, who stretch from the Kachyar peninsula to the Chertyg mountains. Once, they say, there was naught but the sea and sky. High above reigned Pérkken, god of sky and thunder, and deep below, Tursas, king of seas.{newline}Pérkkenukos, the faith in Pérkken, represents such oral Vakken traditions, passed on through tribes and generations, often with nuances of local folklore and beliefs, but ultimately united by a common cultural tradition." />
+    <string id="NV7m4kMo" text="I would like to pray to the gods." />
+    <string id="zg9p0U9J" text="To whom would you pledge? The Thunder-Wielder Pérkken, or perhaps Suurihirvi of the forest?" />
+    <string id="KcQprr15" text="To destroy the forest without purpose is the highest crime on can make. For not only it is the home of our people, but also of the spirits. Our ancestors and the spirits watch over our doings, to forsake them is to forsake our very being. Many a foreigner, such as the Calradoi, can not understand this. Most of them have never wandered deep into the woods to commune with the forest. They have forsaken their ancestors." />
+    <string id="mk0vGrZa" text="Many among the Sturgian nobility have also commited the crime of abandoning their ways. A shame - though different, Sturgians understand many of our beliefs." />
+    <string id="0TdQzupw" text="Tervehtuola, foreigner. I represent here the children of the forest as their Tietaja - 'Shaman', as foreigners say. We Vakken seek no disputes, but merely to live according to our ancestors." />
+    <string id="NacgU9ux" text="Tervehtuola, brethren! I serve here as the Tietaja of our siblings. Come see me should you need the guidance of the spirits." />
+    <string id="X3Y3df9N" text="Alas, one born outside the embrace of the gods, can not choose to be embraced. Though one can be respected for their boldness, only a child of the forest can follow the path of the true gods - it is written in our ancestry.[if:convo_bored]" />
+    <string id="tmwOFDrv" text="I ask of you only this - why have you not come before? My brethren of the woods, you have come to your home. The way of Pérkken, that is your true nature. Your blood and bone." />
+    <string id="Wf9nq4s2" text="To guide our people in the ways, I uphold the traditions of our forefathers. That is what I preach: our ancestral way of life, that of the children of the forest." />
+    <string id="NMqCaM0w" text="To protect our home and our kin is our highest duty as faithful. Uphold honor in your words, uphold the gods through offerings, and protect our home by showing no mercy to those that come to harm it." />
+    <string id="VO9nsfXD" text="Find a sacred grove among the trees and pay offering to the gods. Pray to the spirits and your ancestor for guidance. Expand your family and teach them the way of our kin - we shan't forsake our ways as the Sturgians did." />
+    <string id="UQZoqiSJ" text="Keep your words pure and honest, unlike the Battanians with their lies. Protect our home with courage, and show no mercy to our enemies. Have them fear the woods, our home, as the land of trolls and demons they call our spirits." />
+    <string id="TRbqYNxY" text="Pérkkenukos is a native faith of the Calradian continent, natural to the Vakken peoples, who stretch from the Kachyar peninsula to the Chertyg mountains. Once, they say, there was naught but the sea and sky. High above reigned Pérkken, god of sky and thunder, and deep below, Tursas, king of seas. A Great Oak once sprang, blocking all sun and moon light from land and sea. Tursas, envious of the oak's heights, set it ablaze. From its ashes, the forests grew, which the Vakken now protect.{newline}Pérkkenukos, the faith in Pérkken, represents such oral Vakken traditions, passed on through tribes and generations, often with nuances of local folklore and beliefs, but ultimately united by a common cultural tradition. As the Vakken are often isolationists, living deep in the woods, their faith is also descentralized and not represented by an organized clergy. However, they all agree on the hallowed status of the region of Omor, a traditional forest-shrine." />
+    <string id="xCesWz5Q" text="Pérkkenukos" />
+    <string id="Qr2frffo" text="Tietaja" />
+    <string id="m89LiFyy" text="{HERO} has completed the {RITE} ritual." />
+    <string id="YJqwNFkH" text="This rite requires several items, check its description for details." />
+    <string id="VGKZw3jF" text="I would like to pledge myself to one of the gods." />
+    <string id="f9H0msCe" text="And to which of our hallowed, renowned gods to you pledge yourself today?" />
+    <string id="5sR6ymY5" text="Forbidden? Cravenness, of course. In the light of our ancestors, among which rank our gods - Wilund, the Smith; Horsa, the Prophet; Osric, the Conqueror - what kind of man is one who escapes in the face of the enemy? No man, I say." />
+    <string id="fJexeHky" text="Take heed: you need not look for answers too long. Ask yourself: what would your father do? Your grandfather? Your ancestors? There lies the answer. Great feats have they acomplished. Riding the sea, mounting their warhorses and flourishing their fields. If they have not done so - then do them yourself, each teach your sons to do so." />
+    <string id="zEU60VwE" text="Hail, {?PLAYER.GENDER}madam{?}sir{\\?}. I see you are one of us, yet you do not follow our ancestors? A strange choice.. which I can help you remedy. As the local Hestawick, I speak four our peoples here, we who came from west-over-seas." />
+    <string id="vBLfJnQw" text="Hail, foreigner. Know that I speak for those of us here - the Wilunding - and not for your kind. The good folk here trust me to speak for them." />
+    <string id="jjWKW0MY" text="Be welcome, {?PLAYER.GENDER}sister{?}brother{\\?}. We have a community of goods folks here such as yourself, living off the land. As their Hestawick, I guide folks on living according to our ancestors." />
+    <string id="Z6eT0sdD" text="Why have you not come sooner, {?PLAYER.GENDER}madam{?}sir{\\?}? It is a shame for one us to be outside our faith. Take heed not of the Calradoi lies and other strangers that inhabit this land. For we have carved this piece for ourselves, and 'tis our duty, in this land, to defend one another." />
+    <string id="X4gVTOTj" text="Induct you? I think not. The way of the Gods is ours alone, and strangers such as yourself should not be trusted. When we first came, the stone gods of the Calradoi tried to kill us. They who appealed for our swords and lances. Liars, all of them." />
+    <string id="8bHCQfwo" text="Why have you not come sooner, {?PLAYER.GENDER}madam{?}sir{\\?}? It is a shame for one us to be outside our faith. Take heed not of the Calradoi lies and other strangers that inhabit this land. For we have carved this piece for ourselves, and 'tis our duty to defend one another." />
+    <string id="28KbqQ8f" text="Return to those of your kind. We Wilundings stand for each other. If you wish to prove yourself faithful, then take up lance and warhorse. Carry the lion banner, or sew your own, one that shall be sung in the taverns." />
+    <string id="Ja0bYvB7" text="I preach the canticles of our peoples, the Wilunding. From west-over-sea we came, with the promise to seize ourselves new fertile land. Our ancestors, along our hallowed gods, have so achieved, as Horse, the prophet, has foretold." />
+    <string id="uNonfRhX" text="The Calradoi will tell you we are usurpers, for they are arrogant and ignorant. We have merely taken ourselves what was promised us. In their ways of silk and wine, they tried to shame and fool us. We have taken up the horse and lance, and taken it for ourselves." />
+    <string id="njmPgKE6" text="Mount your horse and ready your lance. That is the way of the Wilunding. We shall plant the land with our spears and carve from it our kingdoms. The wights will be witness to your resolve." />
+    <string id="irQisnoQ" text="Osfeyd, or 'faith in the gods' in the Vlandic tongue, is the combined beliefs brought by the various Vlandic peoples, woven together by the prophecy of Horsa, made true by Osric Iron-Arm. In search of new fertile farmland, the Wilunding have killed the Calradic gods in the west." />
+    <string id="ixRXtvXi" text="Osfeyd" />
+    <string id="CZKht9yr" text="You need to be of a Wilunding culture (Vlandia, Osrickin, Swedaz, Rhodok)" />
+    <string id="jpTxWRHp" text="Hestawick" />
+    <string id="tXV0b45o" text="{?PLAYER.GENDER}My lady{?}My lord{\\?}, a feast to honor Pérkos would be a wise choice. Call in all our siblings of the forest so we may honor the Gods on the sacred canopy!" />
+    <string id="O4JD4P4f" text="The {ITEM} was buried in a hallowed mound for the gods." />
+    <string id="RMDZZkUE" text="Mızrak Teklifi" />
+    <string id="1Dcqodck" text="An offering to Horsa, the prophet Horse-God, to honor him for giving us the spirit to carve our kingdom." />
+    <string id="H9pOEvhL" text="{?PLAYER.GENDER}My lady{?}My lord{\\?}, a high quality is expected, so it may be worthy of your ancestors. Horsa came to this land and planted his spear to claim it. Now we give back to him, faithfully. Will you offer the {BLADE}?" />
+    <string id="UF67KMXF" text="Savaş Atı Kurban" />
   </strings>
 </base>
