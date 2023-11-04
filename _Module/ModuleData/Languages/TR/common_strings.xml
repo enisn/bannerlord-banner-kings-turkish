@@ -219,5 +219,8 @@
     <string id="pop_class_nobles_battania" text="Soylular" />
     <string id="pop_class_nobles_aserai" text="Soylular" />
     <string id="pop_class_nobles_khuzait" text="Soylular" />
+    
+    <string id="feudalism_contract_header" text="{0} için Fesih Sözleşmesi" />
+
   </strings>
 </base>

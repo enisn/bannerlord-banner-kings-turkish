@@ -833,8 +833,8 @@
     <string id="7r3RV3jr" text="Göreceli bir iç barış ve dışa genişleme döneminde doğan Darusos, en yakın generalleri tarafından ihanete uğramadan ve Lycaron'un imparatorluk bahçelerindeki kutsal bir incir ağacında çarmıha gerilmeden önce Kalradik İmparatorluğu içinde reformlar aradığı iddia edilen genç bir imparatordu. Darusos'a bağlı olanlar, onu ölmekte olan saatlerinde divus ayinini gerçekleştirmiş, ölümsüzlüğe ulaşmış ve onun reformlarını cennet alemlerinde uygulamaya çalışanları bekleyen biri olarak görürler." />
     <string id="XyVMjNNp" text="Kalradik İmparatorluğu'nda uzun süredir bir emperyal kült olmasına rağmen, Darusos'un öldürülmesinden sonraki nesillerde popülaritesi arttı. İmparatorlar tanrılaştırıldı, kendi tanrılarının yanında emsal olarak durmaları sağlandı. Birleşik imparatorluğun azalan nesilleri boyunca pek çok kişi kendilerini tanrı-imparator veya ilahi olarak atanmış diğer ünvanlar ilan edecekti; divus ayini, bir imparatoru yalnızca ölümü üzerine yeniden somutlaştırabilir. Bu nedenle, gerçekten belirlenmiş son imparatorluk kültü, Arenicos Divus'un sözlerini vaaz eden şeydir; Ira Divus'a kaçınılmaz bir tapınma için sonradan görme şubeler başlamış olsa da." />
     <string id="J4D4X2XJ" text="Tarikat" />
-    <string id="JqPzw7PR" text="Likaron Üçlüsü" />
-    <string id="PONMWMm2" text="İmparatorluk, ölümlü yaşamın tüm yönlerine hükmeden ve ayinsel kurban etme, bayram etkinlikleri ve günah çıkarma duaları yoluyla yatıştırılan ilahi varlıklardan oluşan kendi panteonunu uzun süredir elinde tutuyor. Darusos Şehitliği içinde, yerel olarak övülen Lykaronian Üçlüsü, diğer tüm ebedi tanrıların üzerinde tutulur ve divus ayinleriyle kutsallığa yükselen ölümlü imparatorlara bitişik olarak görülür. Gök-Baba Iovis, geleneksel olarak Erithrys Dağı'nda yaşayan henoteist patrik olarak hüküm sürmektedir. Ona, imparatorluk gücünün entrikalarıyla korunması gerekeni temsil eden gelini Astaronia eşlik ediyor; ve Iovis'in egosundan doğan ve ölümlü dilekçe sahiplerine içgörü bahşeden kızı Mesnona tarafından." />
+    <string id="JqPzw7PR" text="Lycaron Üçlüsü" />
+    <string id="PONMWMm2" text="İmparatorluk, ölümlü yaşamın tüm yönlerine hükmeden ve ayinsel kurban etme, ziyafet etkinlikleri ve günah çıkarma duaları yoluyla yatıştırılan ilahi varlıklardan oluşan kendi panteonunu uzun süredir elinde tutuyor. Darusos Şehitliği içinde, yerel olarak övülen Lykaronian Üçlüsü, diğer tüm ebedi tanrıların üzerinde tutulur ve divus ayinleriyle kutsallığa yükselen ölümlü imparatorlara bitişik olarak görülür. Gök-Baba Iovis, geleneksel olarak Erithrys Dağı'nda yaşayan henoteist patrik olarak hüküm sürmektedir. Ona, imparatorluk gücünün entrikalarıyla korunması gerekeni temsil eden gelini Astaronia eşlik ediyor; ve Iovis'in egosundan doğan ve ölümlü dilekçe sahiplerine içgörü bahşeden kızı Mesnona tarafından." />
     <string id="iE8OCyCv" text="Tanrılar" />
     <string id="ePJb0qTR" text="Lai Vlandia" />
     <string id="2hEMRmtZ" text="Lai Vlandia'da dörtlük ve eylem halinde söylenen İlahiler, modern çağın büyük anlatısına hitap eder; köylü kahramanlar ve baronluk lordlarının macera ve romantizm hikayelerini detaylandıran beyitler. Tüm modern erkekler, Lai Vlandia'nın katılımcıları olarak görülüyor; istekleri ne olursa olsun, yeter ki Vlandia'nın var olduğunu bilsinler. Şarkılar çoğu kez tonlama yoluyla kişinin konuyla ilgili inançlarını ve görüşlerini ortaya koyabileceği şekilde yazılır; masalları betimleyen ciltler, tuhaf marjinallikleri ile ünlüyken, bu genellikle daha önemsiz yazarların tercih ettikleri ve aşağılanan karakterlerini garip yaratıklar veya grotesk canavarlar olarak tasvir ettikleri komik süslemelere iner." />
@@ -1732,10 +1732,10 @@
     <string id="RH2NC5ij" text="Ziyafet Düzenleyin" />
     <string id="8XXOBM1L" text="Bir ziyafet düzenleyin. Diyarın lordlarını kasabalarınızdan veya kalelerinizden birine çağırın ve bol bol yemek yiyerek kutlayın. Ziyafetler, Akranlarınızla ilişkilerinizi geliştirmek için bir fırsattır. Ancak, biraz planlama gereklidir. -Misafirlerinizi yemek ve alkolden mahrum bırakmak istemezsiniz! Tüm planlamalara rağmen bazı talihsiz olaylar olabilir...&#10;" />
     <string id="gn6WKs03" text="Savaşlar sırasında ziyafet düzenlenemez" />
-    <string id="4Gqf2t8F" text="Son bayramınızın üzerinden bir yıldan az zaman geçti" />
+    <string id="4Gqf2t8F" text="Son ziyafetin üzerinden bir yıldan az zaman geçti" />
     <string id="USJTkG5d" text="{CLAN} - {INFLUENCE} nüfuz" />
-    <string id="s71kzA2t" text="Bayramınızı nerede yapacağınızı seçin. Ziyafet için yiyecek ve alkol yerleşim yerinin Zulasından alınacaktır." />
-    <string id="Usb3B69i" text="Bayram Misafirleri" />
+    <string id="s71kzA2t" text="Ziyafetinizi nerede yapacağınızı seçin. Ziyafet için yiyecek ve alkol yerleşim yerinin Zulasından alınacaktır." />
+    <string id="Usb3B69i" text="Ziyafet Misafirleri" />
     <string id="S9S5PCrP" text="Ziyafetiniz için konukları seçin. Ülkenizden en az 3 farklı klan seçin. Unutmayın, misafirlerin beklentileri olacaktır. Çok çeşitli, kaliteli ve bol yemek isteyeceklerdir. ayrıca çok fazla alkol ve ev sahibinin de hazır bulunmasını bekleyecek." />
     <string id="YR4uDhkZ" text="Çok az misafir! En az 3 klanı bir ziyafete davet edin." />
     <string id="sdpM1PD3" text="Tam Hakimiyet İste" />
@@ -1929,7 +1929,7 @@
     <string id="WmzEL8hL" text="Kariyer" />
     <string id="krVcSaH5" text="Son Ödeme:" />
     <string id="oGNtP5yt" text="Bu köyün sahibi tarafından yapılan son ödeme." />
-    <string id="JdH9ubwj" text="Turnuvanız için bir ödül seçin. Değeri ne kadar büyükse, turnuva bittiğinde o kadar çok ünlü verilecektir." />
+    <string id="JdH9ubwj" text="Turnuvanız için bir ödül seçin. Değeri ne kadar büyükse, turnuva bittiğinde size o kadar çok nam kazandıracaktır." />
     <string id="mGfT9o4X" text="Milisleri Göreve Çağır" />
     <string id="zzjbxN9h" text="Sancak Çağrısı" />
     <string id="QHfkhG0b" text="Bir partide değil." />
@@ -2021,7 +2021,7 @@
     <string id="H6CdxwrS" text="Siz {KINGDOM}'un parçası değilsiniz." />
     <string id="qc84kXx2" text="Geçerli tarih, festivalin geleneksel sezonu ve sezonun günü ile eşleşmelidir." />
     <string id="Eoo3Nw3V" text="Festival Düzenle" />
-    <string id="4trbnHXT" text="Dini bir bayram, inancınızı kutlamanın ve sadık arkadaşlarınızla bağlarınızı güçlendirmenin bir yoludur. Festival, bir kasabada veya şatonuzda bir ziyafet gerektirecektir. Dindarlık, sayısına göre ödüllendirilecektir. misafirler ve ziyafetten memnuniyetleri, bu yüzden bol bol iyi yiyecek ve içecek sağladığınızdan emin olun." />
+    <string id="4trbnHXT" text="Dini bir ziyafet, inancınızı kutlamanın ve sadık arkadaşlarınızla bağlarınızı güçlendirmenin bir yoludur. Festival, bir kasabada veya şatonuzda bir ziyafet gerektirecektir. Dindarlık, sayısına göre ödüllendirilecektir. misafirler ve ziyafetten memnuniyetleri, bu yüzden bol bol iyi yiyecek ve içecek sağladığınızdan emin olun." />
     <string id="sAqwDCfa" text="Festival için bir kasaba veya şato gerekiyor." />
     <string id="tgJXDohX" text="Festival yalnızca {SEASON} yılının {ORDINAL} gününde gerçekleştirilebilir." />
     <string id="G5vYrCrV" text="Bu türden son ayin gerçekleştirildiğinden beri yeterli zaman ({YEARS} yıl) geçmedi." />
@@ -2409,7 +2409,7 @@
     <string id="6oCNmffJ" text="Yeterli Güvenlik" />
     <string id="sRWDgNgy" text="İyi Güvenlik" />
     <string id="U41twbPF" text="Muhteşem Güvenlik" />
-    <string id="Z87jdO67" text="Parti malzemeleri {EFFECT1}% daha yavaş birikir.&#10;Etki kazanımı {EFFECT2}% azalır, savaş ganimeti hariç" />
+    <string id="Z87jdO67" text="Parti malzemeleri {EFFECT1}% daha yavaş birikir.&#10;Nüfuz kazanımı {EFFECT2}% azalır, savaş ganimeti hariç" />
     <string id="DRPfGwoK" text="Bu türde ve kültürde mevcut konuk yok." />
     <string id="2GMvmKEb" text="{KINGDOM} eni saray üyesi olarak {NAME}'i seçti." />
     <string id="R9xGiMLf" text="ÖZel Ordular" />
@@ -2420,7 +2420,7 @@
     <string id="bsaOK0eQ" text="Hükümdarın özel sarayı isteğe bağlı olarak değiştirilebilir&#10;Hükümdar olmayan tüm klanların nüfuz sınırı %5 artırıldı" />
     <string id="SP01UfQ4" text="Seçimli Saray Konseyi" />
     <string id="diuCoLDf" text="Krallığın yüksek konseyi Akranlar tarafından seçilir. Seçim sonucu, söz konusu pozisyonun bir sonraki sahibini belirleyecektir." />
-    <string id="9KKN4gkP" text="Ruler's privy council can only be altered by elections&#10;Ruler's influence cap is increased by 8%" />
+    <string id="9KKN4gkP" text="Hükümdarın özel konseyi sadece seçimlerle değiştirilebilir&#10;Hükümdarın nüfuz sınırı %8 arttı" />
     <string id="0ymhCPeh" text="Tighearna" />
     <string id="HGfR1YAx" text="Dominus" />
     <string id="YNNXm6GE" text="Mawlaa" />
@@ -2445,47 +2445,47 @@
     <string id="U0MEYHty" text="Sultan" />
     <string id="2MOuvAj0" text="Kağan" />
     <string id="68m3U2ey" text="{VILLAGE} - {ACREAGE} dönüm" />
-    <string id="tujsZ1Mu" text="Lordships with more population and acreage will yield more income to their holder, and thus allow a vassal to field a bigger and better retinue." />
-    <string id="CN94YRec" text="Estates with bigger acreage are likely to yield more income to their holder." />
-    <string id="xE7gruuP" text="You must be faction leader, {MARSHAL} or a {LEGATE} for the {CLAN} to raise a legion." />
+    <string id="tujsZ1Mu" text="Daha fazla nüfusa ve araziye sahip lordluklar sahiplerine daha fazla gelir sağlayacak ve böylece bir vassalın daha büyük ve daha iyi bir maiyet oluşturmasına izin verecektir." />
+    <string id="CN94YRec" text="Daha büyük yüzölçümüne sahip arazilerin sahiplerine daha fazla gelir getirmesi muhtemeldir." />
+    <string id="xE7gruuP" text="Lejyon kurabilmek için {CLAN} klanının lideri olup, {MARSHAL} veya {LEGATE} olmanız gerekir." />
     <string id="JvZaNHAE" text="{SUPPLIES_BUY_TEXT}" />
-    <string id="cc2YQhwT" text="Stop buying our supply provisions." />
-    <string id="ot9SY8Vp" text="Make sure to stock up our supplies when possible." />
-    <string id="eJGP57G9" text="As you wish, {TITLE}. I shall leave our provisioning to you." />
-    <string id="9Uipcvh4" text="As you wish, {TITLE}. I shall supply our retinue whenever possible, with provisions for {DAYS} days." />
-    <string id="N4b5ZFNQ" text="Quartermaster, give me an overview of our supplies." />
-    <string id="So38uc1L" text="{TITLE}, our retinue requireth, with {MEMBERS} members and over the course of {DAYS} days, {TEXTITLE} textiles, {ALCOHOL} alcohol, {ANIMAL} animal products and {WOOD} wood for its morale upkeep. In terms of equipment, {ARROWS} arrows, {SHIELDS}, {WEAPONS} weapons and {MOUNTS} mounts are needed. In the case of a siege, we also require additional tools and wood for optimal efficiency at building our camp and siege engines." />
-    <string id="au6DBvKf" text="Privy council position" />
-    <string id="W2Y58H12" text="You don't de facto hold {FIEF} and thus lack control over its estates." />
-    <string id="MEEdhZQY" text="Hero must be a clan leader." />
+    <string id="cc2YQhwT" text="Tedarik malzemelerimizi satın almayı bırakın." />
+    <string id="ot9SY8Vp" text="Mümkün olduğunda malzemelerimizi stokladığınızdan emin olun." />
+    <string id="eJGP57G9" text="Nasıl istersen, {TITLE}. Erzağımızı sana bırakıyorum." />
+    <string id="9Uipcvh4" text="Nasıl istersen, {TITLE}. Maiyetimize mümkün olduğunca {GÜN} gün yetecek erzak sağlayacağım." />
+    <string id="N4b5ZFNQ" text="Levazım subayı, bana malzemelerimizin genel bir özetini ver." />
+    <string id="So38uc1L" text="{TITLE}, maiyetimiz, {MEMBERS} üyeyle birlikte ve {DAYS} gün boyunca moral desteği için {TEXTITLE} tekstil, {ALCOHOL} alkol, {ANIMAL} hayvansal ürünler ve {WOOD} oduna ihtiyaç duyuyor. Ekipman açısından, {ARROWS} ok, {SHIELDS}, {WEAPONS} silah ve {MOUNTS} binek gereklidir. Kuşatma durumunda, kampımızı ve kuşatma aletlerimizi inşa ederken optimum verimlilik sağlamak için ek aletlere ve tahtaya da ihtiyaç duyarız." />
+    <string id="au6DBvKf" text="Özel konsey pozisyonu" />
+    <string id="W2Y58H12" text="Fiilen {FIEF}'e sahip değilsiniz ve bu nedenle mülkleri üzerinde kontrolünüz yok." />
+    <string id="MEEdhZQY" text="Kahraman bir klan lideri olmalı." />
     <string id="507REJPh" text="Legatus" />
     <string id="dYPtzd3b" text="Legate" />
-    <string id="v5jhrSRL" text="You are not allowed to gather an army under the demesne laws of {REALM}" />
-    <string id="xAwqXXnA" text="Cannot gather an army as a prisoner." />
-    <string id="ehHLy3bN" text="Request your liege to grant you this position in the council. This action will cost {INFLUENCE} influence." />
-    <string id="n1ck3HDs" text="Every head of a House, beholder of any title superior to a Lordship, not accounting for army privilege policies, is allowed to form their own army." />
-    <string id="jwdDWjKF" text="Every chief of a House is allowed to gather their own horde. Hordes are easier to gather than armies, but harder to maintain." />
-    <string id="vOPRVto1" text="Army loses cohesion faster&#10;Influence cost to call parties reduced&#10;Battle renown increased while participating in armies" />
-    <string id="eW400qSp" text="A concept developed by the Calradoi, legions are armies with the purpose of serving the state, and their leadership, Imperium, is granted to select commanders. More so than any other armies, legions are highly organized and efficient, the results of centuries of continuous and methodical improvement." />
-    <string id="0ekBZX1C" text="Gather Legion" />
-    <string id="rW0p3wWb" text="Harness the state-granted power to gather a legion. Under the legions demesne law, legates are capable of gathering armies, a privilege otherwise usually restricted to the ruler and their marshal." />
-    <string id="91Hdy1y3" text="Increased chance of gathering a legion" />
-    <string id="ezGSFaau" text="Founded by the immediate sons of the legendary patriarch of the Southlands, the Code of Asera forms the basis of philosophy, art and law among the members of the confederated Aserai tribes." />
+    <string id="v5jhrSRL" text="{REALM}'in mülk yasaları uyarınca bir ordu toplamanıza izin verilmez." />
+    <string id="xAwqXXnA" text="Esir olarak bir ordu toplanamaz." />
+    <string id="ehHLy3bN" text="Lordunuzdan konseyde size bu pozisyonu vermesini talep edin. Bu eylem {INFLUENCE} nüfuza mal olacaktır." />
+    <string id="n1ck3HDs" text="Ordu imtiyaz politikalarını hesaba katmaksızın, Lordluktan daha üstün herhangi bir unvana sahip olan her Meclis başkanının kendi ordusunu kurmasına izin verilir." />
+    <string id="jwdDWjKF" text="Bir Hanenin her şefinin kendi sürüsünü toplamasına izin verilir. Sürüleri toplamak orduları toplamaktan daha kolaydır, ancak sürdürmek daha zordur." />
+    <string id="vOPRVto1" text="Ordu uyumunu daha hızlı kaybeder&#10;Tarafları çağırmak için etki maliyeti azaldı&#10;Ordulara katılırken savaş şöhreti arttı" />
+    <string id="eW400qSp" text="Calradoi tarafından geliştirilen bir kavram olan lejyonlar devlete hizmet etmek amacıyla kurulmuş ordulardır ve liderlikleri, yani Imperium, seçilmiş komutanlara verilmiştir. Diğer ordulara kıyasla lejyonlar son derece organize ve etkilidir, bu da yüzyıllar süren sürekli ve metodik gelişimin sonucudur." />
+    <string id="0ekBZX1C" text="Lejyon Topla" />
+    <string id="rW0p3wWb" text="Bir lejyon toplamak için devlet tarafından verilen gücü kullanın. Lejyon mülkiyeti yasası uyarınca, lejyonlar ordu toplama yetkisine sahiptir, aksi takdirde bu ayrıcalık genellikle hükümdar ve mareşalleriyle sınırlıdır." />
+    <string id="91Hdy1y3" text="Lejyon toplama şansında artış" />
+    <string id="ezGSFaau" text="Güney Toprakları'nın efsanevi atasının oğulları tarafından kurulan Asera Kanunları, konfedere Aserai kabilelerinin üyeleri arasında felsefe, sanat ve hukukun temelini oluşturur." />
     <string id="Ccb1JncG" text="The creed of the Amra Ollamh, “that which is wondrous and great” - is the long-standing folkloric tradition of the people who dwell up the Uchalion plateau. Though outsiders are wont to confuse the Amra Ollamh as little more than tales of goblins, sprites, fair folk and woodland monsters - the creed itself is in fact a deeply involved cultural institution meant to instill the youth of Battania with the lessons of their forebears by way of colloquial metaphor." />
     <string id="f1Jd0nwL" text="Though the Calradic Empire had long possessed an imperial cult to venerate Emperors who were deemed to be “deliverers” and “saviors” of the civilized world, during the latter years prior to the schism and inerrenegrum the practice of viewing all emperors as god-emperors had become vulgorously commonplace. It was during this period that doctrines and reforms attributed to the teenage Emperor Darusos, a figure infamously denied the rite of the divus by the generals who usurped him, were uncovered." />
     <string id="sCvx3s88" text="Pérkenweyd is a native faith of the Calradian continent, stretching from the Kachyar peninsula to the Chertyg mountains. Thus, it is the natural faith of the Vakken and Sturgian peoples. Though the Sturgians have been in contact with different cultures and faiths, the Sturgian populace remains true to their ancestry." />
     <string id="qrhkRi7R" text="The Canticles is a the history of deeds of the Vlandic peoples. It understands the world as a collection of sagas, of which all people are parts of. It does not discriminate between cultures, nor does it see itself as a 'faith', bur rather, a fact." />
-    <string id="tGVFzJNr" text="I want you to be inducted into the {FAITH} faith." />
-    <string id="VqS3E7Jp" text="{HERO} may or may not accept this according to their values in comparison to the faith's values, their zealotry and their opinion of you." />
+    <string id="tGVFzJNr" text="Sizin {FAITH} inancına dahil olmanızı istiyorum." />
+    <string id="VqS3E7Jp" text="{HERO}, kendi değerlerine, inanç değerlerine, bağnazlıklarına ve sizin hakkınızdaki düşüncelerine göre bunu kabul edebilir veya etmeyebilir." />
     <string id="14vM4nv3" text="{CONVERSION_DENIED_TEXT}" />
-    <string id="9pat8jeH" text="{TITLE}, I must refuse your request. Your faith does not represent my beliefs." />
-    <string id="H1cBDKh6" text="No, I think you will." />
-    <string id="gx23V52s" text="{HERO} will be forced to take this action, but will not appreciate it." />
-    <string id="ZKGQaMVF" text="You must not be of Just personality." />
+    <string id="9pat8jeH" text="{TITLE}, isteğinizi reddetmek zorundayım. İnancınız benim inançlarımı temsil etmiyor." />
+    <string id="H1cBDKh6" text="Hayır, bence yapacaksın." />
+    <string id="gx23V52s" text="{HERO} bu eylemi gerçekleştirmek zorunda kalacak, ancak bundan hoşnut olmayacaktır." />
+    <string id="ZKGQaMVF" text="Adil bir kişiliğe sahip olmamalısınız." />
     <string id="WbFLsesv" text="{TEXT} ({PIETY})" />
     <string id="LLwOeHmr" text="{CONVERSION_ACCEPTED_TEXT}" />
-    <string id="WzpHv2iE" text="I am willing to do that, {TITLE}. If you can make the arrangements for my induction, I am glad to accept." />
-    <string id="wtUzdPs5" text="Very well, I shall see to it." />
+    <string id="WzpHv2iE" text="Bunu yapmaya hazırım, {TITLE}. Eğer göreve başlamam için gerekli düzenlemeleri yapabilirseniz, memnuniyetle kabul ederim." />
+    <string id="wtUzdPs5" text="Pekala, bununla ilgileneceğim." />
     <string id="gWqmDXOC" text="Irk Bitig" />
     <string id="EGsKJpNS" text="Naked Fingers" />
     <string id="ia3kgNVe" text="West Gemynt" />
@@ -2502,8 +2502,8 @@
     <string id="NrQdJeJU" text="Yetenek: {SKILL}" />
     <string id="1P5txvhk" text="Özellik: {TRAIT}" />
     <string id="NW1i6iTM" text="{BOOK} kitabından ilham" />
-    <string id="2nLT27xe" text="Upon finishing the {BOOK}, you feel inspired by the text to change your sense of {TRAIT}. Will you adopt these teachings?" />
-    <string id="F9468GN7" text="Subtitled “slaves, servants, soldiers”, this book styles itself as a scientific study of the skull shapes and sizes of the Eleftheroi. Its anonymous author claims that the form of the skulls shows that they are perfect “human livestock”. He argues that runaway slaves have lost all rights and the fact that they return to Imperial lands only to enlist as servants and soldiers is proof that they are less than human. As a biological study, its methods of measuring body parts and collecting data has some limited merits." />
+    <string id="2nLT27xe" text="{BOOK} kitabını bitirdikten sonra, {TRAIT} özelliğinizi değiştirmek için metinden ilham aldığınızı hissediyorsunuz. Bu öğretileri benimseyecek misiniz?" />
+    <string id="F9468GN7" text="'Köleler, hizmetçiler, askerler' alt başlıklı bu kitap, Eleftheroi'nin kafatası şekilleri ve boyutları üzerine bilimsel bir çalışma olarak karşımıza çıkıyor. Anonim yazarı, kafataslarının biçiminin onların mükemmel bir 'insan hayvanı' olduğunu gösterdiğini iddia ediyor. Kaçak kölelerin tüm haklarını kaybettiklerini ve onların İmparatorluk topraklarına yalnızca hizmetçi ve asker olarak kaydolmak için dönmelerinin, onların insandan aşağı olduklarının kanıtı olduğunu savunuyor. Biyolojik bir çalışma olarak vücut parçalarını ölçme ve veri toplama yöntemlerinin bazı sınırlı yararları vardır." />
     <string id="QxZBqSj8" text="Documented interviews with the last surviving immigrants from the Wilunding homeland. The book is over a century old and has become a major source for both romantic tales and academic debate. Yet, for many of the current Wilunding, a generation was entirely born within Calradia, their homeland has since become a distant memory, a myth." />
     <string id="UOKVvnfo" text="Collected by several great theologians, poets and even senator scholars - “tales of the Eagle”, or “the books of tales” as it is colloquially called has become the standard popular versions of old folklore. Nearly all the stories are historical allegories or degraded myths of Calrados and other gods on their shapeshifting adventures as eagle, wolf or dragon. For the Calradoi, these tales are their history, faith and nation." />
     <string id="XEkfTzb4" text="Written in prison by a former boss and informant in the Hidden Hand criminal organization, the book claims to expose tactics and methods of the Hidden Hand mafia. It also exposes many of the weaknesses in the imperial justice system." />
@@ -2519,13 +2519,13 @@
     <string id="bLDOCauy" text="Custom Start ({CURRENT})" />
     <string id="j7VPTVNU" text="None selected" />
     <string id="8bRUkyzN" text="You do not have any religions installed. Install the separate mod, 'Banner Kings: Cultures Expanded' for the official, lore-based BK religions. Alternatively, install another third party mod that adds BK religions." />
-    <string id="Xs11nNCv" text="Religion ({CURRENT})" />
-    <string id="gQhnXrB8" text="Important Concepts" />
-    <string id="Hnd77MGb" text="The main topics a newcomer to the mod should become familiarized with, concerning essential gameplay systems and balance changes." />
-    <string id="qiKaxzov" text="Learning Concepts" />
-    <string id="V92Smg1M" text="Learn about the various topics of the mod." />
-    <string id="vULtmArw" text="Finish" />
-    <string id="MS6bxE0y" text="Start the game with the chosen start and religion." />
+    <string id="Xs11nNCv" text="Din ({CURRENT})" />
+    <string id="gQhnXrB8" text="Önemli Kavramlar" />
+    <string id="Hnd77MGb" text="Temel oyun sistemleri ve denge değişiklikleriyle ilgili olarak moda yeni başlayan birinin aşina olması gereken ana konular." />
+    <string id="qiKaxzov" text="Öğrenme Kavramları" />
+    <string id="V92Smg1M" text="Modun çeşitli konuları hakkında bilgi edinin." />
+    <string id="vULtmArw" text="Bitir" />
+    <string id="MS6bxE0y" text="Oyuna özel seçim bir başlangıç ve din ile başlayın" />
     <string id="opYVgVdg" text="Welcome to the Banner Kings mod. Before starting your campaign, you should pick a custom start and a religion for your character first. You can also read on topics of the mod. All these topics are available on the Concepts page of Encyclopedia.{newline}{newline}Support is only provided through Discord. Please check out the mod-links over there if you consider contributing. Have fun!" />
     <string id="sYsFSGay" text="Banner Kings - Learning Concepts" />
     <string id="xDf02993" text="To access these concepts again, access Concepts in Encyclopedia. All names and descriptions here are exactly what is present over there." />
@@ -2631,11 +2631,11 @@
     <string id="40JCKFO7" text="Humility describes a person's ability to restrain their ego. Humble persons are often more generally likable by their peers, by those who outrank them and those beneath them.&#10;Effects:&#10;Increased settlement loyalty&#10;Improved relations gain" />
     <string id="VOaUqsr8" text="Diligence is one's willingness to work tirelessly towards their goal. Diligent persons are constantly working on a project, or otherwise feel like withering away. Though this means they accomplish more, it is also intense on their psyche.&#10;Effects:&#10;Faster progress in Education topics&#10;Higher stress gain" />
     <string id="OTJaTUnD" text="Ambition is one's desire to ascend in their social status. An ambitious vassal is always looking for ways to further their position, often at the expense of others." />
-    <string id="cVOU505N" text="Stability" />
-    <string id="doNE04Se" text="Towns (x{COUNT})" />
-    <string id="VRA7VDQP" text="Villages (x{COUNT})" />
-    <string id="wwYABLRd" text="Clan Influence Limit" />
-    <string id="9NPywyY1" text="Power of {HERO}" />
+    <string id="cVOU505N" text="İstikrar" />
+    <string id="doNE04Se" text="Şehirler (x{COUNT})" />
+    <string id="VRA7VDQP" text="Köyler (x{COUNT})" />
+    <string id="wwYABLRd" text="Klan Nüfuz Limiti" />
+    <string id="9NPywyY1" text="{HERO} Gücü" />
     <string id="pgBYKJSH" text="Missing holy site ({FIEF})" />
     <string id="DS6s4eYZ" text="Missing faith seat ({FIEF})" />
     <string id="weQkrvG3" text="Holy site ({FIEF})" />
@@ -2645,9 +2645,9 @@
     <string id="yL8pzipU" text="Republican government only allows revoking of dukes." />
     <string id="DJgiwgUZ" text="Imperial government requires being de Jure faction leader." />
     <string id="tju37np1" text="De jure suzerain of this title" />
-    <string id="PSrEtF5L" text="Government" />
-    <string id="Vt6CSGow" text="Power" />
-    <string id="QTHu140M" text="Settlement Stability" />
+    <string id="PSrEtF5L" text="Devlet" />
+    <string id="Vt6CSGow" text="Güç" />
+    <string id="QTHu140M" text="Yerleşke İstikrarı" />
     <string id="uqSzB34S" text="The Cultural Head is the most proeminent lord or lady within a culture. They are able to determine a culture's Fascination, which is an innovation that develops faster. They are also more influential as a family. Usually this position is occupied by a ruler." />
     <string id="MYVok4yX" text="A Cultural Fascination is an innovation that takes precedence over others. This innovation will receive more research points, developing faster while slowing down other innovations. The Cultural Head is responsible for deciding the fascination.&#10;{NAME}:&#10;{DESCRIPTION}" />
     <string id="Frajyv3X" text="Years Remaining:" />
@@ -2661,8 +2661,8 @@
     <string id="2Xz2qH0R" text="{NAME} - {SUPPORT}% Support, {INFLUENCE}{INFLUENCE_ICON}" />
     <string id="FwejoE0q" text="{DESCRIPTION}{newline}{newline}Effects:{newline}{EFFECTS}" />
     <string id="UvnpBOCb" text="{DESCRIPTION}{newline}{newline}Viable Candidates:{newline}{CANDIDATES}{newline}{newline}Effects:{newline}{EFFECTS}" />
-    <string id="5FRgZVMf" text="Successions" />
-    <string id="fMUCfVxR" text="Inheritances" />
+    <string id="5FRgZVMf" text="Veraset" />
+    <string id="fMUCfVxR" text="Miraslar" />
     <string id="2JZa2Nvs" text="Gender Laws" />
     <string id="5DaAnTh2" text="Gender laws determine what gender is or not favorable for positions of power and take precedence in clan inheritances. You may propose a change to the gender law process that will be voted on by the peers.{newline}{newline}For more information, search for Gender Laws in Encyclopedia." />
     <string id="FJaxAnj0" text="Propose" />
@@ -2690,31 +2690,31 @@
     <string id="F1ZSKuMN" text="Faith Seat" />
     <string id="xQunLygC" text="Nonexistent" />
     <string id="LvLjtUQr" text="The Faith Seat is the most religiously important fief within the faith. When the Seat is not held by a member of the faith, it loses a great deal of fervor. The holder of the Seat is given extra influence limit and piety according to the stability of the Seat, and thus is encouraged to give it good management." />
-    <string id="AepbQReE" text="Holy Sites" />
-    <string id="VHBzSQtV" text="Holy sites are the fiefs directly connected to the religion's divinities or cults. Holding such sites is important for religious Fervor. In addition, being blessed by a Divinity in its holy site adds double the blessing duration.{newline}{newline}Sites:{SITES}" />
+    <string id="AepbQReE" text="Kutsal Mekanlar" />
+    <string id="VHBzSQtV" text="Kutsal yerler, dinin ilahlarına veya kültlerine doğrudan bağlı tımarlardır. Bu tür mekânlara sahip olmak dini Şevk için önemlidir. Buna ek olarak, bir İlahiyat tarafından kutsal mekanında kutsanmak, kutsama süresini iki katına çıkarır.{newline}{newline}Yerler:{SITES}" />
     <string id="VTYPt84B" text="{HOLY_SITE}: {DIVINITY}" />
-    <string id="AfsRi9wL" text="Fervor" />
+    <string id="AfsRi9wL" text="Şevk" />
     <string id="rLLzRbvj" text="{TEXT}&#10;&#10;{DESCRIPTION}" />
-    <string id="USVLTxou" text="Mill" />
+    <string id="USVLTxou" text="Değirmen" />
     <string id="nUT8tOhu" text="A Calradic, illustrated treatise on siege warfare, also known as poliorcetics. The manuscript goes over all the main topics of sieges: building appropriate engines, bringing men upon the enemy's walls, as well as keeping the enemy off yours. All those in Calradia can attest that none can match the Calradoi in terms of siege warfare." />
     <string id="8t43UAyc" text="A Vlandic tale that explores the themes of chivalry, honor and sacrifice. A knight is made an offer by this mysterious, green knight figure, at the possible cost of his life. Believing the danger to be absurd and the offer purely benefitial to himself, he makes a pledge. A year later, the terms of the offer come due, and the knight's honor and integrity are challenged: will he keep his word and risk his life?" />
     <string id="8RfPV1Hs" text="An ancient Calradic treatise concerning the trainning, care and art of mounting horses. The treatise is the staple manuscript on the long Calradic equestrian tradition, an art developed by its nobility and culminated into the cataphract doctrice." />
     <string id="4xQpDCk5" text="Nahawasi" />
-    <string id="dZrxkDn0" text="Levy Duty" />
+    <string id="dZrxkDn0" text="Harç Vergisi" />
     <string id="5LVp3PEM" text="You don't have any vassals to levy duties from" />
     <string id="D58n3Pbb" text="Kingdom is not legally stablished with a title" />
     <string id="MdPUp5Nf" text="As a suzerain, you are capable of levying duties from your legal vassals. Such duties depend exclusively on the contract of the realm you serve." />
     <string id="mJYUzMmh" text="{DESCRIPTION}{newline}{newline}Results:{newline}{RESULTS}" />
     <string id="wzZ7JwKi" text="It has been {SEASONS} seasons since this duty was last levied from the {TITLE}. This duty may be levied every {DELAY} seasons." />
     <string id="oRkarDqv" text="{HERO} is not able to fulfill this duty at this time." />
-    <string id="q6cxgOou" text="Commander" />
-    <string id="k4oyM9dT" text="Steward" />
+    <string id="q6cxgOou" text="Komutan" />
+    <string id="k4oyM9dT" text="Vekil" />
     <string id="gpLwTTYT" text="The era of the Calradoi was the period in which the Imperium reigned unmatched. " />
-    <string id="moSuZZ4Y" text="Internecine Age" />
+    <string id="moSuZZ4Y" text="İçsel Çağ" />
     <string id="Zbbr3caZ" text="With the advent of the battle of Pendraic and death of emperor Arenicos Pethros, the former Imperium has shattered into civil war - an Internecine." />
-    <string id="6kaEF0qo" text="Dark Age" />
-    <string id="5dayLuhU" text="Little is known about the period after the Internecine... However, scholars all agree that, within the 2 centuries, the empire was completely destroyed. Hordes have pillaged and razed cities to the ground, faiths and cultures ceased to exist and new kingdoms arose from the darkness. Yet, none ever shone a light so strong as did the Imperium." />
-    <string id="67UAi5rW" text="An association of merchants. As a group, merchants seek to have the freest markets possible, avoiding tariffs to noble overlords or other regulations.&#10;Effects:&#10;Increased mercantilism&#10;Increased caravan attractiveness" />
+    <string id="6kaEF0qo" text="Karanlık Çağ" />
+    <string id="5dayLuhU" text="İç Savaş'tan sonraki dönem hakkında çok az şey biliniyor... Ancak, akademisyenlerin hepsi 2 yüzyıl içinde imparatorluğun tamamen yok olduğu konusunda hemfikirdir. Ordular şehirleri yağmaladı ve yerle bir etti, inançlar ve kültürler yok oldu ve karanlıktan yeni krallıklar doğdu. Yine de hiçbiri Imperium kadar güçlü bir ışık saçmadı." />
+    <string id="67UAi5rW" text="Bir tüccarlar birliği. Bir grup olarak, tüccarlar mümkün olan en serbest pazarlara sahip olmaya çalışırlar, soylu derebeylerine veya diğer düzenlemelere gümrük tarifelerinden kaçınırlar.&#10;Etkileri:&#10;Artan merkantilizm&#10;Artan kervan çekiciliği" />
     <string id="PwJdEYOg" text="An association of construction workers and engineers. Masons are responsible for stonework in construction and hence essential for towns and castles.&#10;Effects:&#10;Improved construction power" />
     <string id="GwK8yr0R" text="An association of various types of metalworkers, such as tool makers, horseshoe makers, among others." />
     <string id="09qT3Guk" text="Gods of Fate" />
@@ -2927,7 +2927,7 @@
     <string id="28KbqQ8f" text="Return to those of your kind. We Wilundings stand for each other. If you wish to prove yourself faithful, then take up lance and warhorse. Carry the lion banner, or sew your own, one that shall be sung in the taverns." />
     <string id="Ja0bYvB7" text="I preach the canticles of our peoples, the Wilunding. From west-over-sea we came, with the promise to seize ourselves new fertile land. Our ancestors, along our hallowed gods, have so achieved, as Horse, the prophet, has foretold." />
     <string id="uNonfRhX" text="The Calradoi will tell you we are usurpers, for they are arrogant and ignorant. We have merely taken ourselves what was promised us. In their ways of silk and wine, they tried to shame and fool us. We have taken up the horse and lance, and taken it for ourselves." />
-    <string id="njmPgKE6" text="Mount your horse and ready your lance. That is the way of the Wilunding. We shall plant the land with our spears and carve from it our kingdoms. The wights will be witness to your resolve." />
+    <string id="njmPgKE6" text="Atınıza binin ve mızrağınızı hazırlayın. Wilunding'in yolu budur. Toprağı mızraklarımızla ekeceğiz ve oradan krallıklarımızı çıkaracağız. Wightlar kararlılığınıza şahit olacak." />
     <string id="irQisnoQ" text="Osfeyd, or 'faith in the gods' in the Vlandic tongue, is the combined beliefs brought by the various Vlandic peoples, woven together by the prophecy of Horsa, made true by Osric Iron-Arm. In search of new fertile farmland, the Wilunding have killed the Calradic gods in the west." />
     <string id="ixRXtvXi" text="Osfeyd" />
     <string id="CZKht9yr" text="You need to be of a Wilunding culture (Vlandia, Osrickin, Swedaz, Rhodok)" />
