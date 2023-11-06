@@ -97,7 +97,7 @@
     <string id="bk_description_iron" text="Demir, aletler ve binaların destekleyici yapıları için temel malzemedir. Çoğu gelişmiş binada bir dereceye kadar demir kullanılır." />
 		<string id="bk_description_tools" text="En kaba yapılar dışında her şey özel aletler gerektirir. Binalar geliştikçe daha fazla alete ihtiyaç duyarlar, özellikle de taşın olağanüstü sert doğası nedeniyle taş binalar." />
 
-    <string id="bk_limestone" text="Limestone{@Plural}blocks of limestone{\@}" />
+    <string id="bk_limestone" text="Kireçtaşı" />
     <string id="bk_gold" text="Altın" />
     <string id="bk_mead" text="Bal kabağı" />
     <string id="bk_marble" text="Mermer" />
@@ -105,14 +105,14 @@
     <string id="bk_primogeniture" text="Büyük oğul mirası" />
     <string id="bk_ultimogeniture" text="Küçük oğul mirası" />
     <string id="bk_seniority" text="En yaşlıya göre miras" />
-    <string id="bk_republic" text="Cumhuriyet" />
-    <string id="bk_imperial" text="İmparatorluk" />
-    <string id="bk_feudal" text="Feodal" />
-    <string id="bk_tribal" text="Kabile" />
-    <string id="bk_agnatic" text="Baba hattına dayalı" />
-    <string id="bk_cognatic" text="Anneye ve babaya dayalı" />
+		<string id="bk_republic" text="Cumhuriyet" />
+		<string id="bk_imperial" text="Imparatorluk" />
+		<string id="bk_feudal" text="Feodal" />
+		<string id="bk_tribal" text="Kabile" />
+		<string id="bk_agnatic" text="Agnatik" />
+		<string id="bk_cognatic" text="Bilişsel" />
     <string id="bk_hereditary_monarchy" text="Kalıtsal Monarşi" />
-    <string id="bk_elective_monarchy" text="Seçimle belirlenen Monarşi" />
+		<string id="bk_elective_monarchy" text="Seçimli Monarşi" />
 
     <string id="bk_crafting_itemtype_bodyarmor" text="Gövde Zırhları" />
     <string id="bk_crafting_itemtype_barding" text="At Zıhları" />

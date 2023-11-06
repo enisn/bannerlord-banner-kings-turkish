@@ -8,7 +8,7 @@
     <string id="8Tal0XIj" text="Şaheser {ITEMNAME}" />
     <string id="bAdxUq7s" text="Kaliteli {ITEMNAME}" />
     <string id="xeb1b5PQ" text="İyi {ITEMNAME}" />
-    <string id="RwBOv1Mz" text="Ham {ITEMNAME}" />
+    <string id="RwBOv1Mz" text="Kötü {ITEMNAME}" />
     <string id="RwBOv1Mz" text="Eskimiş {ITEMNAME}" />
   </strings>
 </base>

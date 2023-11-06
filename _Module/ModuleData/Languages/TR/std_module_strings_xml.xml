@@ -389,7 +389,6 @@
     <string id="tWvXqDWY" text="Kuşatma gözetmen" />
     <string id="9SoSFu8s" text="Ordu, kuşatma veya savunma sırasında %15 daha az yiyecek tüketir." />
     <string id="nvJhzGbv" text="Kamp hazırlığı %20 daha hızlı." />
-    <string id="q6cxgOou" text="Komutan" />
     <string id="DWEDZjn1" text="Parti büyüklüğünüzü 5 artırır." />
     <string id="OxaKMeUa" text="Parti moralini %3 oranında artırır." />
     <string id="Yy1wcNon" text="De Facto" />
@@ -2337,19 +2336,19 @@
     <string id="CcisWSka" text="Yerleşim zindanlarınızda hiç suçlu yok." />
     <string id="5oS3A1Gy" text="{CRIME} - {NAME}" />
     <string id="Pb2ZQBVH" text="{HERO} {DATE} tarihinde {CRIME} suçundan suçlu bulunmuştur." />
-    <string id="cNVFv1sW" text="CCezalandırılacak bir suçlu seçin. Olası cezalar bağlamsaldır. Cezalar bağlama bağlı olarak zalimce olarak da değerlendirilebilir ve diğer soyular arasındaki konumunuzu olumsuz etkileyecektir." />
+    <string id="cNVFv1sW" text="Cezalandırılacak bir suçlu seçin. Olası cezalar bağlamsaldır. Cezalar bağlama bağlı olarak zalimce olarak da değerlendirilebilir ve diğer soyular arasındaki konumunuzu olumsuz etkileyecektir." />
     <string id="iOOx1Tca" text="{SENTENCE} (Tyrannical)" />
-    <string id="GaQTC0YT" text="{HERO} will be sentenced for the crime of {CRIME}. Tyrannical sentences will impact your standing with your peers." />
-    <string id="JEbygACX" text="Full Tenancy" />
-    <string id="uf1BxiQJ" text="Under Full Tenancy, serfdom does not thrive anymore. Instead, all non-slave commoners will tend to be free tenants, who rent their land under contracts of goods or monetary taxation. Tenants are of higher class than serfs and are not boun to their land, and so have more mobility and are less exploitable for taxes." />
-    <string id="oT9UmZUt" text="Mixed Tenure" />
-    <string id="z5ox1p40" text="Mixed tenure allows the coexistence of both tenants and serfs. Their compositions will tend to be similar." />
-    <string id="LGuO56aW" text="Full Serfdom" />
-    <string id="FuKNBsvU" text="When bound by serfdom, a commoner is unable to leave their suzerain's land without permission. Though their status is above a slave's, they often miss the rights of free men." />
-    <string id="OcaF5fMN" text="Natural Culture" />
-    <string id="MTBhu6a0" text="Accepted Cultures" />
-    <string id="28PPXPOL" text="Not an official religion in any kingdom" />
-    <string id="G2jQF2Ne" text="{DESCRIPTION}&#10;&#10;Grace: {GRACE}&#10;Adm. Costs: {COSTS}&#10;Goods requirements:&#10;{GOODS}" />
+    <string id="GaQTC0YT" text="{HERO} {CRIME} suçundan mahkum edilecektir. Zalimce cezalar soylular arasındaki konumunuzu etkileyecektir." />
+    <string id="JEbygACX" text="Tam Kiracılık" />
+    <string id="uf1BxiQJ" text="Tam Kiracılıkta serflik artık gelişmiyor. Bunun yerine, köle olmayan tüm halk, topraklarını mal sözleşmeleri veya parasal vergilendirme kapsamında kiralayan özgür kiracılar olma eğiliminde olacak. Kiracılar serflerden daha yüksek sınıftandır ve topraklarına bağlı değildirler, dolayısıyla daha fazla hareket kabiliyetine sahiptirler ve vergiler açısından daha az sömürülebilirler." />
+    <string id="oT9UmZUt" text="Karma Mülkiyet" />
+    <string id="z5ox1p40" text="Karma mülkiyet hem kiracıların hem de serflerin bir arada yaşamasına olanak tanır. Bileşimleri benzer olma eğiliminde olacaktır." />
+    <string id="LGuO56aW" text="Tam Serflik" />
+    <string id="FuKNBsvU" text="Serflikle bağlı olan bir halk mensubu, efendisinin topraklarını izinsiz terk edemez. Statüleri bir kölenin üzerinde olsa da, genellikle özgür insanların haklarından mahrumdurlar." />
+    <string id="OcaF5fMN" text="Tarafsız Kültür" />
+    <string id="MTBhu6a0" text="Kabul Gören Kültürler" />
+    <string id="28PPXPOL" text="Hiçbir krallıkta resmi bir din değildir" />
+    <string id="G2jQF2Ne" text="{DESCRIPTION}&#10;&#10;Zerafet: {GRACE}&#10;Yönetim maaliyetleri: {COSTS}&#10;Mal gereksinimi:&#10;{GOODS}" />
     <string id="hYV6dQoP" text="Savurganlık" />
     <string id="BrMCkQMQ" text="Hizmetçiler" />
     <string id="TqMRp818" text="Lojmanlar" />
