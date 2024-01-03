@@ -78,6 +78,9 @@
     <string id="bk_law_noble_duties" text="Soylu Görevleri" />
     <string id="bk_law_estate_tenure" text="Mülk Sahipliği" />
     <string id="bk_slavery" text="Kölelik" />
+		<string id="bk_law_tenancy" text="Ortakların Kiracığı" />
+		<string id="bk_law_high_council" text="Yüksek Kurul" />
+		<string id="bk_law_high_army" text="Ordu" />
 
     <string id="bk_rich" text="Zengin" />
     <string id="bk_adequate" text="Yeterli" />
@@ -135,22 +138,14 @@
     <string id="bk_council_privilege_noble_exclusive" text="Soylulara Özel" />
     <string id="bk_council_privilege_army_privilege" text="Ordu Ayrıcalığı" />
 
-    <string id="bk_council_privilege_low_wage_description"
-      text="Düşük bir günlük ücret, bir konseydeki daha az önemli pozisyonlar için uygun." />
-    <string id="bk_council_privilege_mid_wage_description"
-      text="Daha küçük konseylerdeki ana pozisyonlar veya kraliyet konseylerindeki orta düzey pozisyonlar için kullanılan vasat bir ücret." />
-    <string id="bk_council_privilege_high_wage_description"
-      text="Daha büyük, kraliyet konseylerinin ana pozisyonlarına münhasır, farklı bir günlük ücret." />
-    <string id="bk_council_privilege_influence_description"
-      text="Bu ayrıcalığa sahip Konsey üyeleri ekstra nüfuz (veya Güç, eğer ileri gelen ise ise) alır." />
-    <string id="bk_council_privilege_high_influence_description"
-      text="Bu ayrıcalığa sahip Konsey üyeleri klanlarına büyük bir nüfuz artışı sağlar." />
-    <string id="bk_council_privilege_clergymen_exclusive_description"
-      text="Bu pozisyon sadece klan veya krallığın inancına mensup din adamları tarafından doldurulabilir." />
-    <string id="bk_council_privilege_noble_exclusive_description"
-      text="Bu pozisyon önemli bir pozisyondur ve bu nedenle sadece soylular tarafından doldurulmalıdır. Yerleşim yerlerinin ileri gelenleri kabul edilemez." />
-    <string id="bk_council_privilege_army_privilege_description"
-      text="Bu pozisyon konsey üyesine geri alınamaz bir ordu kurma yetkisi verir." />
+    <string id="bk_council_privilege_low_wage_description" text="Düşük bir günlük ücret, bir saraydeki daha az önemli pozisyonlar için uygun." />
+    <string id="bk_council_privilege_mid_wage_description" text="Daha küçük saraylardaki ana pozisyonlar veya kraliyet saraylarındaki orta düzey pozisyonlar için kullanılan vasat bir ücret." />
+    <string id="bk_council_privilege_high_wage_description" text="Daha büyük, kraliyet saraylarının ana pozisyonlarına münhasır, farklı bir günlük ücret." />
+    <string id="bk_council_privilege_influence_description" text="Bu ayrıcalığa sahip saray üyeleri ekstra nüfuz (veya Güç, eğer ileri gelen ise ise) alır." />
+    <string id="bk_council_privilege_high_influence_description" text="Bu ayrıcalığa sahip saray üyeleri klanlarına büyük bir nüfuz artışı sağlar." />
+    <string id="bk_council_privilege_clergymen_exclusive_description" text="Bu pozisyon sadece klan veya krallığın inancına mensup din adamları tarafından doldurulabilir." />
+    <string id="bk_council_privilege_noble_exclusive_description" text="Bu pozisyon önemli bir pozisyondur ve bu nedenle sadece soylular tarafından doldurulmalıdır. Yerleşim yerlerinin ileri gelenleri kabul edilemez." />
+    <string id="bk_council_privilege_army_privilege_description" text="Bu pozisyon saray üyesine geri alınamaz bir ordu kurma yetkisi verir." />
 
     <string id="bk_council_description_marshall"
       text="{NAME} krallığın askeri yönetimini denetler. Yerleşim savunmasının etkinliğinden ve nüfusun askere alınmasından sorumludurlar." />
@@ -159,7 +154,7 @@
     <string id="bk_council_description_chancellor"
       text="{NAME} diplomasi konularında lordlarını temsil eder. Lordun akranları ve vasalları ile ilişkileri geliştirirler." />
     <string id="bk_council_description_spymaster"
-      text="Güvenlik ve kurnazlıktan sorumlu olan {NAME}, bir konseyin görevlerinin kirli tarafıyla ilgilenir. Lordlarının kişisel güvenliğinden sorumlu oldukları gibi, suç faaliyetleriyle de ilgilenirler ve bunları gerçekleştirirler." />
+      text="Güvenlik ve kurnazlıktan sorumlu olan {NAME}, bir sarayın kirli görevleriyle ilgilenir. Lordlarının kişisel güvenliğinden sorumlu oldukları gibi, suç faaliyetleriyle de ilgilenirler ve bunları gerçekleştirirler." />
     <string id="bk_council_description_spiritual"
       text="{NAME} bir lordun yakın çevresindeki inancın temsilcisidir. Görevleri maddi ve manevi güçler arasında bir köprü olmak ve efendilerinin inanç ilkelerine bağlı kalmasını sağlamaktır." />
     <string id="bk_council_description_elder"

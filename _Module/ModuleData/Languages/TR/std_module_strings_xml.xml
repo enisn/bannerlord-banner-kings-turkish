@@ -218,7 +218,7 @@
     <string id="CNNsfyzD" text="{MALE}Baro{?}Kraliçe{\\?}" />
     <string id="go9MmDKr" text="Domina" />
     <string id="rWJjN9N3" text="{MALE}Dominus{?}Kraliçe{\\?}" />
-    <string id="DQXH6NeY" text="Sultana" />
+    <string id="DQXH6NeY" text="Sultan" />
     <string id="8hKXBBMu" text="{MALE}Sultan{?}Kraliçe{\\?}" />
     <string id="MVjsWtcZ" text="Emira" />
     <string id="O8JU8PND" text="{MALE}Emir{?}Kraliçe{\\?}" />
@@ -232,11 +232,11 @@
     <string id="xTbcwLP8" text="{MALE}Kağan{?}Kraliçe{\\?}" />
     <string id="Mfuxa8SP" text="Bekhi" />
     <string id="E3oJ6wzZ" text="{MALE}Bahadır{?}Kraliçe{\\?}" />
-    <string id="cepkCz19" text="Khanum" />
+    <string id="cepkCz19" text="Hanım" />
     <string id="c14De2tC" text="{MALE}Kağan{?}Kraliçe{\\?}" />
-    <string id="Ajj9ptAU" text="Begum" />
+    <string id="Ajj9ptAU" text="Begüm" />
     <string id="L4g7rfjB" text="{MALE}Bey{?}Kraliçe{\\?}" />
-    <string id="dB9Rfp6W" text="Khatagtai" />
+    <string id="dB9Rfp6W" text="Çağatay" />
     <string id="ouUiDOuN" text="{MALE}Erxem{?}Kraliçe{\\?}" />
     <string id="LmHWN0vt" text="Velikaya Knyaginya" />
     <string id="eVZHT4T6" text="{MALE}Velikiy Knyaz{?}Kraliçe{\\?}" />
@@ -261,7 +261,7 @@
     <string id="7x3HJ29f" text="Krallık" />
     <string id="SuG07DUi" text="Yüksek krallık" />
     <string id="uEBLsMAb" text="İmparatorluk" />
-    <string id="MSaLufNx" text="Republic" />
+    <string id="MSaLufNx" text="Cumhuriyet" />
     <string id="5rmKW4c9" text="Prenslik" />
     <string id="GHeUbN6f" text="Boyardo" />
     <string id="eUi8JOkv" text="Voivodeship" />
@@ -774,7 +774,7 @@
     <string id="RWrMBAbv" text="Katafrakt" />
     <string id="y2zNEeT5" text="Zaferlerden kazanılan şöhreti %{EFFECT1} arttırır.&#10;" />
     <string id="uc7xjTQv" text="Diplomat" />
-    <string id="wAPqOuBe" text="August" />
+    <string id="wAPqOuBe" text="Seçkin" />
     <string id="H1igmZMn" text="1 şövalye eksiği vasal sınırına sayılır&#10;Ticaret cezası %{EFFECT2} artırıldı" />
     <string id="EJEkuBZ4" text="Halkın Lideri" />
     <string id="sCxt8vV7" text="Kasabaların yerleşke ağırlığı %{EFFECT 1} azaltıldı&#10;Parti büyüklüğü {EFFECT 2} azaltıldı." />
@@ -1326,7 +1326,7 @@
     <string id="FwXL7yLD" text="Şövalyelik, Şövalye Hizmeti veya askeri yardım karşılığında bir halktan birine bir Ücret (bir mülk veya lordluk) vermeyi içerir. Bir kez verildikten sonra mülkleri geri alınamaz. Lordluk verilen şövalyeler, kendi maiyetlerinin masraflarını karşılarlar ama aynı zamanda köyün geliri üzerinde de tüm haklara sahip olurlar. Şövalyeler klanınızın altında hizmet verirler ama sonunda kendi ailelerini kurmayı hedeflerler." />
     <string id="KfprN5px" text="{TITLE}, bu benim için bir onurdur. Sormak zorundayım, beni ne tür bir mülkle onurlandırırsınız?" />
     <string id="VjMG5nHH" text="Bir Lordluk." />
-    <string id="We2p3hwv" text="Bir emlak mülkü." />
+    <string id="We2p3hwv" text="Bir Emlak Mülkü." />
     <string id="uEX33Axr" text="{TITLE}, bir Lordluk çok cömert olurdu. Geliri, bir maiyet oluşturmamı ve bunun için tamamen bağımsız olmamı sağlar. Elbette, bir köy ne kadar çok kira üretirse, o kadar bize daha fazla asker sağlayabilirim." />
     <string id="op5kY5Qq" text="{TITLE}, bir arazi cömert olur. Geliri bir maiyetin ödenmesine yardımcı olur ve insan gücü, gönüllülere daha fazla erişmemizi sağlar. Daha fazla dönüme sahip araziler daha fazla gelir sağlar ve daha fazla insan gücü sağlar. " />
     <string id="g09DXXBc" text="Teşekkürler {TITLE}!" />
@@ -1391,7 +1391,7 @@
     <string id="SkfVh2Sp" text="{TITLE} {NAME}" />
     <string id="9ap6ssvZ" text="Klan lideri, {CLAN} için {MARSHAL} veya Lordluk seviyesinden daha yüksek bir ünvana sahip olmalısınız." />
     <string id="0Yoz051M" text="Klan lideri, {CLAN} için {MARSHAL} olmalısınız veya İlçe seviyesinden daha yüksek bir ünvana sahip olmalısınız." />
-    <string id="LZTFr8jR" text="{CLASS} sınıfında istisna." />
+    <string id="LZTFr8jR" text="{CLASS} sınıfında bir hata." />
     <string id="3dMr1P4W" text="Bir Banner Kings hatası algılandı. {FILE} içeriğini BannerKings modülünden destek kanalına gönderin." />
     <string id="gc8D4iH4" text="{FACTION1} ve {FACTION2} artık müttefik." />
     <string id="b3dURwfW" text="Imperatrix" />
@@ -1779,7 +1779,7 @@
     <string id="SOjZv8Yk" text="Askeri Görevler" />
     <string id="VNP7PvXs" text="{CLASS} sınıfının görev yasalarını askerlik hizmetine göre uyarlayın. Kapsamlı hizmet gereksinimleri, diyarı korumak için daha büyük bir insan gücü havuzu sağlar. Artan sınıf militarizmi ve milis hizmeti." />
     <string id="Jc476i8S" text="Soylu militarizmi +%4 düz%&#10;Milis kalitesi +%15" />
-    <string id="aTqOs6gr" text="Vergi Vergileri" />
+    <string id="aTqOs6gr" text="Vergi Görevleri" />
     <string id="wutCVGJU" text="{CLASS} vergi kanunlarını vergilendirmeye göre uyarlayın. Daha sıkı vergi tahsilatı ve daha fazla vergilendirme biçimi, {CLASS}'tan daha fazla dinar çıkarır. Vergi çıktısını artırır." />
     <string id="pzP0OzbV" text="Soyluların vergi çıktısı %25 artırıldı" />
     <string id="qGvM38At" text="Gevşek Görevler" />
@@ -1807,7 +1807,7 @@
     <string id="7Q9FJrZ8" text="Aseran Yasası" />
     <string id="szTYxGgd" text="Aserai halklarının uzun bir kölelik geleneği vardır. Aserai köleleri sadece bir ticari maldır ve bu nedenle ekonomide onlara olan talep oldukça yüksektir. ." />
     <string id="Z5Qopa2c" text="Köle talebi %50 arttı&#10;Köleler askeri insan gücü olarak sayılır&#10;Kölelerin sadakat etkisi %10 arttı" />
-    <string id="T4doWFdj" text="Manumission" />
+    <string id="T4doWFdj" text="Azat Etme" />
     <string id="kncwdEvN" text="Köle talebi %100 azaltıldı&#10;" />
     <string id="WCkAop4m" text="Hidage" />
     <string id="nasOsyDh" text="Hidage altında, arazi sahiplerinden, gizleme olarak hesaplanan arazilerine göre harçlar sağlamaları beklenir." />
@@ -2470,10 +2470,10 @@
     <string id="rW0p3wWb" text="Bir lejyon toplamak için devlet tarafından verilen gücü kullanın. Lejyon mülkiyeti yasası uyarınca, lejyonlar ordu toplama yetkisine sahiptir, aksi takdirde bu ayrıcalık genellikle hükümdar ve mareşalleriyle sınırlıdır." />
     <string id="91Hdy1y3" text="Lejyon toplama şansında artış" />
     <string id="ezGSFaau" text="Güney Toprakları'nın efsanevi atasının oğulları tarafından kurulan Asera Kanunları, konfedere Aserai kabilelerinin üyeleri arasında felsefe, sanat ve hukukun temelini oluşturur." />
-    <string id="Ccb1JncG" text="The creed of the Amra Ollamh, “that which is wondrous and great” - is the long-standing folkloric tradition of the people who dwell up the Uchalion plateau. Though outsiders are wont to confuse the Amra Ollamh as little more than tales of goblins, sprites, fair folk and woodland monsters - the creed itself is in fact a deeply involved cultural institution meant to instill the youth of Battania with the lessons of their forebears by way of colloquial metaphor." />
-    <string id="f1Jd0nwL" text="Though the Calradic Empire had long possessed an imperial cult to venerate Emperors who were deemed to be “deliverers” and “saviors” of the civilized world, during the latter years prior to the schism and inerrenegrum the practice of viewing all emperors as god-emperors had become vulgorously commonplace. It was during this period that doctrines and reforms attributed to the teenage Emperor Darusos, a figure infamously denied the rite of the divus by the generals who usurped him, were uncovered." />
-    <string id="sCvx3s88" text="Pérkenweyd is a native faith of the Calradian continent, stretching from the Kachyar peninsula to the Chertyg mountains. Thus, it is the natural faith of the Vakken and Sturgian peoples. Though the Sturgians have been in contact with different cultures and faiths, the Sturgian populace remains true to their ancestry." />
-    <string id="qrhkRi7R" text="The Canticles is a the history of deeds of the Vlandic peoples. It understands the world as a collection of sagas, of which all people are parts of. It does not discriminate between cultures, nor does it see itself as a 'faith', bur rather, a fact." />
+    <string id="Ccb1JncG" text="Amra Ollamh'ın 'harika ve yüce olan' inancı, Uchalion platosunda yaşayan insanların uzun süredir devam eden folklorik geleneğidir. Her ne kadar yabancılar Amra Ollamh'ı goblinler, periler, adil halk ve orman canavarları hikayeleriyle karıştırma eğiliminde olsalar da - inancın kendisi aslında Battania gençliğine atalarının derslerini atalarının dersleriyle aşılamayı amaçlayan derin bir kültürel kurumdur. konuşma dili metaforu." />
+    <string id="f1Jd0nwL" text="Her ne kadar Kalradya İmparatorluğu uzun süredir uygar dünyanın 'dirilticileri' ve 'kurtarıcıları' olarak kabul edilen İmparatorlara saygı gösteren bir imparatorluk kültüne sahip olsa da, ayrılık ve inerrenegrum'dan önceki son yıllarda tüm imparatorları tanrı-imparatorlar olarak görme uygulaması fazlasıyla sıradan hale gelmişti. Bu dönemde, kendisini gasp eden generaller tarafından divus ayini rezil bir şekilde reddedilen genç İmparator Darusos'a atfedilen doktrinler ve reformlar ortaya çıkarıldı." />
+    <string id="sCvx3s88" text="Pérkenweyd, Kachyar yarımadasından Chertyg dağlarına kadar uzanan Calradian kıtasının yerli bir inancıdır. Dolayısıyla, Vakken ve Sturgian halklarının doğal inancıdır. Sturgianlar farklı kültürler ve inançlarla temas halinde olsalar da, Sturgian halkı atalarına sadık kalmaya devam etmektedir." />
+    <string id="qrhkRi7R" text="Canticles, Vlandic halklarının eylemlerinin tarihidir. Dünyayı, tüm insanların bir parçası olduğu bir destanlar bütünü olarak görür. Kültürler arasında ayrım yapmaz ve kendisini bir 'inanç' olarak görmez, daha ziyade bir olgu olarak görür." />
     <string id="tGVFzJNr" text="Sizin {FAITH} inancına dahil olmanızı istiyorum." />
     <string id="VqS3E7Jp" text="{HERO}, kendi değerlerine, inanç değerlerine, bağnazlıklarına ve sizin hakkınızdaki düşüncelerine göre bunu kabul edebilir veya etmeyebilir." />
     <string id="14vM4nv3" text="{CONVERSION_DENIED_TEXT}" />
@@ -2512,10 +2512,10 @@
     <string id="eQi3froa" text="A sad story that reminds many of their powerlesness towards the ways of the world. The shepherd boy Kais and the nobleman's daughter Layala love each other, but they can never marry. The poem is Kais's lament as he wanders alone, unwilling to forget his true love, driving himself mad with longing. “The wind that blows the dry steppe dust...”" />
     <string id="WfjPoxGs" text="An allegoric Vlandic tale. It describes how a brave but rough warrior wins the heart of his lady by learning the virtues of chivalry, becoming a true and noble knight." />
     <string id="kDM2UWeE" text="A vlandic tale of love that can be interpreted either erotically or spiritually. The lover realizes the majesty of the divine by gazing upon the body of his beloved. The appeal to love through the naked body is offensive to the highly moralistic, yet compelling to those of more relaxed morals. “You are the first and the last...”" />
-    <string id="jAdG0wG9" text="{DESCRIPTION}&#10;{GOLD_AMOUNT}{GOLD_ICON}&#10;Language: {LANGUAGE}&#10;{SKILL}&#10;{TRAIT}" />
-    <string id="sLTkCtmc" text="Army creation limited by title level (minimum: Barony)&#10;Calling potential army leaders costs twice as much" />
+    <string id="jAdG0wG9" text="{DESCRIPTION}&#10;{GOLD_AMOUNT}{GOLD_ICON}&#10;Dil: {LANGUAGE}&#10;{SKILL}&#10;{TRAIT}" />
+    <string id="sLTkCtmc" text="Ordu oluşturma unvan düzeyiyle sınırlıdır (minimum: Baronluk)&#10;Potansiyel ordu liderlerini çağırmanın maliyeti iki kat daha fazla" />
     <string id="P1yotQ6Q" text="Army creation delegated to Legion Commander council positions&#10;Legion cohesion lasts longer&#10;Supply buildup reduced for armies&#10;Reduced influence for army participation&#10;Calling potential army leaders costs 5 times as much" />
-    <string id="bLDOCauy" text="Custom Start ({CURRENT})" />
+    <string id="bLDOCauy" text="Özel Başlangıç ({CURRENT})" />
     <string id="j7VPTVNU" text="None selected" />
     <string id="8bRUkyzN" text="You do not have any religions installed. Install the separate mod, 'Banner Kings: Cultures Expanded' for the official, lore-based BK religions. Alternatively, install another third party mod that adds BK religions." />
     <string id="Xs11nNCv" text="Din ({CURRENT})" />
@@ -2580,7 +2580,7 @@
     <string id="64RLFpQk" text="Burgage" />
     <string id="86XB5t44" text="A Burgage is a rental property with a town, owned by a lord. Such plots are rented in exchange for monetary payment, providing a steady source of income to their noble overlords." />
     <string id="zN4Tu7gN" text="Increased population cap in towns" />
-    <string id="Q3WGEVUS" text="Guilds" />
+    <string id="Q3WGEVUS" text="Loncalar" />
     <string id="sBeUMd2i" text="Enables the existance of guilds in towns" />
     <string id="9ZAOcfJL" text="Focused efforts on public infrastructure by the state, such as roads and bridges, allow better development of the economy." />
     <string id="6rowXRSC" text="Increased town prosperity and adm. costs" />
@@ -2593,7 +2593,7 @@
     <string id="vChTaa30" text="Cogs" />
     <string id="dzV81MuV" text="These large devices were often made of massive strong wooden blocks shaped into almost perfect circular discs. Metal teeth were then bolted into the disc such that an array of cogs can produce complex axes of motion. They were mainly used in sophisticated mill designs such as watermills or windmills. Such mechanical mills facilitate the process of milling grains to make bread, an extremely important item in the continent's general diet. However, other mills could be essential parts in industrial military forges for producing armour, weapons and horse equipment fit for massive imperial armies." />
     <string id="2Z7q6vuC" text="Increased production efficiency" />
-    <string id="dArUBiyz" text="Mills" />
+    <string id="dArUBiyz" text="Değirmenler" />
     <string id="XL0XiicC" text="A large contraption moved by the flow of water, wind or force. Mills largely facilitate the process of milling grains in order to make bread. Different types of mills may be constructed to fit any context - for example, a village with a river stream may use the flow of water to turn the mill. A more complex, but flexible mill could be moved by wind. Ultimately, however, they could simply be moved through slave labor." />
     <string id="GfP5BS66" text="Enables construction of mills" />
     <string id="q0mx2Q1V" text="A adaptation of the plough, but heavier and used for tougher, moist terrain. This plough allows more soil to be turned over, facilitating agricultural work and recycling nutriets found in deeper soil layers." />
@@ -2605,7 +2605,7 @@
     <string id="HxUTs5jM" text="Metallic horse shows protect the hooves of the animal against the deterioration caused by intense labor. With the advent of teams of horses instead of oxen to pull ploughs, the shoes amplify the animal's advantage of working longer by protecting it moving ability." />
     <string id="VZf7THzN" text="Significantly improved construction speed&#10;Increased production efficiency" />
     <string id="T50kP1RT" text="Significantly increased production efficiency" />
-    <string id="hCtTmyc6" text="Half-Plate Armor" />
+    <string id="hCtTmyc6" text="Yarım Plaka Zırhı" />
     <string id="vbt5GH5r" text="Enables the production of half-plated and similar armors" />
     <string id="iRtPLg1P" text="Compass" />
     <string id="T8bPd7W6" text="An instrument used to tell the cardinal directions, extensively used in long travels, by ship or land." />
@@ -2620,11 +2620,11 @@
     <string id="bky09Vyw" text="Perassic Trade Network" />
     <string id="qGPDAaM2" text="Egalitarianism is a political stance of those that defy the Calradian systems of hierarchy. Egalitarians seek to distribute power and resources, and as such defend policies and laws that favor the general people and/or petty lords. Women often tend more towards this stance, given theyr are often disfavored in matters of kingdom law." />
     <string id="CKtSLBtN" text="Oligarchism is the political stance of those that find themselves in a powerful group and seek to preserve that power. The ultimate example of oligarchists are dukes - lords of high station that, more often than not, seek to pass policies and laws that preserve their power, at the expense of lower groups, or even their ruler. Oligarchists understand their strength lies in supporting each other, as a power structure rather than singular powerful individuals, and so seek to fortify their class as a whole, as opposed to exclusively themselves. Oligarchic lords often support feudal and republic governments, as well as any elective form of succession, which limit the power of the ruling dynasty and allow them to thrive." />
-    <string id="H9feq6aD" text="Authoritarism describes the political support of strong rule. This often means strength through might - iron first ruling. Rulers, more than anyone, stand to benefit from such political views. Authoritarian lords often support laws and policies that benefit the ruling dynasty, in favor of said strong rule. Of course, many times it comes at the expense of others, such as the vassal lords, or the general population. Authoritarian minded lords are often aligned with monarchies, empires and succession forms that are not elective - for that would mean uncertain heirs, and inevitably weak rulers." />
-    <string id="7gyGorco" text="Attractiveness" />
-    <string id="vCix4HE5" text="Intellect" />
-    <string id="WUOPDtXU" text="A person's ability to understand topics in depth. It is a trait inherited from one's parents. Persons with good intellect are considered more Intelligent and learn topics quicker.&#10;Effects:&#10;Added Intelligence points&#10;Faster skill learning" />
-    <string id="n9zy2NHn" text="Robustness" />
+    <string id="H9feq6aD" text="Otoriterlik, güçlü yönetimin siyasi desteğini tanımlar. Bu genellikle kudret yoluyla güç anlamına gelir; demirin ilk kuralı. Bu tür siyasi görüşlerden herkesten çok yöneticiler faydalanır. Otoriter lordlar genellikle söz konusu güçlü yönetim lehine, iktidardaki hanedanlığın yararına olan yasa ve politikaları desteklerler. Elbette çoğu zaman bu, vasal lordlar veya genel nüfus gibi diğerlerinin pahasına olur. Otoriter düşünceye sahip lordlar genellikle monarşiler, imparatorluklar ve seçmeli olmayan veraset biçimleriyle aynı çizgidedir; çünkü bu, belirsiz mirasçılar ve kaçınılmaz olarak zayıf yöneticiler anlamına gelir." />
+    <string id="7gyGorco" text="Çekicilik" />
+    <string id="vCix4HE5" text="Entelektüel" />
+    <string id="WUOPDtXU" text="Bir kişinin konuları derinlemesine anlama yeteneği. Bu, kişinin ebeveynlerinden miras aldığı bir özelliktir. İyi zekaya sahip kişiler daha Zeki sayılır ve konuları daha hızlı öğrenir.&#10;Etkileri:&#10;Ekstra Zeka Puanları&#10;Daha hızlı beceri öğrenimi" />
+    <string id="n9zy2NHn" text="Sağlamlık" />
     <string id="87tL6n8N" text="Seductiveness is one's ability to sexually charm someone else. Seductive persons have an easier time coupling with their spouses and are more liked as marriage prospects.&#10;Effects:&#10;Increased fertility&#10;Characters are more sexually attracted to you" />
     <string id="wUN3wtHS" text="Justice is the appropriate punishment and reward for a given deed. Just rulers are often respected by their vassals for delivering appropriate sentences, but also adequately rewarding loyalty.&#10;Effects:&#10;Increased settlement stability&#10;Decreased relation loss from political disagreements" />
     <string id="40JCKFO7" text="Humility describes a person's ability to restrain their ego. Humble persons are often more generally likable by their peers, by those who outrank them and those beneath them.&#10;Effects:&#10;Increased settlement loyalty&#10;Improved relations gain" />
@@ -2714,12 +2714,12 @@
     <string id="6kaEF0qo" text="Karanlık Çağ" />
     <string id="5dayLuhU" text="İç Savaş'tan sonraki dönem hakkında çok az şey biliniyor... Ancak, akademisyenlerin hepsi 2 yüzyıl içinde imparatorluğun tamamen yok olduğu konusunda hemfikirdir. Ordular şehirleri yağmaladı ve yerle bir etti, inançlar ve kültürler yok oldu ve karanlıktan yeni krallıklar doğdu. Yine de hiçbiri Imperium kadar güçlü bir ışık saçmadı." />
     <string id="67UAi5rW" text="Bir tüccarlar birliği. Bir grup olarak, tüccarlar mümkün olan en serbest pazarlara sahip olmaya çalışırlar, soylu derebeylerine veya diğer düzenlemelere gümrük tarifelerinden kaçınırlar.&#10;Etkileri:&#10;Artan merkantilizm&#10;Artan kervan çekiciliği" />
-    <string id="PwJdEYOg" text="An association of construction workers and engineers. Masons are responsible for stonework in construction and hence essential for towns and castles.&#10;Effects:&#10;Improved construction power" />
-    <string id="GwK8yr0R" text="An association of various types of metalworkers, such as tool makers, horseshoe makers, among others." />
-    <string id="09qT3Guk" text="Gods of Fate" />
+    <string id="PwJdEYOg" text="İnşaat işçileri ve mühendislerden oluşan bir dernek. Duvarcılar, inşaatlarda taş işçiliğinden sorumludur ve bu nedenle şehirler ve kaleler için gereklidir.&#10;Etkileri:&#10;Geliştirilmiş inşaat gücü" />
+    <string id="GwK8yr0R" text="Diğerlerinin yanı sıra alet yapımcıları, at nalı yapımcıları gibi çeşitli metal işçilerinin oluşturduğu bir dernek." />
+    <string id="09qT3Guk" text="Kaderin Tanrıları" />
     <string id="TqfndFAk" text="According to the Junme, the world revolves around the concept of Urthr - or in other words, fate. The gods are stewards of the Great Oak that mankind inhabits, keeping its roots and leaves from rotting. Moreover, the gods are the force of justice that fights Ásbani, the God-Devouring Serpent. The gods of fate, they say, give man what is just - rewards to those who are brave and virtuous, and punishment to the wicked, for they do not weave what choices a man makes, but they do the consequences." />
     <string id="JHhJgEzt" text="Signicantly increased renown and influence from battles" />
-    <string id="iE8OCyCv" text="Gods" />
+    <string id="iE8OCyCv" text="Tanrılar" />
     <string id="4bVzgqO8" text="Gundar" />
     <string id="7S0RFBFv" text="Ancestor Hero" />
     <string id="TrhurNid" text="Arkina" />
