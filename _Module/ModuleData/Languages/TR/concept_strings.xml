@@ -1,0 +1,16 @@
+
+<base xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" type="string">
+    <tags>
+      <tag language="Türkçe" />
+    </tags>
+    <strings>
+      
+      <string id="NvnA9WyM" text="Kitaplar" />
+      <string id="KBsVXEtH" text="Diller" />
+      <string id="5yiE49du" text="Mülkler" />
+      <string id="2qXtnwSn" text="Unvanlar" />
+      <string id="1wRI8yd9" text="Yerleşke Kanunları" />
+      <string id="6QMDGRSt" text="Yerleşke" />
+  
+    </strings>
+  </base>

@@ -122,12 +122,6 @@
     <string id="bk_crafting_itemtype_shield" text="Kalkanlar" />
     <string id="bk_crafting_itemtype_ammo" text="Cephaneler" />
 
-    <string id="bk_modifier_purebred" text="Safkan {ITEMNAME}" />
-    <string id="bk_modifier_strong" text="Güçlü {ITEMNAME}" />
-    <string id="bk_modifier_stubborn" text="İnatçı {ITEMNAME}" />
-    <string id="bk_modifier_anaemic" text="Kansız {ITEMNAME}" />
-    <string id="bk_modifier_poor" text="Kötü {ITEMNAME}" />
-
     <string id="bk_privileges" text="Ayrıcalıklar" />
     <string id="bk_council_privilege_low_wage" text="Düşük Maaş" />
     <string id="bk_council_privilege_mid_wage" text="Normal Maaş" />
@@ -175,12 +169,84 @@
     <string id="bk_council_description_courtmusician"
       text="{NAME} soylu bir hanenin ve çoğunlukla ziyafetlerde misafirlerinin ağırlanmasından sorumludur. Ziyafetler yüksek sosyetenin kendi aralarında etkileşime geçmesinin yaygın bir yolu olduğundan, özel eğlence görevlileri de dahil olmak üzere birçok pahalı olanak beklenir." />
 
-    <string id="bk_skill_scholarship_learn"
-      text="Kitap okuyun, dil öğrenin, yaşam tarzlarında ilerleyin. Yerleşim yerlerindeki kitap satıcıları ile aktif olarak öğrenin." />
-    <string id="bk_skill_theology_learn"
-      text="Olumlu bir dindarlık kazanımı içinde olun. Ayinler ve dönüşümler gerçekleştirin. Kutsama alın." />
-    <string id="bk_skill_lordship_learn"
-      text="Yerleşimlerinizin yasal sahibi olun. Hibe, gasp ve buluntu tapu gibi tapu işlemlerini gerçekleştirin." />
+
+      <string id="bk_council_marshall_empire" text="Domesticus" />
+      <string id="bk_council_chancellor_empire" text="Cancellarius" />
+      <string id="bk_council_steward_empire" text="Praefectus Largitionum" />
+      <string id="bk_council_spymaster_empire" text="Custodis" />
+
+      <string id="bk_council_marshall_royal_empire" text="Magister Domesticus" />
+      <string id="bk_council_chancellor_royal_empire" text="Magister Cancellarius" />
+      <string id="bk_council_steward_royal_empire" text="Magister Sacrarum Largitionum" />
+      <string id="bk_council_spymaster_royal_empire" text="Magister Officiorum" />
+      <string id="bk_council_spiritual_guide_empire" text="Yüksek Seneschal" />
+
+      <string id="bk_council_marshall_battania" text="Marasgal" />
+      <string id="bk_council_chancellor_battania" text="Sheumarlan" />
+      <string id="bk_council_steward_battania" text="Seansalair" />
+      <string id="bk_council_spymaster_battania" text="Treòraiche" />
+      <string id="bk_council_spiritual_guide_battania" text="Draoidh" />
+
+      <string id="bk_council_marshall_royal_battania" text="Ard Marasgal" />
+      <string id="bk_council_chancellor_royal_battania" text="Ard Sheumarlan" />
+      <string id="bk_council_steward_royal_battania" text="Ard Seansalair" />
+      <string id="bk_council_spymaster_royal_battania" text="Ard Treòraiche" />
+      <string id="bk_council_spiritual_guide_battania" text="Ard Draoidh" />
+
+      <string id="bk_council_marshall_vlandia" text="Mareşal" />
+      <string id="bk_council_chancellor_vlandia" text="Şansolye" />
+      <string id="bk_council_steward_vlandia" text="Komiser" />
+      <string id="bk_council_spymaster_vlandia" text="Casus Lideri" />
+      <string id="bk_council_spiritual_guide_vlandia" text="Seneschal" />
+
+      <string id="bk_council_marshall_royal_vlandia" text="Büyük Mareşal" />
+      <string id="bk_council_chancellor_royal_vlandia" text="Yüksek Şansolye" />
+      <string id="bk_council_steward_royal_vlandia" text="Yüksek Komiser" />
+      <string id="bk_council_spymaster_royal_vlandia" text="Büyük Casus Lideri" />
+      <string id="bk_council_spiritual_guide_vlandia" text="Yüksek Seneschal" />
+
+      <string id="bk_council_marshall_khuzait" text="Jagutu-iin Darga" />
+      <string id="bk_council_chancellor_khuzait" text="Şansolye" />
+      <string id="bk_council_steward_khuzait" text="Komiser" />
+      <string id="bk_council_spymaster_khuzait" text="Khevtuul" />
+      <string id="bk_council_spiritual_guide_khuzait" text="Kam" />
+
+      <string id="bk_council_marshall_royal_khuzait" text="Tumetu-in Noyan" />
+      <string id="bk_council_chancellor_royal_khuzait" text="Yüksek Şansolye" />
+      <string id="bk_council_steward_royal_khuzait" text="Yüksek Komiser" />
+      <string id="bk_council_spymaster_royal_khuzait" text="Çerbi" />
+      <string id="bk_council_spiritual_guide_khuzait" text="Kam" />
+
+      <string id="bk_council_marshall_sturgia" text="Mareşal" />
+      <string id="bk_council_chancellor_sturgia" text="Şansolye" />
+      <string id="bk_council_steward_sturgia" text="Komiser" />
+      <string id="bk_council_spymaster_sturgia" text="Casus Lideri" />
+      <string id="bk_council_spiritual_guide_sturgia" text="Volkhv" />
+
+      <string id="bk_council_marshall_royal_sturgia" text="Büyük Mareşal" />
+      <string id="bk_council_chancellor_royal_sturgia" text="Yüksek Şansolye" />
+      <string id="bk_council_steward_royal_sturgia" text="Yüksek Komiser" />
+      <string id="bk_council_spymaster_royal_sturgia" text="Büyük Casus Lideri" />
+      <string id="bk_council_spiritual_guide_sturgia" text="Volkhv" />
+
+      <string id="bk_council_marshall_aserai" text="Mareşal" />
+      <string id="bk_council_chancellor_aserai" text="Şansolye" />
+      <string id="bk_council_steward_aserai" text="Komiser" />
+      <string id="bk_council_spymaster_aserai" text="Casus Lideri" />
+      <string id="bk_council_spiritual_guide_aserai" text="Mürşid" />
+
+      <string id="bk_council_marshall_royal_aserai" text="Büyük Mareşal" />
+      <string id="bk_council_chancellor_royal_aserai" text="Yüksek Şansolye" />
+      <string id="bk_council_steward_royal_aserai" text="Yüksek Komiser" />
+      <string id="bk_council_spymaster_royal_aserai" text="Büyük Casus Lideri" />
+      <string id="bk_council_spiritual_guide_aserai" text="Mürşid" />
+
+    <string id="bk_spiritual_guide" text="Spiritüel Rehber" />
+
+    <string id="bk_skill_scholarship_learn" text="Kitap okuyun, dil öğrenin, yaşam tarzlarında ilerleyin. Yerleşim yerlerindeki kitap satıcıları ile aktif olarak öğrenin." />
+    <string id="bk_skill_theology_learn" text="Olumlu bir dindarlık kazanımı içinde olun. Ayinler ve dönüşümler gerçekleştirin. Kutsama alın." />
+    <string id="bk_skill_lordship_learn" text="Yerleşimlerinizin yasal sahibi olun. Hibe, gasp ve buluntu tapu gibi tapu işlemlerini gerçekleştirin." />
+
     <string id="pop_class_nobles" text="Soylular" />
     <string id="pop_class_craftsmen" text="Zanaatkarlar" />
     <string id="pop_class_serfs" text="Serfler" />
