@@ -95,8 +95,8 @@
     <string id="mXfR84iG" text="Soylularla görüşürken {SKILL} yeteneğinizi geliştirdiniz ve {INFLUENCE} nüfuz kazandınız." />
     <string id="DHMTLgw4" text="Sağlık sorunları nedeniyle mevcut eyleminizi durdurduk." />
     <string id="ocT5sL1n" text="{SETTLEMENT} kuşatması sonrasında {NUMBER} kişi öldürüldü." />
-    <string id="6HgSqiDc" text="Emekli Kışlası" />
-    <string id="UNLMYRGm" text="Kale retinuesu için kışla, seçkin askerler grubu. Retinue, zamanla garnizona eklenecek ve 20, 40 veya 60 (bina seviyesine göre) sınırına ulaşacaktır." />
+    <string id="6HgSqiDc" text="Maiyet Kışlası" />
+    <string id="UNLMYRGm" text="Kale Maiyetleri için kışla, seçkin askerler grubu. Maiyet, zamanla garnizona eklenecek ve 20, 40 veya 60 (bina seviyesine göre) sınırına ulaşacaktır." />
     <string id="5TbiMahb" text="Konsey etkisi" />
     <string id="f2V1XRaf" text="{OWNER}, sizi {POSITION} olarak atadı." />
     <string id="Eu97WkgX" text="{RELIGION} - {PIETY} dindarlık" />
@@ -163,7 +163,7 @@
     <string id="wTcCEBLB" text="Özgür bir ruh, kıtayı kısıtlamalar veya açık bir hedef olmadan dolaşıyorsunuz.Dünya almak için, payınızı alacak mısın? " />
     <string id="2fcEecjz" text="Vanilya başlıyor.Birlik, mal veya herhangi bir fayda yok. " />
     <string id="2VoYzCNj" text="Borçlu Lord" />
-    <string id="P1rwCkZJ" text="Bir dizi miras alınan sorun ve kötü karardan sonra kendinizi borç içinde bulursunuz.Minnettarım, sen lordluğunuzun geliri olan bir Land Lord'sun.Sadakatleri denar eksikliği ile test edilecek olsa da, bir gıda arzı ve küçük bir retinue size eşlik ediyor ... " />
+    <string id="P1rwCkZJ" text="Bir dizi miras alınan sorun ve kötü karardan sonra kendinizi borç içinde bulursunuz.Minnettarım, sen lordluğunuzun geliri olan bir Land Lord'sun.Sadakatleri denar eksikliği ile test edilecek olsa da, bir gıda arzı ve küçük bir maiyet size eşlik ediyor ... " />
     <string id="kLHXZnLY" text="Paralı Asker" />
     <string id="wcWg3KPt" text="İstihdam bulmak için kıtada dolaşan ücretsiz bir paralı asker olarak hizmet ediyorsunuz.Uzun bir işsizlik döneminden sonra, şirketinizi küçük moral, yiyecek ve finans ile çöküşün eşiğinde bulursunuz. " />
     <string id="G2yNVZ9R" text="Bir paralı asker grubu ile başlayın, altın ve yiyecekleri yağmalamaya ihtiyaç duyar.Parti morali 5 yıl azaldı.Paralı yaşam tarzı eğitiminizin bir parçası olarak başladı. " />
@@ -1472,7 +1472,7 @@
     <string id="vArnerHC" text="Varis" />
     <string id="89Wxt2hs" text="Kraliyet:" />
     <string id="mxVj1euY" text="Evlilik" />
-    <string id="RDDOdoeR" text="The Peerage of {CLAN} does not allow starting elections." />
+    <string id="RDDOdoeR" text="{CLAN}, Soyluluk seçimlerin başlatılmasına izin vermiyor." />
     <string id="0bet1Am4" text="{TEXT}&#10;&#10;{EXPLANATIONS}" />
     <string id="SJZmL2Co" text="Yasa tarihi:" />
     <string id="yAPnOQQQ" text="Yasa Çıkar" />
@@ -1600,9 +1600,9 @@
     <string id="S9S5PCrP" text="Ziyafetiniz için konukları seçin. Ülkenizden en az 3 farklı klan seçin. Unutmayın, misafirlerin beklentileri olacaktır. Çok çeşitli, kaliteli ve bol yemek isteyeceklerdir. ayrıca çok fazla alkol ve ev sahibinin de hazır bulunmasını bekleyecek." />
     <string id="YR4uDhkZ" text="Çok az misafir! En az 3 klanı bir ziyafete davet edin." />
     <string id="sdpM1PD3" text="Tam Hakimiyet İste" />
-    <string id="O7LLRFEX" text="Ailenizin krallığın tam bir Akranı olarak tanınmasını talep edin. Tam bir Peer'ın oy kullanma, seçim başlatma, şövalyelik verme, bir sarayı barındırma veya tımarla ödüllendirilme konusunda yasal kısıtlamaları yoktur. diyarın asaletinin zirvesindedir. Başarılı bir şekilde Peerage talebinde bulunmak, ünlü olmayı (minimum klan 4. kademe tavsiye edilir) ve tam Akranlarla iyi ilişkilere sahip olmayı gerektirir. Mülk sahibi olmak (kervanlar, atölyeler, malikaneler, lordluklar) da iyi bir pozitif faktördür. &#10;" />
+    <string id="O7LLRFEX" text="Ailenizin krallığın tam bir soylusu olarak tanınmasını talep edin. Tam bir Peer'ın oy kullanma, seçim başlatma, şövalyelik verme, bir sarayı barındırma veya tımarla ödüllendirilme konusunda yasal kısıtlamaları yoktur. diyarın asaletinin zirvesindedir. Başarılı bir şekilde soyluluk talebinde bulunmak, Nam gerektirir (minimum klan 4. kademe tavsiye edilir) ve tam soylularla iyi ilişkilere sahip olmayı gerektirir. Mülk sahibi olmak (kervanlar, atölyeler, malikaneler, lordluklar) da iyi bir pozitif faktördür. &#10;" />
     <string id="SjBky9Op" text="Paralı Askerler Hakimlik talebinde bulunamaz" />
-    <string id="HCMiSysD" text="Peerage'ın tüm haklarını talep edin. Oylama yetkisine sahip mevcut Gruplardan herhangi biri karara katılabilir. {CLAN} onayı için mevcut destek: %{SUPPORT}." />
+    <string id="HCMiSysD" text="Soyluluğun tüm haklarını talep edin. Oylama yetkisine sahip mevcut Gruplardan herhangi biri karara katılabilir. {CLAN} onayı için mevcut destek: %{SUPPORT}." />
     <string id="5YsS2g7T" text="{KINGDOM} Üyeleri şimdi isteğinizi oylayacak." />
     <string id="Nhceg9ks" text="Rastgele bir Aserai Banu ile günlük ilişki kazanma şansı&#10;Destekleyici kararlar için azaltılmış etki maliyeti" />
     <string id="PA5PCfxE" text="Yalnızca Aserailerden oluşan bir partiyi yönetmesiyle günlük olarak ünlü&#10;Aserai birliklerini askere almak daha ucuza gelir" />
@@ -1614,15 +1614,15 @@
     <string id="c7niULaT" text="Bir sonraki {LAW} yerleşke yasası için oy verin" />
     <string id="OMkKKOYG" text="Yerleşke yasasının {LAW} devamını destekliyoruz" />
     <string id="H5yaNxnY" text="Bölge yasasının çıkarılmasını destekliyoruz {LAW}" />
-    <string id="7Pzp6SQ6" text="Diyarın Akranları artık {CLAN}'ın {PEERAGE} sahibi olduğunu düşünüyor. {TEXT}" />
+    <string id="7Pzp6SQ6" text="Diyarın Soyluları artık {CLAN}'ın {PEERAGE} sahibi olduğunu düşünüyor. {TEXT}" />
     <string id="dpGtisyQ" text="{KINGDOM} hükümdarı olarak, {CLAN}'a tam Hakimiyet verilmesini onaylayıp onaylamayacağınıza karar vermelisiniz." />
     <string id="DAEq21QX" text="{CLAN}'a tam Hakimiyet vermek için oy verin" />
-    <string id="O2Wi49eq" text="Ülkedeki Akranlar, {CLAN}'ı yeni bir tam Akran olarak onayladı" />
-    <string id="VOmEWvW5" text="Krallığın Akranları, {CLAN}'ı yeni bir tam Akran olarak reddetti" />
+    <string id="O2Wi49eq" text="Ülkedeki Soylular, {CLAN}'ı yeni bir tam soylu olarak onayladı" />
+    <string id="VOmEWvW5" text="Krallığın Soyluları, {CLAN}'ı yeni bir tam soylu olmasını reddetti" />
     <string id="6oqeHqiZ" text="Krallığın eşleri, {CLAN}'a Hakimiyet verilmesine karar verecek." />
     <string id="HiXMs6fF" text="{CLAN}'a Yetki verilmesi için oy verin" />
-    <string id="9bbE5rCe" text="{CLAN}'a Yetki verilmesini destekliyoruz" />
-    <string id="LaXVFt4S" text="{CLAN}'a Peerage verilmesine karşıyız" />
+    <string id="9bbE5rCe" text="{CLAN}'a tam soyluluk verilmesini destekliyoruz" />
+    <string id="LaXVFt4S" text="{CLAN}'a soyluluk verilmesine karşıyız" />
     <string id="pKtOLvPi" text="{OWNER} Sahibinin Mülkü" />
     <string id="U6bVmS8Z" text="Artık {SETTLEMENT}'da bir mülkün sahibisiniz" />
     <string id="sfF4US9P" text="Maden kaynaklarının yerel olarak araştırılması için maden kazın. Cevherler, mevcut yerel kaynaklar ve yerin zenginliği ile sınırlı olacaktır. Seviyeler cevher üretimini artırır." />
@@ -1820,7 +1820,7 @@
     <string id="aNSCjnzn" text="Yapay zekanın şövalye oluşturma yeteneğini etkinleştirin. Dünyaya çok sayıda kahraman ekler ve performansı etkileyebilir. Varsayılan: Aktif." />
     <string id="UgfQur9G" text="AI Yönetimi" />
     <string id="3tCf6aOi" text="Unvanları ne zaman vereceğini hesaplayarak yapay zekanın kendi alanlarını ve vasallarını yönetme yeteneğini etkinleştirin. Varsayılan: Aktif." />
-    <string id="tT53t7ny" text="Hükümdarınız {SUZERAIN}, sizi askeri yardım yemininizi yerine getirmeniz için çağırdı. Şu anda {SETTLEMENT}'e yakın olan {ARMY}'ye katılmak için {DAYS} gününüz var. Yerine getirilemiyor adını ve hükümdarınla birlikte durmanı lekeleyecek." />
+    <string id="tT53t7ny" text="Hükümdarınız {SUZERAIN}, sizi askeri yardım yemininizi yerine getirmeniz için çağırdı. Şu anda {SETTLEMENT}'e yakın olan {ARMY}'ye katılmak için {DAYS} gününüz var. Yerine getirmemek, hükümdarının karşısında adını ve şerefini lekeleyecek." />
     <string id="CyF16uSZ" text="Turnuva şu ödülle başladı: {PRIZE}" />
     <string id="Fin3KXMP" text="Mal Üretimi:" />
     <string id="RmEtkH3A" text="Geri Al" />
@@ -2399,7 +2399,7 @@
     <string id="0BUor31V" text="İki krallık arasındaki bir ittifak, karşılıklı savunma amaçlı askeri yardım beklentisi oluşturur. Önerilen hükümdarın bir ittifakı düşünmesi için en az bir nedeni (sonuç &gt; 0) olması gerekir. Daha fazla bilgi için Ansiklopedi'deki İttifaklar kavramına bakın." />
     <string id="0kB61iLq" text="Gönüllülük" />
     <string id="KU4x1UyH" text="Savaş Desteği" />
-    <string id="EQvJ3xVZ" text="Bu krallığın Asilleri tarafından hedef krallığa karşı savaşa verilen genel destek. Burada temsil edilmeyen farklı Casus Belli ve bireylerin hedefleri ve kişilikleri nihai sonucu etkiler. Dolayısıyla, oy veren her Akranın savaşa yönelik farklı bir desteği olacaktır, ya lehte (sonuç &gt; 0) ya da aleyhte (sonuç &lt; 0), bir sonucun veya diğerinin olasılığı tüm desteklerin toplamıdır. Daha fazla bilgi için Ansiklopedi'deki Savaş Desteği kavramına bakınız." />
+    <string id="EQvJ3xVZ" text="Bu krallığın Asilleri tarafından hedef krallığa karşı savaşa verilen genel destek. Burada temsil edilmeyen farklı Casus Belli ve bireylerin hedefleri ve kişilikleri nihai sonucu etkiler. Dolayısıyla, oy veren her soylunun savaşa yönelik farklı bir desteği olacaktır, ya lehte (sonuç &gt; 0) ya da aleyhte (sonuç &lt; 0), bir sonucun veya diğerinin olasılığı tüm desteklerin toplamıdır. Daha fazla bilgi için Ansiklopedi'deki Savaş Desteği kavramına bakınız." />
     <string id="ts5eguUE" text="Genel Destek" />
     <string id="krTq3JMM" text="Soylu" />
     <string id="TrckwZCf" text="Aile" />
@@ -2519,7 +2519,6 @@
     <string id="QZ2WbQM3" text="Gemi veya kara yoluyla yapılan uzun yolculuklarda yaygın olarak kullanılan, ana yönleri gösteren bir alet." />
     <string id="eoPaEKTc" text="Usturlap" />
     <string id="WST44T3P" text="." />
-    <string id="kyB8tkgY" text="Saray Pozisyonu" />
     <string id="jZuybjGC" text="{CULTURE} kültürü artık {ERA} çağında!" />
     <string id="oQAeHzY3" text="Purple Dye{@Plural}jars of purple dye{\\@}" />
     <string id="6U2zYiq6" text="Whale Meat{@Plural}loads of whale meat{\\@}" />
@@ -2661,10 +2660,10 @@
     <string id="5gzhw4rV" text="Tüm bölgelerde ağırlıklı olarak bu kültürü takip eden yerleşimlerin sayısı." />
     <string id="h8mdkzGr" text="Araştırma projesi, bir yeniliği ilerletmeye yönelik kişisel bir çabadır. Kültür Başkanı olsanız da olmasanız da bir yeniliği araştırabilirsiniz. Araştırma yapmak, yeniliğin türüne (Binalar, Askeri, Sivil, vb.) bağlı olarak Bursunuzu ve ek bir becerinizi artıracaktır.{newline}{newline}Araştırmanızda ilerleme kaydetmek için dost bir tımarı ziyaret edin, Sancak Krallarını seçin -&gt; Bir Eylem Yapın -&gt; Araştırın." />
     <string id="MCZRq8Ke" text="Kültürel hayranlık, diğerlerinden daha hızlı ilerleyen bir yeniliktir. Kültür Başkanı olarak hayranlığı siz belirleyebilirsiniz. Büyüleyiciliği değiştirmek hiçbir maliyet getirmez." />
-    <string id="xve1zriF" text="{HERO} is currently available for teaching. Their current location is: {LOCATION}" />
-    <string id="ZJzjhHNd" text="{HERO} is not available for teaching: either they are not part of your family or do not like you enough." />
-    <string id="g9WenypY" text="Enter dialogue with your retainers. You can command and manage their party." />
-    <string id="BuRha0Av" text="Your estate either does not have a retinue yet or it is currently travelling. The retinue must be within the settlement so dialogue can be entered with this option." />
+    <string id="xve1zriF" text="{HERO} şu anda ders vermek için uygun. Şu anki konumları: {LOCATION}" />
+    <string id="ZJzjhHNd" text="{HERO} öğretim için uygun değil: ya ailenizin bir parçası değil ya da sizi yeterince sevmiyor." />
+    <string id="g9WenypY" text="Maiyetindeki kişilerle diyaloğa gir. Onların partisini yönetebilir ve komuta edebilirsiniz." />
+    <string id="BuRha0Av" text="Mülkünüzün ya henüz bir maiyeti yoktur ya da şu anda seyahat etmektedir. Bu seçenekle diyaloğa girilebilmesi için maiyetin yerleşim yeri içinde olması gerekir." />
     <string id="D2wXBQAU" text="{POSSIBLE}{newline}Grant this property to {HERO}. They serve the {CLAN} clan ({OWNER}) and have {OPINION} opinion towards you." />
     <string id="mgL0UYTE" text="sizin klanınız" />
     <string id="06vrmp18" text="Eşlikçiler" />
@@ -3150,7 +3149,7 @@
     <string id="Dhz4U9OP" text="{DIVINITY_NAME}" />
     <string id="91fF5d2N" text="{DIVINITY_TEXT}" />
     <string id="3wUbufLY" text="{DIVINITY_LAST_TEXT}" />
-    <string id="oDbBSRn6" text="{RESARCH} araştırıyorsunuz. Mevcut araştırmada ilerlemeniz {POINTS} puandır." />
+    <string id="oDbBSRn6" text="{RESARCH} araştırıyorsunuz. Mevcut araştırmada katkınız {POINTS} olacak." />
     <string id="v4RfkZ9Q" text="Gemi Al" />
     <string id="ufDdSBDk" text="Gemi Yolculuğu (1/2)" />
     <string id="pmAiqwfC" text="Bu yerleşimin kullanabileceği deniz yollarından birini seçin." />

@@ -7,5 +7,5 @@
 	<LanguageFile xml_path="TR/estates.xml" />
 	<LanguageFile xml_path="TR/council.xml" />
 	<LanguageFile xml_path="TR/workshops.xml" />
-	<LanguageFile xml_path="TR/concept_strings.xml" />
+	<!-- <LanguageFile xml_path="TR/concept_strings.xml" /> -->
 </LanguageData>
